@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/Prototype/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Prototype/Content/Custom/Bullet.uasset",
+				"D:/Prototype/Content/Custom/Gun.uasset",
+				"D:/Prototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/O2/DTI57MG18HNFI9LLZW4VCH.uasset",
+				"D:/Prototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/X5/36RYHOOF234VURGDL0C7L8.uasset",
+				"D:/Prototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/EJ/SZ07QBZI6SC7Z0RWPN22MP.uasset",
+				"D:/Prototype/Content/CustomBlueprints/Bullet.uasset",
+				"D:/Prototype/Content/CustomBlueprints/Gun.uasset",
+				"D:/Prototype/Content/CustomBlueprints/Normal/Bullet.uasset",
+				"D:/Prototype/Content/CustomBlueprints/Normal/Gun.uasset",
+				"D:/Prototype/Content/CustomBlueprints/Widget/WGT_BP_Interface.uasset",
+				"D:/Prototype/Content/Images/icons8-clock-160.uasset",
+				"D:/Prototype/Content/Images/clock_icon.uasset",
+				"D:/Prototype/Content/Images/TXT_clock_icon.uasset",
+				"D:/Prototype/Content/Images/TXT_ClockIcon.uasset",
+				"D:/Prototype/Content/CustomBlueprints/Normal/BP_Bullet.uasset",
+				"D:/Prototype/Content/CustomBlueprints/Normal/BP_Gun.uasset",
+				"D:/Prototype/Content/Textures/TXT_ClockIcon.uasset",
+				"D:/Prototype/Content/eastbound_card.uasset",
+				"D:/Prototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/E2/YJSHPWOQR620K6YUDOZ4CB.uasset"
+			]
+		}
+	]
+}
