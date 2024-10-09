@@ -1147,3 +1147,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.09-13.45.37:050][ 33]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
 [2024.10.09-13.45.37:054][ 33]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2024.10.09-13.45.37:054][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.09-13.47.03:549][928]LogDerivedDataCache: C:/Users/j2-glass/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.117 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 848 files in 1471 folders with total size 64 MiB.
