@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/New folder/CGD-Game/Prototype/Content/CustomBlueprints/Widget/BP_Meter_Bar.uasset",
+				"D:/New folder/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/CGD-Game/Prototype/Content/Materials/M_PRT_BasicColour.uasset",
 				"D:/CGD-Game/Prototype/Content/Materials/M_Yellow.uasset",
 				"D:/CGD-Game/Prototype/Content/Materials/M_Blue.uasset",
