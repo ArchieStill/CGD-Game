@@ -7,6 +7,11 @@
 			"files": [
 				"D:/New folder/CGD-Game/Prototype/Content/CustomBlueprints/Widget/BP_Meter_Bar.uasset",
 				"D:/New folder/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/New folder/CGD-Game/Prototype/Content/ThirdPerson/Input/Actions/IA_DecreaseMeter.uasset",
+				"D:/New folder/CGD-Game/Prototype/Content/ThirdPerson/Input/Actions/IA_IncreaseMeter.uasset",
+				"D:/New folder/CGD-Game/Prototype/Content/ThirdPerson/Input/Actions/IA_TimeManipulationAbillity.uasset",
+				"D:/New folder/CGD-Game/Prototype/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/New folder/CGD-Game/Prototype/Content/CustomBlueprints/Widget/WGT_BP_Interface.uasset",
 				"D:/CGD-Game/Prototype/Content/Materials/M_PRT_BasicColour.uasset",
 				"D:/CGD-Game/Prototype/Content/Materials/M_Yellow.uasset",
 				"D:/CGD-Game/Prototype/Content/Materials/M_Blue.uasset",
