@@ -1,4 +1,4 @@
-﻿Log file open, 10/20/24 19:32:19
+Log file open, 10/20/24 19:32:19
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -43,11 +43,11 @@ LogConfig: Display: Loading TVOS ini files took 0.04 seconds
 LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
 LogAssetRegistry: Display: Asset registry cache read as 20.0 MiB from D:/CGD-Game/Prototype/Intermediate/CachedAssetRegistry_0.bin
 LogPluginManager: Mounting Engine plugin Bridge
-LogPluginManager: Mounting Engine plugin EnhancedInput
-LogPluginManager: Found config from plugin[EnhancedInput] Input
 LogPluginManager: Mounting Engine plugin FastBuildController
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Found config from plugin[EnhancedInput] Input
 LogPluginManager: Mounting Engine plugin XGEController
 LogPluginManager: Mounting Engine plugin Paper2D
 LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
@@ -199,7 +199,10 @@ LogPluginManager: Mounting Engine plugin OnlineBase
 LogPluginManager: Mounting Engine plugin SkeletalReduction
 LogPluginManager: Mounting Engine plugin OnlineServices
 LogPluginManager: Mounting Engine plugin OnlineSubsystem
-LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
 LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
 LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
 LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
