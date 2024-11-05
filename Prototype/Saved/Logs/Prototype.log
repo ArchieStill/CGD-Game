@@ -52,6 +52,7 @@ LogPluginManager: Mounting Engine plugin TraceUtilities
 LogPluginManager: Mounting Engine plugin Paper2D
 LogPluginManager: Mounting Engine plugin BackChannel
 LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
 LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
 LogPluginManager: Mounting Engine plugin ChaosUserDataPT
 LogPluginManager: Mounting Engine plugin ChaosCaching
@@ -168,6 +169,7 @@ LogPluginManager: Mounting Engine plugin SoundFields
 LogPluginManager: Mounting Engine plugin SignificanceManager
 LogPluginManager: Mounting Engine plugin Synthesis
 LogPluginManager: Mounting Engine plugin WaveTable
+LogPluginManager: Mounting Engine plugin Synthesis
 LogPluginManager: Mounting Engine plugin WebMMoviePlayer
 LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin AssetManagerEditor
