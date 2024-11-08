@@ -1337,3 +1337,1179 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.08-13.51.23:998][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2024.11.08-13.51.24:008][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
 [2024.11.08-13.51.24:037][678]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: ================================================
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Total job queries 3,770, among them cache hits 27 (0.72%)
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Tracking 3,698 distinct input hashes that result in 2,656 distinct outputs (71.82%)
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: RAM used: 68.24 MiB of 3.20 GiB budget. Usage: 2.08%
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Shaders Compiled: 3,698
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Jobs assigned 3,699, completed 3,698 (99.97%)
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Average time worker was idle: 3.00 s
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Time job spent in pending queue: average 29.79 s, longest 63.47 s
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Job execution time: average 2.09 s, max 9.15 s
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Job life time (pending + execution): average 31.89 s, max 65.75
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Shader code size: average 38.229 KiB, min 2.086 KiB, max 162.84 KiB
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 73.64 s
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Jobs were issued in 484 batches (only local compilation was used), average 7.64 jobs/batch
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Average processing rate: 50.21 jobs/sec
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Total thread time: 771.623 s
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Total thread preprocess time: 101.664 s
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Percentage time preprocessing: 13.18%
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Effective parallelization: 10.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 2.41 sec, max 4.29 sec, min 0.79 sec)
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 2.34 sec, max 2.92 sec, min 1.79 sec)
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 0.88 sec, max 1.79 sec, min 0.45 sec)
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.76% of total time (compiled  134 times, average 0.68 sec, max 0.86 sec, min 0.52 sec)
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.88% of total time (compiled   96 times, average 0.47 sec, max 0.79 sec, min 0.30 sec)
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.47% of total time (compiled   96 times, average 0.36 sec, max 0.54 sec, min 0.08 sec)
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.38% of total time (compiled  128 times, average 0.26 sec, max 0.39 sec, min 0.16 sec)
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.00% of total time (compiled  128 times, average 0.24 sec, max 0.44 sec, min 0.09 sec)
+[2024.11.08-13.57.35:047][122]LogShaderCompilers: Display: ================================================
+[2024.11.08-13.57.45:300][212]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.08-13.57.45:308][212]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.08-13.57.45:308][212]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.08-13.57.45:318][212]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 9 ms (total: 18 ms)
+[2024.11.08-13.57.45:319][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-13.57.45:319][212]PIE: New page: PIE session: ThirdPersonMap (8 Nov 2024, 13:57:45)
+[2024.11.08-13.57.45:341][212]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-13.57.45:366][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025230s)
+[2024.11.08-13.57.45:366][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.025286s)
+[2024.11.08-13.57.45:373][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.08-13.57.45:374][212]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-13.57.45:374][212]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-13.57.45:374][212]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.08-13.57.45:375][212]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.08-13.57.45:375][212]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.08-13.57.45:375][212]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.08-13.57.45:375][212]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.08-13.57.45:381][212]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.08-13.57.45:381][212]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 1.15 sec)
+[2024.11.08-13.57.45:381][212]LogPlayLevel: PIE: World Init took: (0.007482s)
+[2024.11.08-13.57.45:382][212]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.11.08-13.57.45:382][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.08-13.57.45:382][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.08-13.57.45:382][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.08-13.57.45:382][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.08-13.57.45:382][212]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.08-13.57.45:382][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.08-13.57.45:382][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.08-13.57.45:382][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.08-13.57.45:382][212]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.08-13.57.45:382][212]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.08-13.57.45:382][212]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.08-13.57.45:383][212]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.08-13.57.45:412][212]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.08-13.57.45:413][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.08-13.57.45:413][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.08-13.57.45:413][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.08-13.57.45:413][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.11.08-13.57.45:413][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.11.08-13.57.45:414][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.11.08-13.57.45:414][212]LogInit: FAudioDevice initialized with ID 3.
+[2024.11.08-13.57.45:414][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.11.08-13.57.45:414][212]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.11.08-13.57.45:414][212]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.11.08-13.57.45:417][212]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.08-13.57.45:432][212]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ExplodingEnemy_C_UAID_D45D64B48F6FD72702_1751418519.damage_indicator has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.11.08-13.57.45:432][212]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_ExplodingEnemy' Component: '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ExplodingEnemy_C_UAID_D45D64B48F6FD72702_1751418519.damage_indicator' 
+[2024.11.08-13.57.45:433][212]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.08-13.57.45
+[2024.11.08-13.57.45:433][212]LogWorld: Bringing up level for play took: 0.016761
+[2024.11.08-13.57.45:435][212]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.11.08-13.57.45:441][212]PIE: Server logged in
+[2024.11.08-13.57.45:441][212]PIE: Play in editor total start time 0.132 seconds.
+[2024.11.08-13.58.06:157][472]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.06:167][473]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.06:176][474]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.06:186][475]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.06:195][476]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.06:205][477]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.06:214][478]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.06:223][479]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.06:233][480]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.06:242][481]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.06:253][482]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.06:261][483]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.06:271][484]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.07:212][583]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.07:221][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.07:231][585]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.07:240][586]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.07:249][587]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.07:258][588]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.07:269][589]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.07:278][590]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.07:288][591]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.07:298][592]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.07:306][593]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.07:316][594]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.07:325][595]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.08:116][680]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.08:126][681]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.08:135][682]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.08:144][683]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.08:153][684]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.08:162][685]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.08:172][686]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.08:181][687]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.08:190][688]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.08:199][689]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.08:208][690]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:061][782]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:071][783]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:081][784]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:091][785]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:100][786]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:110][787]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:120][788]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:129][789]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:139][790]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:148][791]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:157][792]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:769][857]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:778][858]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:788][859]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:797][860]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:808][861]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:817][862]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:827][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:843][864]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:848][865]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:855][866]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:865][867]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:875][868]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.09:884][869]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-13.58.10:222][905]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.58.10:222][905]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.10:222][905]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.13:807][281]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.58.13:807][281]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.13:807][281]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.15:197][427]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 1
+[2024.11.08-13.58.15:197][427]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.15:197][427]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.21:457][101]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.58.21:457][101]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.21:457][101]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.24:430][419]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.58.24:430][419]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.24:430][419]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.25:926][582]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.58.25:926][582]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.25:926][582]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.26:658][662]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.58.26:658][662]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.26:658][662]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.27:413][744]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.58.27:413][744]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.27:413][744]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.28:160][826]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.58.28:160][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.28:160][826]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.29:792][  0]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.58.29:792][  0]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.29:792][  0]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.30:413][ 66]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 1
+[2024.11.08-13.58.30:413][ 66]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.30:413][ 66]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.31:191][150]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 2
+[2024.11.08-13.58.31:191][150]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.31:191][150]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.32:096][247]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.58.32:096][247]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.32:096][247]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.32:888][333]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 1
+[2024.11.08-13.58.32:888][333]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.32:888][333]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.34:124][466]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 2
+[2024.11.08-13.58.34:124][466]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.34:124][466]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.43:914][476]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Player is now in: Combo Attack
+[2024.11.08-13.58.43:914][476]LogScript: Warning: Script Msg: The widget 'WGT_BP_Interface_C_0' was already added to the screen.
+[2024.11.08-13.58.43:914][476]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.11.08-13.58.45:154][618]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.58.45:154][618]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.45:154][618]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.46:205][739]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.58.46:205][739]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.46:205][739]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.47:205][852]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 1
+[2024.11.08-13.58.47:205][852]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.47:205][852]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.47:205][852]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.47:205][852]LogScript: Warning: Script Msg called by: WGT_BP_FloatingHealthbar_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_FloatingHealthbar_C_2
+[2024.11.08-13.58.49:261][ 79]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.58.49:261][ 79]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.49:261][ 79]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.50:563][225]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 1
+[2024.11.08-13.58.50:563][225]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.50:563][225]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.51:249][304]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 2
+[2024.11.08-13.58.51:249][304]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.51:249][304]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.51:808][368]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.58.51:808][368]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.51:808][368]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.52:379][433]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 1
+[2024.11.08-13.58.52:379][433]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.52:379][433]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.52:928][496]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 2
+[2024.11.08-13.58.52:928][496]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.58.52:928][496]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.58.54:375][662]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Player is now in: Lobby
+[2024.11.08-13.58.54:375][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-13.59.09:553][220]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Player is now in: Omni-Directional Movement
+[2024.11.08-13.59.11:250][410]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.59.11:250][410]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.59.11:250][410]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.59.19:947][381]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Player is now in: Lobby
+[2024.11.08-13.59.19:947][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-13.59.31:117][527]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Player is now in: Omni-Directional Movement
+[2024.11.08-13.59.38:254][310]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Player is now in: Lobby
+[2024.11.08-13.59.38:254][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-13.59.42:628][769]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.59.42:628][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.59.42:628][769]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.59.43:179][826]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.59.43:179][826]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.59.43:179][826]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.59.43:808][895]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.59.43:810][895]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.59.43:810][895]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.59.44:325][953]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.59.44:325][953]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.59.44:325][953]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.59.44:998][ 26]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.59.44:998][ 26]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.59.44:998][ 26]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.59.45:713][102]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-13.59.45:713][102]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-13.59.45:713][102]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WGT_BP_Interface_C_0
+[2024.11.08-13.59.47:681][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-13.59.47:681][305]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-13.59.47:682][305]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-13.59.47:684][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-13.59.47:685][305]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.08-13.59.47:687][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.08-13.59.47:689][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-13.59.47:702][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-13.59.47:706][305]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.11.08-13.59.47:706][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.11.08-13.59.47:706][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.11.08-13.59.47:717][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.11.08-13.59.47:780][307]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.11.08-13.59.48:797][418]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.08-13.59.48:802][418]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.08-13.59.48:802][418]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.08-13.59.48:811][418]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 8 ms (total: 27 ms)
+[2024.11.08-13.59.48:812][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-13.59.48:812][418]PIE: New page: PIE session: ThirdPersonMap (8 Nov 2024, 13:59:48)
+[2024.11.08-13.59.48:861][418]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-13.59.48:884][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023948s)
+[2024.11.08-13.59.48:884][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.023989s)
+[2024.11.08-13.59.48:890][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.11.08-13.59.48:891][418]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-13.59.48:891][418]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-13.59.48:892][418]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.08-13.59.48:893][418]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.08-13.59.48:893][418]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.08-13.59.48:893][418]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.08-13.59.48:893][418]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.08-13.59.48:899][418]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.08-13.59.48:899][418]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 1.15 sec)
+[2024.11.08-13.59.48:899][418]LogPlayLevel: PIE: World Init took: (0.007538s)
+[2024.11.08-13.59.48:899][418]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.11.08-13.59.48:899][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.08-13.59.48:899][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.08-13.59.48:899][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.08-13.59.48:899][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.08-13.59.48:899][418]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.08-13.59.48:899][418]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.08-13.59.48:899][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.08-13.59.48:899][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.08-13.59.48:899][418]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.08-13.59.48:899][418]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.08-13.59.48:899][418]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.08-13.59.48:900][418]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.08-13.59.48:926][418]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.08-13.59.48:926][418]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.08-13.59.48:926][418]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.08-13.59.48:926][418]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.08-13.59.48:927][418]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.11.08-13.59.48:927][418]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.11.08-13.59.48:928][418]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.11.08-13.59.48:928][418]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.11.08-13.59.48:928][418]LogInit: FAudioDevice initialized with ID 4.
+[2024.11.08-13.59.48:928][418]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2024.11.08-13.59.48:928][418]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.08-13.59.48:930][418]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.08-13.59.48:944][418]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ExplodingEnemy_C_UAID_D45D64B48F6FD72702_1751418519.damage_indicator has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.11.08-13.59.48:944][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_ExplodingEnemy' Component: '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ExplodingEnemy_C_UAID_D45D64B48F6FD72702_1751418519.damage_indicator' 
+[2024.11.08-13.59.48:945][418]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.08-13.59.48
+[2024.11.08-13.59.48:945][418]LogWorld: Bringing up level for play took: 0.015595
+[2024.11.08-13.59.48:947][418]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.11.08-13.59.48:952][418]PIE: Server logged in
+[2024.11.08-13.59.48:953][418]PIE: Play in editor total start time 0.15 seconds.
+[2024.11.08-14.00.04:351][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-14.00.04:351][ 73]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-14.00.04:352][ 73]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-14.00.04:354][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-14.00.04:355][ 73]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.08-14.00.04:357][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.08-14.00.04:359][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-14.00.04:370][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-14.00.04:372][ 73]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.08-14.00.04:373][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.08-14.00.04:374][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.08-14.00.04:382][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.08-14.00.04:448][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.11.08-14.00.06:552][309]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.08-14.00.06:557][309]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.08-14.00.06:557][309]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.08-14.00.06:566][309]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 9 ms (total: 36 ms)
+[2024.11.08-14.00.06:566][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-14.00.06:566][309]PIE: New page: PIE session: ThirdPersonMap (8 Nov 2024, 14:00:06)
+[2024.11.08-14.00.06:567][309]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-14.00.06:590][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023250s)
+[2024.11.08-14.00.06:590][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.023283s)
+[2024.11.08-14.00.06:596][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.11.08-14.00.06:597][309]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-14.00.06:597][309]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-14.00.06:597][309]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.08-14.00.06:598][309]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.08-14.00.06:598][309]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.08-14.00.06:598][309]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.08-14.00.06:598][309]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.08-14.00.06:604][309]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.08-14.00.06:604][309]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 1.16 sec)
+[2024.11.08-14.00.06:604][309]LogPlayLevel: PIE: World Init took: (0.007051s)
+[2024.11.08-14.00.06:604][309]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.11.08-14.00.06:604][309]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.08-14.00.06:604][309]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.08-14.00.06:604][309]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.08-14.00.06:604][309]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.08-14.00.06:604][309]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.08-14.00.06:604][309]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.08-14.00.06:604][309]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.08-14.00.06:604][309]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.08-14.00.06:604][309]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.08-14.00.06:604][309]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.08-14.00.06:604][309]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.08-14.00.06:606][309]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.08-14.00.06:631][309]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.08-14.00.06:631][309]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.08-14.00.06:631][309]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.08-14.00.06:631][309]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.08-14.00.06:632][309]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.11.08-14.00.06:632][309]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.11.08-14.00.06:633][309]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.11.08-14.00.06:633][309]LogInit: FAudioDevice initialized with ID 5.
+[2024.11.08-14.00.06:633][309]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.11.08-14.00.06:633][309]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.11.08-14.00.06:633][309]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.08-14.00.06:635][309]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.08-14.00.06:650][309]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ExplodingEnemy_C_UAID_D45D64B48F6FD72702_1751418519.damage_indicator has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.11.08-14.00.06:650][309]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_ExplodingEnemy' Component: '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ExplodingEnemy_C_UAID_D45D64B48F6FD72702_1751418519.damage_indicator' 
+[2024.11.08-14.00.06:651][309]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.08-14.00.06
+[2024.11.08-14.00.06:651][309]LogWorld: Bringing up level for play took: 0.015725
+[2024.11.08-14.00.06:653][309]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.11.08-14.00.06:658][309]PIE: Server logged in
+[2024.11.08-14.00.06:658][309]PIE: Play in editor total start time 0.101 seconds.
+[2024.11.08-14.00.09:065][574]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.08-14.00.09:065][574]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.08-14.00.09:065][574]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WGT_BP_Interface_C_0
+[2024.11.08-14.00.22:101][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-14.00.22:101][976]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-14.00.22:102][976]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-14.00.22:104][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-14.00.22:105][976]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.08-14.00.22:107][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.08-14.00.22:109][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-14.00.22:121][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-14.00.22:124][976]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.08-14.00.22:124][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.08-14.00.22:125][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.08-14.00.22:133][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.08-14.00.22:197][978]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.11.08-14.06.19:228][428]Cmd: EDIT COPY
+[2024.11.08-14.06.25:368][ 30]LogSlate: Took 0.008700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.08-14.06.35:058][984]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.08-14.06.35:078][984]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.08-14.06.35:098][985]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.08-14.06.42:546][741]LogContentBrowser: Attempting asset rename: NewFolder -> MiniPuzzles
+[2024.11.08-14.06.42:547][741]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.08-14.06.45:238][986]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.08-14.06.45:255][986]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.08-14.06.45:271][988]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.08-14.06.53:513][825]LogContentBrowser: Attempting asset rename: NewFolder -> LazerMazePuzzle
+[2024.11.08-14.06.53:513][825]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.08-14.07.11:366][535]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.08-14.07.11:377][535]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.11.08-14.07.11:384][535]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.11.08-14.07.11:407][537]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.11.08-14.07.23:270][725]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_LazerPuzzle
+[2024.11.08-14.07.23:276][725]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.11.08-14.07.24:007][800]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerPuzzle.BP_LazerPuzzle
+[2024.11.08-14.07.24:007][800]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-14.07.24:007][800]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-14.07.24:188][800]LogViewport: Scene viewport resized to 1483x1114, mode Windowed.
+[2024.11.08-14.07.58:309][550]LogSlate: Window 'BP_LazerPuzzle' being destroyed
+[2024.11.08-14.07.58:322][550]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-14.07.58:323][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-14.08.05:482][833]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.08-14.08.05:492][833]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.11.08-14.08.05:497][833]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.11.08-14.08.05:505][834]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.11.08-14.08.13:971][671]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_LazerMiniPuzzle
+[2024.11.08-14.08.13:976][671]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.11.08-14.08.14:206][695]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle
+[2024.11.08-14.08.14:206][695]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-14.08.14:206][695]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-14.08.14:366][695]LogViewport: Scene viewport resized to 1485x1117, mode Windowed.
+[2024.11.08-14.08.37:352][710]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-14.08.37:859][740]LogShaderCompilers: Display: ================================================
+[2024.11.08-14.08.37:859][740]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.08-14.08.37:859][740]LogShaderCompilers: Display: Total job queries 3,802, among them cache hits 51 (1.34%)
+[2024.11.08-14.08.37:859][740]LogShaderCompilers: Display: Tracking 3,700 distinct input hashes that result in 2,658 distinct outputs (71.84%)
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: RAM used: 68.30 MiB of 3.20 GiB budget. Usage: 2.08%
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Shaders Compiled: 3,700
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Jobs assigned 3,703, completed 3,700 (99.92%)
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Average time worker was idle: 10.25 s
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Time job spent in pending queue: average 29.76 s, longest 63.47 s
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Job execution time: average 2.09 s, max 9.15 s
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Job life time (pending + execution): average 31.87 s, max 65.75
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Shader code size: average 38.235 KiB, min 2.086 KiB, max 162.84 KiB
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 74.22 s
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Jobs were issued in 488 batches (only local compilation was used), average 7.59 jobs/batch
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Average processing rate: 49.85 jobs/sec
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Total thread time: 771.94 s
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Total thread preprocess time: 101.77 s
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Percentage time preprocessing: 13.18%
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Effective parallelization: 10.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 2.41 sec, max 4.29 sec, min 0.79 sec)
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 2.34 sec, max 2.92 sec, min 1.79 sec)
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 0.88 sec, max 1.79 sec, min 0.45 sec)
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.75% of total time (compiled  134 times, average 0.68 sec, max 0.86 sec, min 0.52 sec)
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.87% of total time (compiled   96 times, average 0.47 sec, max 0.79 sec, min 0.30 sec)
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.47% of total time (compiled   96 times, average 0.36 sec, max 0.54 sec, min 0.08 sec)
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.38% of total time (compiled  128 times, average 0.26 sec, max 0.39 sec, min 0.16 sec)
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.99% of total time (compiled  128 times, average 0.24 sec, max 0.44 sec, min 0.09 sec)
+[2024.11.08-14.08.37:860][740]LogShaderCompilers: Display: ================================================
+[2024.11.08-14.08.38:016][750]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-14.08.38:035][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-14.08.47:518][554]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.08.47:536][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.11.08-14.08.47:948][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-14.08.48:010][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle" FILE="D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset" SILENT=true
+[2024.11.08-14.08.48:016][581]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.005815 seconds
+[2024.11.08-14.08.48:019][581]LogSavePackage: Moving output files for package: /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle
+[2024.11.08-14.08.48:019][581]LogSavePackage: Moving 'D:/Lewis/CGD-Game/Prototype/Saved/BP_LazerMiniPuzzleB209C70347D83B4BE9A6F1A52CCA1AFB.tmp' to 'D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset'
+[2024.11.08-14.08.48:030][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms
+[2024.11.08-14.08.48:031][581]AssetCheck: New page: Asset Save: BP_LazerMiniPuzzle
+[2024.11.08-14.08.48:031][581]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle
+[2024.11.08-14.08.52:648][  2]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C
+[2024.11.08-14.08.52:648][  2]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C
+[2024.11.08-14.08.52:649][  2]LogActorFactory: Actor Factory spawned Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle as actor: BP_LazerMiniPuzzle_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_LazerMiniPuzzle_C_0
+[2024.11.08-14.08.52:650][  2]LogActorFactory: Actor Factory spawned Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle as actor: BP_LazerMiniPuzzle_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_LazerMiniPuzzle_C_0
+[2024.11.08-14.08.52:655][  2]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.11.08-14.08.53:616][ 96]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C
+[2024.11.08-14.08.53:616][ 96]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C
+[2024.11.08-14.08.53:619][ 96]LogActorFactory: Actor Factory spawned Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle as actor: BP_LazerMiniPuzzle_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_LazerMiniPuzzle_C_UAID_2C58B90D06847A2D02_1216688487
+[2024.11.08-14.08.53:619][ 96]LogActorFactory: Actor Factory spawned Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle as actor: BP_LazerMiniPuzzle_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_LazerMiniPuzzle_C_UAID_2C58B90D06847A2D02_1216688487
+[2024.11.08-14.08.58:717][592]Cmd: DELETE
+[2024.11.08-14.08.58:717][592]Cmd: ACTOR DELETE
+[2024.11.08-14.08.58:720][592]LogEditorActor: Deleted Actor: BP_LazerMiniPuzzle_C
+[2024.11.08-14.08.58:728][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.11.08-14.08.58:729][592]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.11.08-14.09.03:978][ 87]LogViewport: Scene viewport resized to 1481x1151, mode Windowed.
+[2024.11.08-14.09.04:061][ 89]LogViewport: Scene viewport resized to 574x327, mode Windowed.
+[2024.11.08-14.09.04:089][ 90]LogViewport: Scene viewport resized to 460x224, mode Windowed.
+[2024.11.08-14.09.04:486][126]LogViewport: Scene viewport resized to 2288x1840, mode Windowed.
+[2024.11.08-14.09.04:766][149]LogSlate: Window 'BP_LazerMiniPuzzle' being destroyed
+[2024.11.08-14.09.12:193][ 26]LogSlate: Took 0.000624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.08-14.10.40:525][ 83]LogEditorTransaction: Undo Modify Component(s)
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: ================================================
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Total job queries 3,814, among them cache hits 59 (1.55%)
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Tracking 3,707 distinct input hashes that result in 2,663 distinct outputs (71.84%)
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: RAM used: 68.42 MiB of 3.20 GiB budget. Usage: 2.09%
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Shaders Compiled: 3,707
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Jobs assigned 3,707, completed 3,707 (100%)
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Average time worker was idle: 11.15 s
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Time job spent in pending queue: average 29.73 s, longest 63.47 s
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Job execution time: average 2.08 s, max 9.15 s
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Job life time (pending + execution): average 31.81 s, max 65.75
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Shader code size: average 38.221 KiB, min 2.086 KiB, max 162.84 KiB
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 74.83 s
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Jobs were issued in 492 batches (only local compilation was used), average 7.53 jobs/batch
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Average processing rate: 49.54 jobs/sec
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Total thread time: 773.17 s
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Total thread preprocess time: 102.213 s
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Percentage time preprocessing: 13.22%
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Effective parallelization: 10.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 2.41 sec, max 4.29 sec, min 0.79 sec)
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 2.34 sec, max 2.92 sec, min 1.79 sec)
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 0.88 sec, max 1.79 sec, min 0.45 sec)
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.74% of total time (compiled  134 times, average 0.68 sec, max 0.86 sec, min 0.52 sec)
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.87% of total time (compiled   96 times, average 0.47 sec, max 0.79 sec, min 0.30 sec)
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.46% of total time (compiled   96 times, average 0.36 sec, max 0.54 sec, min 0.08 sec)
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.37% of total time (compiled  128 times, average 0.26 sec, max 0.39 sec, min 0.16 sec)
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.99% of total time (compiled  128 times, average 0.24 sec, max 0.44 sec, min 0.09 sec)
+[2024.11.08-14.13.25:081][824]LogShaderCompilers: Display: ================================================
+[2024.11.08-14.13.47:456][363]LogViewport: Scene viewport resized to 2284x1876, mode Windowed.
+[2024.11.08-14.13.47:544][365]LogViewport: Scene viewport resized to 460x223, mode Windowed.
+[2024.11.08-14.13.48:003][398]LogViewport: Scene viewport resized to 703x458, mode Windowed.
+[2024.11.08-14.13.50:379][569]LogViewport: Scene viewport resized to 2288x1840, mode Windowed.
+[2024.11.08-14.13.53:381][810]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lasers/BP_LaserRedirector.BP_LaserRedirector
+[2024.11.08-14.13.53:381][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-14.13.53:381][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-14.16.27:497][368]LogViewport: Scene viewport resized to 2284x1876, mode Windowed.
+[2024.11.08-14.16.27:583][370]LogViewport: Scene viewport resized to 460x222, mode Windowed.
+[2024.11.08-14.16.27:657][375]LogViewport: Scene viewport resized to 2288x1840, mode Windowed.
+[2024.11.08-14.16.27:763][378]LogViewport: Scene viewport resized to 2284x1876, mode Windowed.
+[2024.11.08-14.16.27:864][380]LogViewport: Scene viewport resized to 595x344, mode Windowed.
+[2024.11.08-14.16.27:903][381]LogViewport: Scene viewport resized to 460x222, mode Windowed.
+[2024.11.08-14.16.28:450][419]LogViewport: Scene viewport resized to 2288x1840, mode Windowed.
+[2024.11.08-14.17.49:919][247]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set TargetRotation
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Rotating
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Rotating
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotateTimer
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get TargetRotation
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Rotating
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Rotating
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Arrow" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Arrow
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Laser" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Laser
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Laser" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Laser
+[2024.11.08-14.17.49:922][247]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Arrow" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Arrow
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] This blueprint (self) is not a BP_Laser_C, therefore ' Target ' must have a connection.
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Arrow  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Laser  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Arrow  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.49:923][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.49:924][247]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Laser  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.17.50:276][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.11.08-14.18.09:241][933]LogSlate: Took 0.009270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.11.08-14.19.15:805][656]LogEditorTransaction: Undo Rename Variable
+[2024.11.08-14.19.19:638][910]LogEditorTransaction: Redo Rename Variable
+[2024.11.08-14.20.02:792][489]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.11.08-14.20.06:147][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.11.08-14.20.06:152][683]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.015
+[2024.11.08-14.20.06:152][683]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerPuzzle] ([2] browsable assets)...
+[2024.11.08-14.20.06:152][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerPuzzle]
+[2024.11.08-14.20.06:154][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerPuzzle_Auto1
+[2024.11.08-14.20.06:154][683]LogSavePackage: Moving 'D:/Lewis/CGD-Game/Prototype/Saved/BP_LazerPuzzle_Auto181E966C54FB5823BFD39AA92C338A976.tmp' to 'D:/Lewis/CGD-Game/Prototype/Saved/Autosaves/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerPuzzle_Auto1.uasset'
+[2024.11.08-14.20.06:155][683]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle] ([2] browsable assets)...
+[2024.11.08-14.20.06:186][683]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle]
+[2024.11.08-14.20.06:186][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle]
+[2024.11.08-14.20.06:198][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle_Auto1
+[2024.11.08-14.20.06:199][683]LogSavePackage: Moving 'D:/Lewis/CGD-Game/Prototype/Saved/BP_LazerMiniPuzzle_Auto1D752E1FC4933CF5E510619AC58E128F2.tmp' to 'D:/Lewis/CGD-Game/Prototype/Saved/Autosaves/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle_Auto1.uasset'
+[2024.11.08-14.20.06:199][683]LogFileHelpers: Auto-saving content packages took 0.048
+[2024.11.08-14.20.18:935][701]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.11.08-14.20.18:945][701]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.11.08-14.20.47:507][794]LogSlate: Window 'Delete Variable' being destroyed
+[2024.11.08-14.21.02:527][218]LogEditorTransaction: Undo Move Node
+[2024.11.08-14.21.32:976][953]LogSlate: Took 0.002292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.11.08-14.22.13:320][284]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.22.13:323][284]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.22.13:323][284]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set TargetRotation
+[2024.11.08-14.22.13:323][284]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Rotating
+[2024.11.08-14.22.13:323][284]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Rotating
+[2024.11.08-14.22.13:323][284]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.22.13:323][284]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.22.13:323][284]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotateTimer
+[2024.11.08-14.22.13:323][284]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.22.13:323][284]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get TargetRotation
+[2024.11.08-14.22.13:323][284]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Rotating
+[2024.11.08-14.22.13:323][284]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Rotating
+[2024.11.08-14.22.13:323][284]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Arrow" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Arrow
+[2024.11.08-14.22.13:323][284]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Arrow" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Arrow
+[2024.11.08-14.22.13:324][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] This blueprint (self) is not a BP_Laser_C, therefore ' Target ' must have a connection.
+[2024.11.08-14.22.13:324][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] This blueprint (self) is not a BP_Laser_C, therefore ' Target ' must have a connection.
+[2024.11.08-14.22.13:324][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Arrow  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.13:324][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Arrow  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.13:324][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.13:324][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.13:324][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.13:325][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.13:325][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.13:325][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.13:325][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.13:325][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.13:325][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.13:325][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.13:325][284]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.13:351][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.11.08-14.22.14:062][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-14.22.14:141][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle" FILE="D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset" SILENT=true
+[2024.11.08-14.22.14:153][341]LogSavePackage: Moving output files for package: /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle
+[2024.11.08-14.22.14:155][341]LogSavePackage: Moving 'D:/Lewis/CGD-Game/Prototype/Saved/BP_LazerMiniPuzzle5A3208C347821C86877600A28584939A.tmp' to 'D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset'
+[2024.11.08-14.22.14:162][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 182 ms)
+[2024.11.08-14.22.14:166][341]AssetCheck: New page: Asset Save: BP_LazerMiniPuzzle
+[2024.11.08-14.22.14:166][341]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle
+[2024.11.08-14.22.27:624][456]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.22.27:626][456]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.22.27:626][456]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set TargetRotation
+[2024.11.08-14.22.27:627][456]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Rotating
+[2024.11.08-14.22.27:627][456]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Rotating
+[2024.11.08-14.22.27:627][456]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.22.27:627][456]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.22.27:627][456]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotateTimer
+[2024.11.08-14.22.27:627][456]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.22.27:627][456]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get TargetRotation
+[2024.11.08-14.22.27:627][456]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Rotating
+[2024.11.08-14.22.27:627][456]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Rotating
+[2024.11.08-14.22.27:627][456]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] This blueprint (self) is not a BP_Laser_C, therefore ' Target ' must have a connection.
+[2024.11.08-14.22.27:627][456]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] This blueprint (self) is not a BP_Laser_C, therefore ' Target ' must have a connection.
+[2024.11.08-14.22.27:627][456]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.27:627][456]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.27:628][456]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.27:628][456]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.27:628][456]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.27:628][456]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.27:628][456]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.27:628][456]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.27:628][456]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.27:628][456]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.27:628][456]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.22.27:650][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.11.08-14.22.28:272][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-14.22.28:358][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle" FILE="D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset" SILENT=true
+[2024.11.08-14.22.28:370][488]LogSavePackage: Moving output files for package: /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle
+[2024.11.08-14.22.28:372][488]LogSavePackage: Moving 'D:/Lewis/CGD-Game/Prototype/Saved/BP_LazerMiniPuzzle2D7F512A4B09EAC92FF01AAA6571C2D2.tmp' to 'D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset'
+[2024.11.08-14.22.28:377][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 288 ms)
+[2024.11.08-14.22.28:381][488]AssetCheck: New page: Asset Save: BP_LazerMiniPuzzle
+[2024.11.08-14.22.28:381][488]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle
+[2024.11.08-14.22.29:490][566]LogViewport: Scene viewport resized to 2288x1458, mode Windowed.
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: ================================================
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Total job queries 3,858, among them cache hits 95 (2.46%)
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Tracking 3,715 distinct input hashes that result in 2,667 distinct outputs (71.79%)
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: RAM used: 68.61 MiB of 3.20 GiB budget. Usage: 2.09%
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Shaders Compiled: 3,715
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Jobs assigned 3,715, completed 3,715 (100%)
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Average time worker was idle: 14.74 s
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Time job spent in pending queue: average 29.66 s, longest 63.47 s
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Job execution time: average 2.08 s, max 9.15 s
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Job life time (pending + execution): average 31.74 s, max 65.75
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Shader code size: average 38.229 KiB, min 2.086 KiB, max 162.84 KiB
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 76.09 s
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Jobs were issued in 500 batches (only local compilation was used), average 7.43 jobs/batch
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Average processing rate: 48.83 jobs/sec
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Total thread time: 774.465 s
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Total thread preprocess time: 102.621 s
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Percentage time preprocessing: 13.25%
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Effective parallelization: 10.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 2.41 sec, max 4.29 sec, min 0.79 sec)
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 2.34 sec, max 2.92 sec, min 1.79 sec)
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 0.88 sec, max 1.79 sec, min 0.45 sec)
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.72% of total time (compiled  134 times, average 0.68 sec, max 0.86 sec, min 0.52 sec)
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 5.86% of total time (compiled   96 times, average 0.47 sec, max 0.79 sec, min 0.30 sec)
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.46% of total time (compiled   96 times, average 0.36 sec, max 0.54 sec, min 0.08 sec)
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.37% of total time (compiled  128 times, average 0.26 sec, max 0.39 sec, min 0.16 sec)
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 3.98% of total time (compiled  128 times, average 0.24 sec, max 0.44 sec, min 0.09 sec)
+[2024.11.08-14.23.09:371][800]LogShaderCompilers: Display: ================================================
+[2024.11.08-14.24.19:953][654]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.24.19:956][654]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.24.19:956][654]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set TargetRotation
+[2024.11.08-14.24.19:956][654]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Rotating
+[2024.11.08-14.24.19:956][654]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Rotating
+[2024.11.08-14.24.19:956][654]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.24.19:956][654]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.24.19:956][654]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotateTimer
+[2024.11.08-14.24.19:956][654]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.24.19:956][654]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get TargetRotation
+[2024.11.08-14.24.19:956][654]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Rotating
+[2024.11.08-14.24.19:956][654]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Rotating
+[2024.11.08-14.24.19:957][654]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.11.08-14.24.19:957][654]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] This blueprint (self) is not a BP_Laser_C, therefore ' Target ' must have a connection.
+[2024.11.08-14.24.19:957][654]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] This blueprint (self) is not a BP_Laser_C, therefore ' Target ' must have a connection.
+[2024.11.08-14.24.19:957][654]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.19:957][654]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.19:957][654]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.19:957][654]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.19:957][654]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.19:957][654]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.19:957][654]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.19:957][654]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.19:957][654]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.19:957][654]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.19:957][654]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.20:040][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.11.08-14.24.20:556][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-14.24.20:610][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle" FILE="D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset" SILENT=true
+[2024.11.08-14.24.20:622][694]LogSavePackage: Moving output files for package: /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle
+[2024.11.08-14.24.20:622][694]LogSavePackage: Moving 'D:/Lewis/CGD-Game/Prototype/Saved/BP_LazerMiniPuzzle5A353C9C4E183462C7BCEABDE09470F8.tmp' to 'D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset'
+[2024.11.08-14.24.20:628][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 360 ms)
+[2024.11.08-14.24.20:632][694]AssetCheck: New page: Asset Save: BP_LazerMiniPuzzle
+[2024.11.08-14.24.20:632][694]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle
+[2024.11.08-14.24.32:513][635]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.24.32:516][635]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.24.32:516][635]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set TargetRotation
+[2024.11.08-14.24.32:516][635]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Rotating
+[2024.11.08-14.24.32:516][635]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Rotating
+[2024.11.08-14.24.32:516][635]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.24.32:516][635]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.24.32:516][635]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotateTimer
+[2024.11.08-14.24.32:516][635]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.24.32:516][635]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get TargetRotation
+[2024.11.08-14.24.32:517][635]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Rotating
+[2024.11.08-14.24.32:517][635]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Rotating
+[2024.11.08-14.24.32:517][635]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] This blueprint (self) is not a BP_Laser_C, therefore ' Target ' must have a connection.
+[2024.11.08-14.24.32:517][635]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] This blueprint (self) is not a BP_Laser_C, therefore ' Target ' must have a connection.
+[2024.11.08-14.24.32:517][635]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.32:517][635]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.32:517][635]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.32:517][635]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.32:517][635]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.32:517][635]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.32:517][635]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.32:517][635]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.32:517][635]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.32:517][635]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.32:517][635]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.32:536][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.08-14.24.33:329][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-14.24.33:400][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle" FILE="D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset" SILENT=true
+[2024.11.08-14.24.33:412][685]LogSavePackage: Moving output files for package: /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle
+[2024.11.08-14.24.33:414][685]LogSavePackage: Moving 'D:/Lewis/CGD-Game/Prototype/Saved/BP_LazerMiniPuzzle612D96F147DFCC38DE83A3A0E7C19F52.tmp' to 'D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset'
+[2024.11.08-14.24.33:423][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 455 ms)
+[2024.11.08-14.24.33:427][685]AssetCheck: New page: Asset Save: BP_LazerMiniPuzzle
+[2024.11.08-14.24.33:427][685]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle
+[2024.11.08-14.24.39:632][194]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.24.39:635][194]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.24.39:635][194]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set TargetRotation
+[2024.11.08-14.24.39:635][194]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Rotating
+[2024.11.08-14.24.39:635][194]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Rotating
+[2024.11.08-14.24.39:635][194]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.24.39:635][194]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.24.39:635][194]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotateTimer
+[2024.11.08-14.24.39:635][194]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.24.39:635][194]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get TargetRotation
+[2024.11.08-14.24.39:635][194]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Rotating
+[2024.11.08-14.24.39:635][194]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Rotating
+[2024.11.08-14.24.39:636][194]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] This blueprint (self) is not a BP_Laser_C, therefore ' Target ' must have a connection.
+[2024.11.08-14.24.39:636][194]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] This blueprint (self) is not a BP_Laser_C, therefore ' Target ' must have a connection.
+[2024.11.08-14.24.39:636][194]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.39:636][194]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.39:636][194]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.39:636][194]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.39:636][194]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.39:636][194]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.39:636][194]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.39:636][194]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.39:636][194]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.39:636][194]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.39:636][194]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.39:652][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.11.08-14.24.40:229][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-14.24.40:319][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle" FILE="D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset" SILENT=true
+[2024.11.08-14.24.40:332][226]LogSavePackage: Moving output files for package: /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle
+[2024.11.08-14.24.40:333][226]LogSavePackage: Moving 'D:/Lewis/CGD-Game/Prototype/Saved/BP_LazerMiniPuzzle2890A397402FE5834C96AD81C23CFF00.tmp' to 'D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset'
+[2024.11.08-14.24.40:341][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 567 ms)
+[2024.11.08-14.24.40:344][226]AssetCheck: New page: Asset Save: BP_LazerMiniPuzzle
+[2024.11.08-14.24.40:344][226]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle
+[2024.11.08-14.24.55:177][350]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.24.55:180][350]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.24.55:180][350]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set TargetRotation
+[2024.11.08-14.24.55:180][350]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Rotating
+[2024.11.08-14.24.55:180][350]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Rotating
+[2024.11.08-14.24.55:180][350]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.24.55:180][350]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.24.55:180][350]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotateTimer
+[2024.11.08-14.24.55:180][350]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.24.55:180][350]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get TargetRotation
+[2024.11.08-14.24.55:180][350]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set Rotating
+[2024.11.08-14.24.55:180][350]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "Rotating" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get Rotating
+[2024.11.08-14.24.55:181][350]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] This blueprint (self) is not a BP_Laser_C, therefore ' Target ' must have a connection.
+[2024.11.08-14.24.55:181][350]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] This blueprint (self) is not a BP_Laser_C, therefore ' Target ' must have a connection.
+[2024.11.08-14.24.55:181][350]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.55:181][350]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.55:181][350]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.55:181][350]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.55:181][350]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.55:181][350]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.55:181][350]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.55:181][350]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.55:181][350]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.55:181][350]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.55:181][350]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.24.55:200][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.11.08-14.25.57:213][140]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.11.08-14.25.57:213][140]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.11.08-14.26.17:500][482]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.11.08-14.26.33:144][  7]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.11.08-14.26.40:107][696]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.11.08-14.26.40:116][696]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.11.08-14.26.41:437][827]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.26.41:440][827]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.26.41:440][827]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set TargetRotation
+[2024.11.08-14.26.41:440][827]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.26.41:440][827]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.26.41:440][827]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotateTimer
+[2024.11.08-14.26.41:440][827]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotateTimer" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set RotateTimer
+[2024.11.08-14.26.41:440][827]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get TargetRotation
+[2024.11.08-14.26.41:441][827]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.26.41:441][827]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.26.41:441][827]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.26.41:441][827]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.26.41:441][827]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.26.41:441][827]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotate Timer  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.26.41:441][827]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.26.41:462][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.08-14.26.50:922][734]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.26.50:925][734]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Set TargetRotation
+[2024.11.08-14.26.50:925][734]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.26.50:925][734]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.26.50:925][734]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "TargetRotation" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get TargetRotation
+[2024.11.08-14.26.50:926][734]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.26.50:926][734]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.26.50:926][734]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.26.50:926][734]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Target Rotation  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.26.50:948][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.08-14.26.51:624][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-14.26.51:712][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle" FILE="D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset" SILENT=true
+[2024.11.08-14.26.51:724][787]LogSavePackage: Moving output files for package: /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle
+[2024.11.08-14.26.51:724][787]LogSavePackage: Moving 'D:/Lewis/CGD-Game/Prototype/Saved/BP_LazerMiniPuzzle3BB8D29B46E45A3C486D9BAA2873A721.tmp' to 'D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset'
+[2024.11.08-14.26.51:729][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 672 ms)
+[2024.11.08-14.26.51:733][787]AssetCheck: New page: Asset Save: BP_LazerMiniPuzzle
+[2024.11.08-14.26.51:733][787]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle
+[2024.11.08-14.26.58:818][439]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.26.58:821][439]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.26.58:821][439]LogBlueprint: Warning: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] Could not find a variable named "RotatingMovement" in 'BP_LazerMiniPuzzle_C'.
+Make sure 'BP_LazerMiniPuzzle_C' has been compiled for  Get RotatingMovement
+[2024.11.08-14.26.58:822][439]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.26.58:822][439]LogBlueprint: Error: [AssetLog] D:\Lewis\CGD-Game\Prototype\Content\MiniPuzzles\LazerMazePuzzle\BP_LazerMiniPuzzle.uasset: [Compiler] The property associated with  Rotating Movement  could not be found in '/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C'
+[2024.11.08-14.26.58:839][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.11.08-14.26.59:462][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-14.26.59:543][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle" FILE="D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset" SILENT=true
+[2024.11.08-14.26.59:556][487]LogSavePackage: Moving output files for package: /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle
+[2024.11.08-14.26.59:557][487]LogSavePackage: Moving 'D:/Lewis/CGD-Game/Prototype/Saved/BP_LazerMiniPuzzleA0AB0D224CD907E92BE204921E0FC17A.tmp' to 'D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset'
+[2024.11.08-14.26.59:564][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 773 ms)
+[2024.11.08-14.26.59:566][487]AssetCheck: New page: Asset Save: BP_LazerMiniPuzzle
+[2024.11.08-14.26.59:566][487]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle
+[2024.11.08-14.27.14:220][750]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.27.14:252][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.11.08-14.27.14:740][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-14.27.14:830][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle" FILE="D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset" SILENT=true
+[2024.11.08-14.27.14:843][776]LogSavePackage: Moving output files for package: /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle
+[2024.11.08-14.27.14:843][776]LogSavePackage: Moving 'D:/Lewis/CGD-Game/Prototype/Saved/BP_LazerMiniPuzzleB33C20D14884F1B39026508D010AF8C6.tmp' to 'D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset'
+[2024.11.08-14.27.14:848][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 881 ms)
+[2024.11.08-14.27.14:851][776]AssetCheck: New page: Asset Save: BP_LazerMiniPuzzle
+[2024.11.08-14.27.14:851][776]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle
+[2024.11.08-14.27.28:037][688]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.27.28:065][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.11.08-14.27.28:544][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-14.27.28:633][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle" FILE="D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset" SILENT=true
+[2024.11.08-14.27.28:646][710]LogSavePackage: Moving output files for package: /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle
+[2024.11.08-14.27.28:647][710]LogSavePackage: Moving 'D:/Lewis/CGD-Game/Prototype/Saved/BP_LazerMiniPuzzle5A43AA8F48999F6F5E500AA4FF560C73.tmp' to 'D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset'
+[2024.11.08-14.27.28:656][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 992 ms)
+[2024.11.08-14.27.28:660][710]AssetCheck: New page: Asset Save: BP_LazerMiniPuzzle
+[2024.11.08-14.27.28:660][710]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle
+[2024.11.08-14.27.30:007][798]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.08-14.27.30:014][798]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.08-14.27.30:014][798]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.08-14.27.30:023][798]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 9 ms (total: 45 ms)
+[2024.11.08-14.27.30:023][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-14.27.30:023][798]PIE: New page: PIE session: ThirdPersonMap (8 Nov 2024, 14:27:30)
+[2024.11.08-14.27.30:057][798]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-14.27.30:083][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025573s)
+[2024.11.08-14.27.30:083][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.025624s)
+[2024.11.08-14.27.30:091][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.11.08-14.27.30:093][798]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-14.27.30:093][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-14.27.30:094][798]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.08-14.27.30:095][798]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.08-14.27.30:095][798]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.08-14.27.30:095][798]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.08-14.27.30:095][798]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.08-14.27.30:100][798]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.08-14.27.30:100][798]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 1.17 sec)
+[2024.11.08-14.27.30:100][798]LogPlayLevel: PIE: World Init took: (0.007674s)
+[2024.11.08-14.27.30:101][798]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.11.08-14.27.30:101][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.08-14.27.30:101][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.08-14.27.30:101][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.08-14.27.30:101][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.08-14.27.30:101][798]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.08-14.27.30:101][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.08-14.27.30:101][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.08-14.27.30:101][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.08-14.27.30:101][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.08-14.27.30:101][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.08-14.27.30:101][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.08-14.27.30:102][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.08-14.27.30:134][798]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.08-14.27.30:134][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.08-14.27.30:134][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.08-14.27.30:134][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.08-14.27.30:135][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.11.08-14.27.30:135][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.11.08-14.27.30:136][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.11.08-14.27.30:136][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.11.08-14.27.30:136][798]LogInit: FAudioDevice initialized with ID 6.
+[2024.11.08-14.27.30:136][798]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.11.08-14.27.30:136][798]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.11.08-14.27.30:138][798]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.08-14.27.30:155][798]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ExplodingEnemy_C_UAID_D45D64B48F6FD72702_1751418519.damage_indicator has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.11.08-14.27.30:155][798]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_ExplodingEnemy' Component: '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ExplodingEnemy_C_UAID_D45D64B48F6FD72702_1751418519.damage_indicator' 
+[2024.11.08-14.27.30:156][798]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.08-14.27.30
+[2024.11.08-14.27.30:156][798]LogWorld: Bringing up level for play took: 0.017475
+[2024.11.08-14.27.30:158][798]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.11.08-14.27.30:163][798]PIE: Server logged in
+[2024.11.08-14.27.30:164][798]PIE: Play in editor total start time 0.15 seconds.
+[2024.11.08-14.27.31:498][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-14.27.31:498][908]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-14.27.31:498][908]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-14.27.31:501][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-14.27.31:501][908]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.08-14.27.31:510][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.08-14.27.31:512][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-14.27.31:527][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.08-14.27.31:528][908]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.11.08-14.27.31:528][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.11.08-14.27.31:529][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.11.08-14.27.31:532][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-14.27.31:538][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.08-14.27.31:683][909]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.11.08-14.27.40:137][497]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C
+[2024.11.08-14.27.40:138][497]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C
+[2024.11.08-14.27.40:146][497]LogActorFactory: Actor Factory spawned Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle as actor: BP_LazerMiniPuzzle_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_LazerMiniPuzzle_C_1
+[2024.11.08-14.27.40:153][497]LogActorFactory: Actor Factory spawned Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle as actor: BP_LazerMiniPuzzle_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_LazerMiniPuzzle_C_1
+[2024.11.08-14.27.41:138][548]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C
+[2024.11.08-14.27.41:138][548]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle_C
+[2024.11.08-14.27.41:143][548]LogActorFactory: Actor Factory spawned Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle as actor: BP_LazerMiniPuzzle_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_LazerMiniPuzzle_C_UAID_2C58B90D06847B2D02_1270467664
+[2024.11.08-14.27.41:153][548]LogActorFactory: Actor Factory spawned Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle as actor: BP_LazerMiniPuzzle_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_LazerMiniPuzzle_C_UAID_2C58B90D06847B2D02_1270467664
+[2024.11.08-14.27.42:952][680]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.08-14.27.42:958][680]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.08-14.27.42:958][680]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.08-14.27.42:968][680]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 9 ms (total: 55 ms)
+[2024.11.08-14.27.42:974][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-14.27.42:974][680]PIE: New page: PIE session: ThirdPersonMap (8 Nov 2024, 14:27:42)
+[2024.11.08-14.27.43:009][680]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-14.27.43:037][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027835s)
+[2024.11.08-14.27.43:037][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.027887s)
+[2024.11.08-14.27.43:049][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.11.08-14.27.43:053][680]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-14.27.43:053][680]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-14.27.43:053][680]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.08-14.27.43:054][680]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.08-14.27.43:054][680]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.08-14.27.43:054][680]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.08-14.27.43:054][680]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.08-14.27.43:061][680]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.08-14.27.43:061][680]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 1.17 sec)
+[2024.11.08-14.27.43:061][680]LogPlayLevel: PIE: World Init took: (0.007784s)
+[2024.11.08-14.27.43:061][680]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.11.08-14.27.43:061][680]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.08-14.27.43:061][680]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.08-14.27.43:061][680]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.08-14.27.43:061][680]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.08-14.27.43:061][680]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.08-14.27.43:061][680]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.08-14.27.43:061][680]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.08-14.27.43:061][680]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.08-14.27.43:061][680]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.08-14.27.43:061][680]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.08-14.27.43:061][680]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.08-14.27.43:063][680]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.08-14.27.43:089][680]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.08-14.27.43:089][680]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.08-14.27.43:089][680]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.08-14.27.43:089][680]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.08-14.27.43:089][680]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.11.08-14.27.43:089][680]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.11.08-14.27.43:090][680]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.11.08-14.27.43:090][680]LogInit: FAudioDevice initialized with ID 7.
+[2024.11.08-14.27.43:090][680]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.11.08-14.27.43:091][680]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2024.11.08-14.27.43:091][680]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.11.08-14.27.43:093][680]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.08-14.27.43:109][680]LogPhysics: Warning: Scale for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ExplodingEnemy_C_UAID_D45D64B48F6FD72702_1751418519.damage_indicator has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.11.08-14.27.43:109][680]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_ExplodingEnemy' Component: '/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ExplodingEnemy_C_UAID_D45D64B48F6FD72702_1751418519.damage_indicator' 
+[2024.11.08-14.27.43:110][680]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.08-14.27.43
+[2024.11.08-14.27.43:111][680]LogWorld: Bringing up level for play took: 0.017452
+[2024.11.08-14.27.43:112][680]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.11.08-14.27.43:117][680]PIE: Server logged in
+[2024.11.08-14.27.43:117][680]PIE: Play in editor total start time 0.16 seconds.
+[2024.11.08-14.27.49:841][262]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-14.27.49:853][263]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-14.27.49:864][264]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-14.27.49:876][265]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-14.27.49:886][266]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-14.27.49:898][267]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-14.27.49:910][268]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-14.27.49:922][269]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hehehhehehehhehehehehehe
+[2024.11.08-14.27.51:559][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-14.27.51:559][407]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-14.27.51:559][407]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-14.27.51:562][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-14.27.51:563][407]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.08-14.27.51:573][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.08-14.27.51:575][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-14.27.51:587][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-14.27.51:590][407]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.11.08-14.27.51:590][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.11.08-14.27.51:591][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.11.08-14.27.51:600][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.11.08-14.27.51:724][408]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.11.08-14.28.36:074][106]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.28.36:117][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.08-14.28.36:585][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-14.28.36:649][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle" FILE="D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset" SILENT=true
+[2024.11.08-14.28.36:663][151]LogSavePackage: Moving output files for package: /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle
+[2024.11.08-14.28.36:663][151]LogSavePackage: Moving 'D:/Lewis/CGD-Game/Prototype/Saved/BP_LazerMiniPuzzleD77D97ED411A7C3059E0DB874435E475.tmp' to 'D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset'
+[2024.11.08-14.28.36:668][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1.07 sec)
+[2024.11.08-14.28.36:671][151]AssetCheck: New page: Asset Save: BP_LazerMiniPuzzle
+[2024.11.08-14.28.36:671][151]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle
+[2024.11.08-14.28.53:038][825]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lasers/BPI_LaserInteractable.BPI_LaserInteractable
+[2024.11.08-14.28.53:038][825]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-14.28.53:038][825]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-14.28.56:555][234]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-14.28.56:555][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-14.28.59:870][535]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Lasers/BP_Laser.BP_Laser
+[2024.11.08-14.28.59:870][535]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-14.28.59:870][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-14.29.03:123][902]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-14.29.03:123][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-14.30.06:075][676]BlueprintLog: New page: Compile BP_LazerMiniPuzzle
+[2024.11.08-14.30.06:123][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.11.08-14.30.06:686][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-14.30.06:775][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle" FILE="D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset" SILENT=true
+[2024.11.08-14.30.06:789][716]LogSavePackage: Moving output files for package: /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle
+[2024.11.08-14.30.06:790][716]LogSavePackage: Moving 'D:/Lewis/CGD-Game/Prototype/Saved/BP_LazerMiniPuzzleA89B3F154F161904091C2F8330299082.tmp' to 'D:/Lewis/CGD-Game/Prototype/Content/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.uasset'
+[2024.11.08-14.30.06:800][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.19 sec)
+[2024.11.08-14.30.06:802][716]AssetCheck: New page: Asset Save: BP_LazerMiniPuzzle
+[2024.11.08-14.30.06:802][716]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MiniPuzzles/LazerMazePuzzle/BP_LazerMiniPuzzle.BP_LazerMiniPuzzle
+[2024.11.08-14.30.17:245][674]LogSlate: Window 'BP_LaserRedirector' being destroyed
+[2024.11.08-14.30.17:255][674]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.08-14.30.17:255][674]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-14.30.17:255][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
