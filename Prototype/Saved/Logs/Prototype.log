@@ -2059,3 +2059,366 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.12-09.10.27:128][241]AssetCheck: New page: Asset Save: multiple assets
 [2024.11.12-09.10.27:128][241]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DarkRoom.DarkRoom
 [2024.11.12-09.10.27:128][241]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss
+[2024.11.12-09.26.24:285][799]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.12-09.26.24:319][799]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.12-09.26.24:331][800]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.12-09.26.47:362][604]LogContentBrowser: Attempting asset rename: NewFolder -> DarkRoomBoss
+[2024.11.12-09.26.47:362][604]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.12-09.27.20:484][  5]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.12-09.27.20:493][  5]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.11.12-09.27.20:502][  5]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.11.12-09.27.20:523][  7]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.11.12-09.27.32:682][962]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DarkRoomBossCircle
+[2024.11.12-09.27.32:686][962]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCircle.
+[2024.11.12-09.27.32:686][962]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.11.12-09.27.34:547][107]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCircle.BP_DarkRoomBossCircle
+[2024.11.12-09.27.34:548][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.12-09.27.34:548][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.12-09.27.34:657][107]LogViewport: Scene viewport resized to 2288x1458, mode Windowed.
+[2024.11.12-09.29.27:464][791]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: ================================================
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Total job queries 211, among them cache hits 143 (67.77%)
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Tracking 65 distinct input hashes that result in 45 distinct outputs (69.23%)
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: RAM used: 1.47 MiB of 3.20 GiB budget. Usage: 0.04%
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Shaders Compiled: 57
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Jobs assigned 60, completed 57 (95.00%)
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Average time worker was idle: 539.50 s
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Time job spent in pending queue: average 0.46 s, longest 3.10 s
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Job execution time: average 1.16 s, max 3.56 s
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Job life time (pending + execution): average 1.64 s, max 3.76
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Shader code size: average 36.481 KiB, min 4.359 KiB, max 70.504 KiB
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.85 s
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Jobs were issued in 60 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Average processing rate: 5.79 jobs/sec
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Total thread time: 16.933 s
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Total thread preprocess time: 6.133 s
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Percentage time preprocessing: 36.22%
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 0.61 sec, max 0.62 sec, min 0.61 sec)
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    2 times, average 0.52 sec, max 0.58 sec, min 0.45 sec)
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.48 sec, max 0.56 sec, min 0.39 sec)
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.45 sec, max 0.56 sec, min 0.35 sec)
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.33 sec, max 0.40 sec, min 0.26 sec)
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.89% of total time (compiled   13 times, average 0.29 sec, max 0.68 sec, min 0.14 sec)
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.64% of total time (compiled   12 times, average 0.29 sec, max 0.60 sec, min 0.15 sec)
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.07% of total time (compiled   10 times, average 0.19 sec, max 0.45 sec, min 0.10 sec)
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.05% of total time (compiled    9 times, average 0.21 sec, max 0.34 sec, min 0.16 sec)
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 7.25% of total time (compiled    2 times, average 0.61 sec, max 0.62 sec, min 0.61 sec)
+[2024.11.12-09.30.09:608][  5]LogShaderCompilers: Display: ================================================
+[2024.11.12-09.30.17:440][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-09.30.17:517][586]LogSavePackage: Moving output files for package: /Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCircle
+[2024.11.12-09.30.17:517][586]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/BP_DarkRoomBossCircle2C1392954C5F093C71D9DBADE82D10FC.tmp' to 'D:/CGD-Game/Prototype/Content/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCircle.uasset'
+[2024.11.12-09.30.17:518][586]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCircle.
+[2024.11.12-09.30.17:526][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.68 sec)
+[2024.11.12-09.30.17:526][586]AssetCheck: New page: Asset Save: BP_DarkRoomBossCircle
+[2024.11.12-09.30.17:526][586]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCircle.BP_DarkRoomBossCircle
+[2024.11.12-09.31.47:368][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.11.12-09.31.47:371][486]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DarkRoom' took 0.023
+[2024.11.12-09.31.47:372][486]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCircle] ([2] browsable assets)...
+[2024.11.12-09.31.47:379][486]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCircle.BP_DarkRoomBossCircle]
+[2024.11.12-09.31.47:379][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCircle]
+[2024.11.12-09.31.47:382][486]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCircle_Auto4
+[2024.11.12-09.31.47:382][486]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/BP_DarkRoomBossCircle_Auto4A94D453F402265D842CA34AF81E8D875.tmp' to 'D:/CGD-Game/Prototype/Saved/Autosaves/Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCircle_Auto4.uasset'
+[2024.11.12-09.31.47:383][486]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.11.12-09.33.00:444][168]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.33.00:444][168]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.33.52:758][186]LogViewport: Scene viewport resized to 2284x1487, mode Windowed.
+[2024.11.12-09.33.52:826][188]LogViewport: Scene viewport resized to 619x279, mode Windowed.
+[2024.11.12-09.33.52:851][189]LogViewport: Scene viewport resized to 460x164, mode Windowed.
+[2024.11.12-09.33.53:104][210]LogViewport: Scene viewport resized to 2288x1458, mode Windowed.
+[2024.11.12-09.33.54:937][352]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.11.12-09.33.54:937][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.12-09.33.55:575][398]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.12-09.33.55:575][398]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.11.12-09.33.55:575][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.12-09.33.56:607][473]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.11.12-09.33.56:607][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.12-09.34.28:956][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-09.34.29:019][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DarkRoom" FILE="D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.12-09.34.29:047][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.12-09.34.29:067][ 42]LogSavePackage: Moving output files for package: /Game/Levels/DarkRoom
+[2024.11.12-09.34.29:068][ 42]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/DarkRoom4D1C9FE3438438F5DB83A6B86627175C.tmp' to 'D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap'
+[2024.11.12-09.34.29:077][ 42]LogFileHelpers: Saving map 'DarkRoom' took 0.058
+[2024.11.12-09.34.29:082][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 1.80 sec)
+[2024.11.12-09.34.29:084][ 42]AssetCheck: New page: Asset Save: DarkRoom
+[2024.11.12-09.34.29:084][ 42]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DarkRoom.DarkRoom
+[2024.11.12-09.34.32:495][304]BlueprintLog: New page: Compile BP_DarkRoomBossCircle
+[2024.11.12-09.34.32:515][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.11.12-09.34.32:519][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.DESTROYED_BP_DarkRoomBossCircle_C_CHILDACTOR_106.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.11.12-09.34.32:521][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.DESTROYED_BP_DarkRoomBossCircle_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.11.12-09.34.32:523][304]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/DarkRoom.DarkRoom:PersistentLevel.DESTROYED_BP_DarkRoomBossCircle_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.11.12-09.34.32:528][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.DESTROYED_BP_DarkRoomBossCircle_C_CHILDACTOR_108.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.11.12-09.34.32:530][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.DESTROYED_BP_DarkRoomBossCircle_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.11.12-09.34.32:532][304]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/DarkRoom.DarkRoom:PersistentLevel.DESTROYED_BP_DarkRoomBossCircle_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.11.12-09.34.51:804][669]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.12-09.34.51:812][669]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.11.12-09.34.51:820][669]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.11.12-09.34.51:833][670]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.11.12-09.35.07:842][933]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DarkRoomBossCross
+[2024.11.12-09.35.07:846][933]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCross.
+[2024.11.12-09.35.07:847][933]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.11.12-09.35.09:196][ 39]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCross.BP_DarkRoomBossCross
+[2024.11.12-09.35.09:196][ 39]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.12-09.35.09:196][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.12-09.35.09:301][ 39]LogViewport: Scene viewport resized to 2288x1458, mode Windowed.
+[2024.11.12-09.35.12:550][284]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.12-09.36.38:725][ 36]BlueprintLog: New page: Compile BP_DarkRoomBossCross
+[2024.11.12-09.36.38:745][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.11.12-09.37.11:975][592]BlueprintLog: New page: Compile BP_DarkRoomBossCross
+[2024.11.12-09.37.11:993][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.12-09.37.13:546][705]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.37.13:546][705]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.37.13:546][705]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.37.22:270][371]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.37.22:270][371]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.37.22:270][371]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.37.22:270][371]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.37.38:420][607]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.37.38:420][607]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.37.38:420][607]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.37.38:420][607]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.37.38:420][607]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.37.41:115][821]BlueprintLog: New page: Compile BP_DarkRoomBoss
+[2024.11.12-09.37.41:144][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.12-09.37.41:237][822]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.38.20:305][875]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.38.20:305][875]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.38.59:692][975]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.38.59:692][975]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.38.59:692][975]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.39.01:873][148]BlueprintLog: New page: Compile BP_DarkRoomBoss
+[2024.11.12-09.39.01:906][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.12-09.39.02:005][149]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.39.03:448][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.11.12-09.39.04:380][261]LogSlate: Window 'Save Content' being destroyed
+[2024.11.12-09.39.04:403][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-09.39.04:448][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DarkRoom" FILE="D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.12-09.39.04:478][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.11.12-09.39.04:494][261]LogSavePackage: Moving output files for package: /Game/Levels/DarkRoom
+[2024.11.12-09.39.04:496][261]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/DarkRoomF1D4A0B24DA61E17B89666AFA11A2DFA.tmp' to 'D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap'
+[2024.11.12-09.39.04:509][261]LogFileHelpers: Saving map 'DarkRoom' took 0.061
+[2024.11.12-09.39.04:516][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomBlueprints/Enemies/BP_DarkRoomBoss" FILE="D:/CGD-Game/Prototype/Content/CustomBlueprints/Enemies/BP_DarkRoomBoss.uasset" SILENT=true
+[2024.11.12-09.39.04:525][261]LogSavePackage: Moving output files for package: /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss
+[2024.11.12-09.39.04:526][261]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/BP_DarkRoomBoss80B81AD543057B4502C0BF94800947F3.tmp' to 'D:/CGD-Game/Prototype/Content/CustomBlueprints/Enemies/BP_DarkRoomBoss.uasset'
+[2024.11.12-09.39.04:535][261]LogSavePackage: Moving output files for package: /Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCircle
+[2024.11.12-09.39.04:536][261]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/BP_DarkRoomBossCircle768F9C604A1C5FED4EC606AB04D3E8FF.tmp' to 'D:/CGD-Game/Prototype/Content/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCircle.uasset'
+[2024.11.12-09.39.04:547][261]LogSavePackage: Moving output files for package: /Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCross
+[2024.11.12-09.39.04:547][261]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/BP_DarkRoomBossCross52FB91ED4AE7F2F1DE07799012D967D4.tmp' to 'D:/CGD-Game/Prototype/Content/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCross.uasset'
+[2024.11.12-09.39.04:547][261]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCross.
+[2024.11.12-09.39.04:554][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 1.96 sec)
+[2024.11.12-09.39.04:563][261]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.12-09.39.04:563][261]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DarkRoom.DarkRoom
+[2024.11.12-09.39.04:563][261]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss
+[2024.11.12-09.39.04:563][261]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCircle.BP_DarkRoomBossCircle
+[2024.11.12-09.39.04:563][261]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBlueprints/Components/DarkRoomBoss/BP_DarkRoomBossCross.BP_DarkRoomBossCross
+[2024.11.12-09.39.52:847][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.12-09.39.53:817][ 27]LogSlate: Window 'Save Content' being destroyed
+[2024.11.12-09.39.53:840][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-09.39.53:905][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DarkRoom" FILE="D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.12-09.39.53:933][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.11.12-09.39.53:949][ 27]LogSavePackage: Moving output files for package: /Game/Levels/DarkRoom
+[2024.11.12-09.39.53:950][ 27]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/DarkRoom1EE076B745C12EA23024EA897F3EE604.tmp' to 'D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap'
+[2024.11.12-09.39.53:964][ 27]LogFileHelpers: Saving map 'DarkRoom' took 0.059
+[2024.11.12-09.39.53:964][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomBlueprints/Enemies/BP_DarkRoomBoss" FILE="D:/CGD-Game/Prototype/Content/CustomBlueprints/Enemies/BP_DarkRoomBoss.uasset" SILENT=true
+[2024.11.12-09.39.53:971][ 27]LogSavePackage: Moving output files for package: /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss
+[2024.11.12-09.39.53:972][ 27]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/BP_DarkRoomBossAE5DD920475B795FC2CFFB9FBC95002F.tmp' to 'D:/CGD-Game/Prototype/Content/CustomBlueprints/Enemies/BP_DarkRoomBoss.uasset'
+[2024.11.12-09.39.53:981][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 2.10 sec)
+[2024.11.12-09.39.53:986][ 27]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.12-09.39.53:986][ 27]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DarkRoom.DarkRoom
+[2024.11.12-09.39.53:986][ 27]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss
+[2024.11.12-09.39.58:077][323]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.40.04:526][823]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.40.04:526][823]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.40.09:513][216]BlueprintLog: New page: Compile BP_DarkRoomBoss
+[2024.11.12-09.40.09:542][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.12-09.40.09:643][217]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.40.10:839][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.12-09.40.12:209][310]LogSlate: Window 'Save Content' being destroyed
+[2024.11.12-09.40.12:231][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-09.40.12:289][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DarkRoom" FILE="D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.12-09.40.12:317][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.12-09.40.12:332][310]LogSavePackage: Moving output files for package: /Game/Levels/DarkRoom
+[2024.11.12-09.40.12:333][310]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/DarkRoom14724B67419998D71EE789B1B0C79DF7.tmp' to 'D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap'
+[2024.11.12-09.40.12:343][310]LogFileHelpers: Saving map 'DarkRoom' took 0.054
+[2024.11.12-09.40.12:351][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomBlueprints/Enemies/BP_DarkRoomBoss" FILE="D:/CGD-Game/Prototype/Content/CustomBlueprints/Enemies/BP_DarkRoomBoss.uasset" SILENT=true
+[2024.11.12-09.40.12:359][310]LogSavePackage: Moving output files for package: /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss
+[2024.11.12-09.40.12:359][310]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/BP_DarkRoomBoss3B63AA56401B4C90B24803A97681F916.tmp' to 'D:/CGD-Game/Prototype/Content/CustomBlueprints/Enemies/BP_DarkRoomBoss.uasset'
+[2024.11.12-09.40.12:367][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 2.23 sec)
+[2024.11.12-09.40.12:371][310]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.12-09.40.12:371][310]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DarkRoom.DarkRoom
+[2024.11.12-09.40.12:371][310]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss
+[2024.11.12-09.41.49:056][112]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.41.55:579][687]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.42.15:002][373]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.43.46:427][450]BlueprintLog: New page: Compile BP_DarkRoomBoss
+[2024.11.12-09.43.46:430][450]LogBlueprint: Error: [AssetLog] D:\CGD-Game\Prototype\Content\CustomBlueprints\Enemies\BP_DarkRoomBoss.uasset: [Compiler] This blueprint (self) is not a ChildActorComponent, therefore ' Target ' must have a connection.
+[2024.11.12-09.43.46:457][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.12-09.43.51:142][853]BlueprintLog: New page: Compile BP_DarkRoomBoss
+[2024.11.12-09.43.51:174][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.12-09.43.52:548][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.12-09.43.53:723][965]LogSlate: Window 'Save Content' being destroyed
+[2024.11.12-09.43.53:753][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-09.43.53:811][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DarkRoom" FILE="D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.12-09.43.53:831][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.11.12-09.43.53:846][965]LogSavePackage: Moving output files for package: /Game/Levels/DarkRoom
+[2024.11.12-09.43.53:848][965]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/DarkRoom69BE7A484DE642127B9F1A9FD87437D3.tmp' to 'D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap'
+[2024.11.12-09.43.53:858][965]LogFileHelpers: Saving map 'DarkRoom' took 0.047
+[2024.11.12-09.43.53:886][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomBlueprints/Enemies/BP_DarkRoomBoss" FILE="D:/CGD-Game/Prototype/Content/CustomBlueprints/Enemies/BP_DarkRoomBoss.uasset" SILENT=true
+[2024.11.12-09.43.53:895][965]LogSavePackage: Moving output files for package: /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss
+[2024.11.12-09.43.53:897][965]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/BP_DarkRoomBossC7719BA742D300955F8514923AE79F62.tmp' to 'D:/CGD-Game/Prototype/Content/CustomBlueprints/Enemies/BP_DarkRoomBoss.uasset'
+[2024.11.12-09.43.53:904][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 2.38 sec)
+[2024.11.12-09.43.53:909][965]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.12-09.43.53:909][965]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DarkRoom.DarkRoom
+[2024.11.12-09.43.53:909][965]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss
+[2024.11.12-09.43.55:029][ 61]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.12-09.43.55:036][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.12-09.43.55:037][ 61]PIE: New page: PIE session: DarkRoom (12 Nov 2024, 09:43:55)
+[2024.11.12-09.43.55:037][ 61]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DarkRoom
+[2024.11.12-09.43.55:040][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003488s)
+[2024.11.12-09.43.55:040][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DarkRoom.DarkRoom to /Game/Levels/UEDPIE_0_DarkRoom.DarkRoom (0.003520s)
+[2024.11.12-09.43.55:053][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.12-09.43.55:053][ 61]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.12-09.43.55:054][ 61]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.12-09.43.55:054][ 61]LogAIModule: Creating AISystem for world DarkRoom
+[2024.11.12-09.43.55:054][ 61]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2024.11.12-09.43.55:054][ 61]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.11.12-09.43.55:054][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.12-09.43.55:054][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.12-09.43.55:054][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.12-09.43.55:054][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.12-09.43.55:054][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.12-09.43.55:054][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.12-09.43.55:054][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.12-09.43.55:054][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.12-09.43.55:055][ 61]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.12-09.43.55:055][ 61]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.12-09.43.55:055][ 61]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.12-09.43.55:056][ 61]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.12-09.43.55:083][ 61]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.11.12-09.43.55:084][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.12-09.43.55:084][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.12-09.43.55:084][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.12-09.43.55:085][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.11.12-09.43.55:085][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.11.12-09.43.55:086][ 61]LogInit: FAudioDevice initialized with ID 8.
+[2024.11.12-09.43.55:086][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.11.12-09.43.55:086][ 61]LogAudio: Display: Audio Device (ID: 8) registered with world 'DarkRoom'.
+[2024.11.12-09.43.55:086][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.11.12-09.43.55:086][ 61]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.11.12-09.43.55:088][ 61]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.12-09.43.55:090][ 61]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DarkRoom.DarkRoom up for play (max tick rate 0) at 2024.11.12-09.43.55
+[2024.11.12-09.43.55:091][ 61]LogWorld: Bringing up level for play took: 0.002252
+[2024.11.12-09.43.55:092][ 61]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2024.11.12-09.43.55:097][ 61]PIE: Server logged in
+[2024.11.12-09.43.55:097][ 61]PIE: Play in editor total start time 0.061 seconds.
+[2024.11.12-09.43.55:653][108]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.12-09.43.55:653][108]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.12-09.43.55:653][108]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WGT_BP_Interface_C_0
+[2024.11.12-09.43.58:885][432]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'shapes_left' of length 0 in '/Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss_C'!
+[2024.11.12-09.43.58:885][432]LogScript: Warning: Script Msg called by: BP_DarkRoomBoss_C /Game/Levels/UEDPIE_0_DarkRoom.DarkRoom:PersistentLevel.BP_DarkRoomBoss_C_1
+[2024.11.12-09.44.01:191][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.12-09.44.01:191][657]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DarkRoom
+[2024.11.12-09.44.01:192][657]LogWorld: UWorld::CleanupWorld for DarkRoom, bSessionEnded=true, bCleanupResources=true
+[2024.11.12-09.44.01:192][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.12-09.44.01:200][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.12-09.44.01:203][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.12-09.44.01:218][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.12-09.44.01:219][657]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.11.12-09.44.01:219][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.11.12-09.44.01:220][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.11.12-09.44.01:226][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.12-09.44.01:306][658]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2024.11.12-09.44.22:686][513]BlueprintLog: New page: Compile BP_DarkRoomBoss
+[2024.11.12-09.44.22:721][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.12-09.44.24:025][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.11.12-09.44.25:564][622]LogSlate: Window 'Save Content' being destroyed
+[2024.11.12-09.44.25:592][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-09.44.25:652][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DarkRoom" FILE="D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.12-09.44.25:677][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.11.12-09.44.25:692][622]LogSavePackage: Moving output files for package: /Game/Levels/DarkRoom
+[2024.11.12-09.44.25:693][622]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/DarkRoomB911B96641BAE038FA71EFBADF9B0278.tmp' to 'D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap'
+[2024.11.12-09.44.25:705][622]LogFileHelpers: Saving map 'DarkRoom' took 0.054
+[2024.11.12-09.44.25:730][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomBlueprints/Enemies/BP_DarkRoomBoss" FILE="D:/CGD-Game/Prototype/Content/CustomBlueprints/Enemies/BP_DarkRoomBoss.uasset" SILENT=true
+[2024.11.12-09.44.25:739][622]LogSavePackage: Moving output files for package: /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss
+[2024.11.12-09.44.25:741][622]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/BP_DarkRoomBoss97047D0F4844C6AED1931A8434DED3ED.tmp' to 'D:/CGD-Game/Prototype/Content/CustomBlueprints/Enemies/BP_DarkRoomBoss.uasset'
+[2024.11.12-09.44.25:749][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 2.54 sec)
+[2024.11.12-09.44.25:753][622]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.12-09.44.25:753][622]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DarkRoom.DarkRoom
+[2024.11.12-09.44.25:753][622]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss
+[2024.11.12-09.44.37:786][685]LogDerivedDataCache: C:/Users/e3-love/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.071 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1227 files in 1949 folders with total size 46 MiB.
+[2024.11.12-09.44.42:123][ 67]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.12-09.44.42:129][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.12-09.44.42:129][ 67]PIE: New page: PIE session: DarkRoom (12 Nov 2024, 09:44:42)
+[2024.11.12-09.44.42:152][ 67]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DarkRoom
+[2024.11.12-09.44.42:155][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003723s)
+[2024.11.12-09.44.42:155][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DarkRoom.DarkRoom to /Game/Levels/UEDPIE_0_DarkRoom.DarkRoom (0.003758s)
+[2024.11.12-09.44.42:171][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.12-09.44.42:172][ 67]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.12-09.44.42:172][ 67]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.12-09.44.42:172][ 67]LogAIModule: Creating AISystem for world DarkRoom
+[2024.11.12-09.44.42:172][ 67]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2024.11.12-09.44.42:172][ 67]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.11.12-09.44.42:172][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.12-09.44.42:172][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.12-09.44.42:172][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.12-09.44.42:172][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.12-09.44.42:172][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.12-09.44.42:172][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.12-09.44.42:172][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.12-09.44.42:172][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.12-09.44.42:173][ 67]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.12-09.44.42:173][ 67]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.12-09.44.42:173][ 67]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.12-09.44.42:174][ 67]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.12-09.44.42:200][ 67]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.11.12-09.44.42:201][ 67]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.12-09.44.42:201][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.12-09.44.42:201][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.12-09.44.42:202][ 67]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.11.12-09.44.42:202][ 67]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.11.12-09.44.42:203][ 67]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.11.12-09.44.42:203][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.11.12-09.44.42:203][ 67]LogInit: FAudioDevice initialized with ID 9.
+[2024.11.12-09.44.42:203][ 67]LogAudio: Display: Audio Device (ID: 9) registered with world 'DarkRoom'.
+[2024.11.12-09.44.42:203][ 67]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.11.12-09.44.42:208][ 67]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.12-09.44.42:211][ 67]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DarkRoom.DarkRoom up for play (max tick rate 0) at 2024.11.12-09.44.42
+[2024.11.12-09.44.42:211][ 67]LogWorld: Bringing up level for play took: 0.002091
+[2024.11.12-09.44.42:212][ 67]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2024.11.12-09.44.42:216][ 67]PIE: Server logged in
+[2024.11.12-09.44.42:217][ 67]PIE: Play in editor total start time 0.087 seconds.
+[2024.11.12-09.44.43:084][148]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack 0
+[2024.11.12-09.44.43:084][148]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.12-09.44.43:084][148]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.WGT_BP_Interface_C_0
+[2024.11.12-09.44.46:189][459]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'shapes_left' of length 0 in '/Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss_C'!
+[2024.11.12-09.44.46:189][459]LogScript: Warning: Script Msg called by: BP_DarkRoomBoss_C /Game/Levels/UEDPIE_0_DarkRoom.DarkRoom:PersistentLevel.BP_DarkRoomBoss_C_1
+[2024.11.12-09.44.47:621][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.12-09.44.47:621][597]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DarkRoom
+[2024.11.12-09.44.47:621][597]LogWorld: UWorld::CleanupWorld for DarkRoom, bSessionEnded=true, bCleanupResources=true
+[2024.11.12-09.44.47:622][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.12-09.44.47:630][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.12-09.44.47:633][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.12-09.44.47:639][597]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.12-09.44.47:641][597]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.11.12-09.44.47:641][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.11.12-09.44.47:642][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.11.12-09.44.47:645][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.12-09.44.47:648][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.12-09.44.47:732][598]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.11.12-09.45.15:483][997]BlueprintLog: New page: Compile BP_DarkRoomBoss
+[2024.11.12-09.45.15:512][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.12-09.45.16:912][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.12-09.45.18:111][108]LogSlate: Window 'Save Content' being destroyed
+[2024.11.12-09.45.18:138][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-09.45.18:201][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DarkRoom" FILE="D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.12-09.45.18:230][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.11.12-09.45.18:245][108]LogSavePackage: Moving output files for package: /Game/Levels/DarkRoom
+[2024.11.12-09.45.18:247][108]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/DarkRoom5025F10A4282B598946F52885E3D3A7C.tmp' to 'D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap'
+[2024.11.12-09.45.18:260][108]LogFileHelpers: Saving map 'DarkRoom' took 0.059
+[2024.11.12-09.45.18:265][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 2.67 sec)
+[2024.11.12-09.45.18:267][108]AssetCheck: New page: Asset Save: DarkRoom
+[2024.11.12-09.45.18:267][108]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DarkRoom.DarkRoom
