@@ -2027,3 +2027,35 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.12-09.05.20:894][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.34 sec)
 [2024.11.12-09.05.20:896][510]AssetCheck: New page: Asset Save: BP_XPlate
 [2024.11.12-09.05.20:896][510]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBlueprints/Objects/Plates/BP_XPlate.BP_XPlate
+[2024.11.12-09.06.49:045][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-09.06.49:099][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DarkRoom" FILE="D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.12-09.06.49:127][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.12-09.06.49:144][ 15]LogSavePackage: Moving output files for package: /Game/Levels/DarkRoom
+[2024.11.12-09.06.49:145][ 15]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/DarkRoom30596A184377C44B9DFF079C7571B973.tmp' to 'D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap'
+[2024.11.12-09.06.49:155][ 15]LogFileHelpers: Saving map 'DarkRoom' took 0.056
+[2024.11.12-09.06.49:171][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 1.46 sec)
+[2024.11.12-09.06.49:174][ 15]AssetCheck: New page: Asset Save: DarkRoom
+[2024.11.12-09.06.49:174][ 15]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DarkRoom.DarkRoom
+[2024.11.12-09.09.40:122][928]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.09.46:205][406]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.10.18:768][926]BlueprintLog: New page: Compile BP_DarkRoomBoss
+[2024.11.12-09.10.18:814][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.12-09.10.18:975][927]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.10.24:167][120]BlueprintLog: New page: Compile BP_DarkRoomBoss
+[2024.11.12-09.10.24:196][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.12-09.10.24:338][121]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss'
+[2024.11.12-09.10.25:897][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.12-09.10.26:970][241]LogSlate: Window 'Save Content' being destroyed
+[2024.11.12-09.10.26:994][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.12-09.10.27:045][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/DarkRoom" FILE="D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.12-09.10.27:073][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.11.12-09.10.27:089][241]LogSavePackage: Moving output files for package: /Game/Levels/DarkRoom
+[2024.11.12-09.10.27:090][241]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/DarkRoomC7DFC6754A1EAC19417470A3FCA27EF0.tmp' to 'D:/CGD-Game/Prototype/Content/Levels/DarkRoom.umap'
+[2024.11.12-09.10.27:101][241]LogFileHelpers: Saving map 'DarkRoom' took 0.057
+[2024.11.12-09.10.27:109][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomBlueprints/Enemies/BP_DarkRoomBoss" FILE="D:/CGD-Game/Prototype/Content/CustomBlueprints/Enemies/BP_DarkRoomBoss.uasset" SILENT=true
+[2024.11.12-09.10.27:117][241]LogSavePackage: Moving output files for package: /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss
+[2024.11.12-09.10.27:118][241]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/BP_DarkRoomBossF76D6A2C4916761CB7D092AA5811D795.tmp' to 'D:/CGD-Game/Prototype/Content/CustomBlueprints/Enemies/BP_DarkRoomBoss.uasset'
+[2024.11.12-09.10.27:124][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 1.59 sec)
+[2024.11.12-09.10.27:128][241]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.12-09.10.27:128][241]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DarkRoom.DarkRoom
+[2024.11.12-09.10.27:128][241]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBlueprints/Enemies/BP_DarkRoomBoss.BP_DarkRoomBoss
