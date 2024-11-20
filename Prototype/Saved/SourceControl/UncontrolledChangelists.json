@@ -993,10 +993,21 @@
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/BPC_DetectBoobyTrap.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/BoobyTrapLevel.umap",
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes.uasset",
+<<<<<<< refs/remotes/origin/Corridors&TrapsJG&CC
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/Trapdoor.uasset",
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/Trapdoor_Anim.uasset",
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/Trapdoor_PhysicsAsset.uasset",
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/Trapdoor_Skeleton.uasset",
+=======
+				"D:/CGD-Game/Prototype/Content/Models/InteractiveLevelElements/Cyan.uasset",
+				"D:/CGD-Game/Prototype/Content/Models/InteractiveLevelElements/DispenserBlock.uasset",
+				"D:/CGD-Game/Prototype/Content/Models/InteractiveLevelElements/Yellow.uasset",
+				"D:/CGD-Game/Prototype/Content/Models/InteractiveLevelElements/Poison_Dart.uasset",
+				"D:/CGD-Game/Prototype/Content/Materials/ClayMaterials/MI_ClayGreen.uasset",
+				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/BP_DartBox.uasset",
+				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Arrow.uasset",
+				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/BP_PoisonDart.uasset",
+>>>>>>> BTRAPv3 - Added dart trap
 				"D:/CGD-Game/Prototype/Content/JGCC.umap",
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/BP_WallSpikes.uasset",
 				"D:/CGD-Game/CGD-Game/Prototype/Content/CustomBlueprints/TutorialInteractionElements/PortalEntrance_BP.uasset",
