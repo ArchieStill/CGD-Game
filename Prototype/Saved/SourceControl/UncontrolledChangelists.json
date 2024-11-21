@@ -5,9 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/TylerLevel.umap",
 				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/MainMenu.umap",
-				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/WP_MainMenu.uasset"
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/WP_MainMenu.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/GMB_MenuGameMode.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/TylerLevel.umap"
 			]
 		}
 	]
