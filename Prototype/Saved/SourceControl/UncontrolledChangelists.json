@@ -6,18 +6,20 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/CGD-Game/Prototype/Content/Levels/DeathSytemTestLevel.umap",
-				"D:/CGD-Game/Prototype/Content/Levels/BP_DeathBox.uasset",
 				"D:/CGD-Game/Prototype/Content/DeathSystem/BP_DeathBox.uasset",
-				"D:/CGD-Game/Prototype/Content/DeathSystem/BP_DeathSystemManager.uasset",
 				"D:/CGD-Game/Prototype/Content/DeathSystem/BPC_DeathComponent.uasset",
 				"D:/CGD-Game/Prototype/Content/DeathSystem/BP_DeathBoxManager.uasset",
 				"D:/CGD-Game/Prototype/Content/DeathSystem/BPC_UIFadeComponent.uasset",
 				"D:/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_Checkpoint.uasset",
 				"D:/CGD-Game/Prototype/Content/DeathSystem/BP_Checkpoint.uasset",
 				"D:/CGD-Game/Prototype/Content/DeathSystem/WBP_UIFade.uasset",
-				"D:/CGD-Game/Prototype/Content/DeathSystem/BP_CheckpointManager.uasset",
-				"D:/CGD-Game/Prototype/Content/DeathSystem/MI_ClayCheckpoint.uasset"
+				"D:/CGD-Game/Prototype/Content/DeathSystem/MI_ClayCheckpoint.uasset",
+				"D:/CGD-Game/Prototype/Content/ThirdPerson/Hammer_Level/BP_Hammer_Interaction.uasset",
+				"D:/CGD-Game/Prototype/Content/CustomBlueprints/Components/SlowLight/BP_SlowLightObj.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/BP_DeathBox.uasset",
+				"D:/CGD-Game/Prototype/Content/DeathSystem/BP_DeathSystemManager.uasset",
+				"D:/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_Checkpoint.uasset",
+				"D:/CGD-Game/Prototype/Content/DeathSystem/BP_CheckpointManager.uasset"
 			]
 		}
 	]
