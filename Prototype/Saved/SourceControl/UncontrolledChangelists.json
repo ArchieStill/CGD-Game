@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/CGD-Game/CGD-Game/Prototype/Content/BoobyTrapElements/BP_DecoyTile.uasset",
+				"D:/CGD-Game/CGD-Game/Prototype/Content/BoobyTrapElements/Trapdoor.uasset",
+				"D:/CGD-Game/CGD-Game/Prototype/Content/Levels/BoobyTrapLevel.umap",
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/BP_PoisonDart.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/BoobyTrapLevel.umap"
 			]
