@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/A/GT/TXUR61PLYV6LY987OJWGIF.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/BP_HammerButton.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/BP_CodeCounter.uasset",
@@ -193,6 +194,14 @@
 				"D:/CGD-Game/Prototype/Content/DeathSystem/BP_DeathSystemManager.uasset",
 				"D:/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_Checkpoint.uasset",
 				"D:/CGD-Game/Prototype/Content/DeathSystem/BP_CheckpointManager.uasset"
+=======
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/MainMenu.umap",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/WP_MainMenu.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/GMB_MenuGameMode.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/Picture1.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/Background_Image1.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/TylerLevel.umap"
+>>>>>>> origin/TylerMenu
 			]
 		}
 	]
