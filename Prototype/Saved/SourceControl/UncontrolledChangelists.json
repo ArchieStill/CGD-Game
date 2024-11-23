@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/A/NB/IE6ZNC2AUGCS5PQN19ELMS.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/SimplePuzzles/BP_CodeCounter.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/SimplePuzzles/BP_ActivateCodeCounter.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/9/RK/4FASCTDDEDNRYZ4B80GOZC.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/4/ER/9ZVJPMUTKM8FKSBBVI98NA.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/_GENERATED/benja/CubeGridToolOutput_86156A3D.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/BoulderChaseFlat.umap",
+				"D:/CGD-Game/Prototype/Content/Pots+Collects/Pot.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/BP_ChaseBoulder.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/BP_ChaseObstacle.uasset",
+				"D:/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/CGD-Game/Prototype/Content/CustomBlueprints/BP_ZoomOutCam.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Tyler_UI/WP_MainMenu.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/SimplePuzzles/BP_HammerButton.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/SimplePuzzles/BP_CodeCounter.uasset"
