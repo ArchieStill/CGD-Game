@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/CGD-Game/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes.uasset",
+				"D:/CGD-Game/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/1/GP/BLZC3I11RW3NOS88XH9CGI.uasset",
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/1/LH/CEW9VFZ8NG3CEHJUSUYLH7.uasset",
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/1/YV/VQ837WQJBKVPW1RU1VJLK0.uasset",
