@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/CGD-Game/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes.uasset",
 				"D:/CGD-Game/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/1/GP/BLZC3I11RW3NOS88XH9CGI.uasset",
@@ -432,6 +433,44 @@
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Tyler_UI/WP_MainMenu.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/SimplePuzzles/BP_HammerButton.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/SimplePuzzles/BP_CodeCounter.uasset"
+=======
+				"D:/SJR/CGD-Game/Prototype/Content/Sam/BP_Disc.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/Sam/BP_Tilt_Demo.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/8/AX/WAR2NPAU2RD3HT2XBG36HS.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/9/RG/1COW68RRFPHBMLIEYM220U.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/7/PO/7C06D2EOLQARW2D4IEFKK6.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/5/6I/QU81UGF0QMMHCPBUVTBPCD.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/6/02/PNBFIYAE5PUXAWANIWYLEQ.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/D/2S/IGE1W33OZXFE6GVWMQ7KQE.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/A/0J/QUT87TJHDKQ3DQE0OLZMSX.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/3/DQ/KCNVSRS5YGLPQOLOCLSU08.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/D/LO/D3WGB6JPW12MJU9DA1ATY4.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/6/EW/ETEOF43V70474MWZS4ALXU.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/0/K6/I92Y8GGYBPGHMSYL0K1P1J.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/D/O2/UIBIVDWI358UWYQZE6UYAD.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/4/QR/H27YHFP7R4TJLRWANTAD1X.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/D/BQ/A812F8VRMMSBPYZJSDN201.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/D/NB/A6OS2J9J61HMUFKB03M7A1.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/8/8G/YL9B4JHYNLMPLC5PQF52IC.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/A/I7/FRMUYLXQD3505ERZM4ATO3.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/F/3G/2V53O1GS8Y1YAF9CFXCKOW.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/C/UU/X1PHK7C621SZ8QEX0M1LRN.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/B/LY/YLFW2JNA5QH218IUPXX8Z5.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/B/WV/A7E5UXUWMGFBCOG9NR6FYT.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/2/GB/0TMM5470QK5A5SCJTXFJZC.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/6/C1/GLT7EGS9XX4URD102NQE5W.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/3/DS/EN2M7NLVLPSKJ49G5Z62O8.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/C/O0/G19S6A6R3MT7HW38AHXGNA.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/E/EU/W3ULGNYUEOUCA83BX81ZKY.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/E/C3/SIQBVMR9ZAMGUM10O99BF9.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/C/63/W8S2RDM4TVP02SIXPT3BG0.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/6/Y6/JSX31PBT15II7KWETFCCGB.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/2/SJ/LV78UQKRL6RWOZ8JBTFG56.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/0/5M/JPEI4W757DUVCVFFJP8SSM.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/6/TT/1I6F3CDFH2JN7MX96GBM7Z.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/3/8T/Y9RAHUOIS351K31Q6WRNTH.uasset",
+				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Sam/SamLevel/B/TW/LV5HYESJABKSXYXIZ5F70N.uasset"
+>>>>>>> Sam
 			]
 		}
 	]
