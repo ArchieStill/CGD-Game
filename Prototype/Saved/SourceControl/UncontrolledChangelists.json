@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Pots+Collects/Relic.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/2/JY/HI4WU1KBUQWMDD7BW3X2GD.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/7/QD/F392SPCWLIHXNKIXV382LD.uasset",
@@ -54,6 +55,13 @@
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Audio/AudioTriggerFunction.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Audio/AudioTriggerPurpose.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/__ExternalActors__/Levels/AlphaEnding/BoulderChaseSlope/1/JZ/F496YO92VGJVTZ427B20GE.uasset"
+=======
+				"F:/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes.uasset",
+				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/4/ER/9ZVJPMUTKM8FKSBBVI98NA.uasset",
+				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/7/QD/F392SPCWLIHXNKIXV382LD.uasset",
+				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/C/TA/Z2KRG6R0PARGYTXTWFNVH3.uasset",
+				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/E/L6/Q5A164MYQYR6MY4RSF5AM2.uasset"
+>>>>>>> origin/master
 			]
 		}
 	]
