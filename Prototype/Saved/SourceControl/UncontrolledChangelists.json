@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes.uasset",
 				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/BoobyTrapElements/BP_DartBox.uasset",
@@ -12,6 +13,10 @@
 				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Levels/AlphaEnding/BP_ChaseBoulder.uasset",
 				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Levels/AlphaEnding/BoulderChaseFlat.umap",
 				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Levels/AlphaEnding/BP_ChaseObstacle.uasset",
+=======
+				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/BoulderChaseFlat.umap",
+				"D:/CGD-Game/Prototype/Content/Pots+Collects/Pot.uasset",
+>>>>>>> AlphaLighting
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/9/O6/4FYF634662LGFC0M77L2PI.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/E/YV/KEYPHOZIDWNYJPCSRDPOCA.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/0/JI/8011IC9JKEQV4FPCG03T4O.uasset",
