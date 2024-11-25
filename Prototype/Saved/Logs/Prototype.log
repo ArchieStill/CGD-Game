@@ -1461,3 +1461,627 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.25-11.39.35:857][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 273 ms)
 [2024.11.25-11.39.35:859][ 78]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.11.25-11.39.35:859][ 78]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.11.25-11.44.45:238][812]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 649.824463
+[2024.11.25-11.44.46:238][815]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.25-11.44.46:238][815]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 650.490601, Update Interval: 310.649750
+[2024.11.25-11.50.02:289][763]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 966.874573
+[2024.11.25-11.50.03:288][766]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.25-11.50.03:288][766]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 967.541443, Update Interval: 348.451172
+[2024.11.25-11.50.28:571][151]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-11.50.28:571][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-11.50.34:693][504]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.25-11.50.34:794][507]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.25-11.50.34:812][508]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.25-11.50.34:839][509]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.25-11.50.34:865][510]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.25-11.50.34:888][511]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.25-11.50.42:682][973]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BoobyTrapElements/BP_Spikes.BP_Spikes
+[2024.11.25-11.50.42:683][973]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.25-11.50.42:683][973]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.25-11.53.50:995][152]LogEditorTransaction: Undo Add Node
+[2024.11.25-11.53.56:141][436]LogEditorTransaction: Undo Add Node
+[2024.11.25-11.54.12:245][342]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.25-11.54.39:410][940]BlueprintLog: New page: Compile BP_Spikes
+[2024.11.25-11.54.39:436][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.11.25-11.54.39:456][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-11.54.39:544][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BoobyTrapElements/BP_Spikes" FILE="../../../../../../Users/riley/Documents/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes.uasset" SILENT=true
+[2024.11.25-11.54.39:554][940]LogSavePackage: Moving output files for package: /Game/BoobyTrapElements/BP_Spikes
+[2024.11.25-11.54.39:554][940]LogSavePackage: Moving '../../../../../../Users/riley/Documents/CGD-Game/Prototype/Saved/BP_SpikesB98CFDC64BFD9C8AE6EB17936712F778.tmp' to '../../../../../../Users/riley/Documents/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes.uasset'
+[2024.11.25-11.54.39:560][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 377 ms)
+[2024.11.25-11.54.39:562][940]AssetCheck: New page: Asset Save: BP_Spikes
+[2024.11.25-11.54.39:562][940]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BoobyTrapElements/BP_Spikes.BP_Spikes
+[2024.11.25-11.54.56:274][934]LogSlate: Window 'BP_Spikes' being destroyed
+[2024.11.25-11.54.59:357][111]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BoobyTrapElements/BP_DartBox.BP_DartBox
+[2024.11.25-11.54.59:357][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.25-11.54.59:357][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.25-11.55.14:424][999]LogEditorTransaction: Undo Rename Node
+[2024.11.25-11.55.14:906][  8]LogEditorTransaction: Undo Add Node
+[2024.11.25-11.55.39:202][406]BlueprintLog: New page: Compile BP_DartBox
+[2024.11.25-11.55.39:224][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.11.25-11.55.39:238][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-11.55.39:433][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BoobyTrapElements/BP_DartBox" FILE="../../../../../../Users/riley/Documents/CGD-Game/Prototype/Content/BoobyTrapElements/BP_DartBox.uasset" SILENT=true
+[2024.11.25-11.55.39:440][406]LogSavePackage: Moving output files for package: /Game/BoobyTrapElements/BP_DartBox
+[2024.11.25-11.55.39:440][406]LogSavePackage: Moving '../../../../../../Users/riley/Documents/CGD-Game/Prototype/Saved/BP_DartBoxD050BA874869E4D75AABE9B361C49507.tmp' to '../../../../../../Users/riley/Documents/CGD-Game/Prototype/Content/BoobyTrapElements/BP_DartBox.uasset'
+[2024.11.25-11.55.39:449][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 588 ms)
+[2024.11.25-11.55.39:451][406]AssetCheck: New page: Asset Save: BP_DartBox
+[2024.11.25-11.55.39:451][406]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BoobyTrapElements/BP_DartBox.BP_DartBox
+[2024.11.25-11.55.42:909][601]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.25-11.55.42:914][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.25-11.55.42:915][601]PIE: New page: PIE session: MainMenu (25 Nov 2024, 11:55:42)
+[2024.11.25-11.55.42:915][601]LogPlayLevel: Creating play world package: /Game/Tyler_UI/UEDPIE_0_MainMenu
+[2024.11.25-11.55.42:916][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001599s)
+[2024.11.25-11.55.42:916][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tyler_UI/MainMenu.MainMenu to /Game/Tyler_UI/UEDPIE_0_MainMenu.MainMenu (0.001628s)
+[2024.11.25-11.55.42:922][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.11.25-11.55.42:924][601]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.25-11.55.42:924][601]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.25-11.55.42:924][601]LogAIModule: Creating AISystem for world MainMenu
+[2024.11.25-11.55.42:925][601]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2024.11.25-11.55.42:925][601]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.11.25-11.55.42:925][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.25-11.55.42:925][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.25-11.55.42:925][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.25-11.55.42:925][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.25-11.55.42:925][601]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.25-11.55.42:925][601]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.25-11.55.42:925][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.25-11.55.42:925][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.25-11.55.42:925][601]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.25-11.55.42:925][601]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.25-11.55.42:925][601]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.25-11.55.42:927][601]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.25-11.55.42:998][601]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.11.25-11.55.42:998][601]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.25-11.55.42:998][601]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.25-11.55.42:998][601]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.25-11.55.42:999][601]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.11.25-11.55.42:999][601]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.11.25-11.55.43:000][601]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.11.25-11.55.43:000][601]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.11.25-11.55.43:000][601]LogInit: FAudioDevice initialized with ID 4.
+[2024.11.25-11.55.43:000][601]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenu'.
+[2024.11.25-11.55.43:000][601]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.25-11.55.43:002][601]LogLoad: Game class is 'GMB_MenuGameMode_C'
+[2024.11.25-11.55.43:002][601]LogWorld: Bringing World /Game/Tyler_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2024.11.25-11.55.43
+[2024.11.25-11.55.43:002][601]LogWorld: Bringing up level for play took: 0.000472
+[2024.11.25-11.55.43:004][601]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.11.25-11.55.43:005][601]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.25-11.55.43:005][601]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.11.25-11.55.43:005][601]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.11.25-11.55.43:005][601]PIE: Server logged in
+[2024.11.25-11.55.43:005][601]PIE: Play in editor total start time 0.091 seconds.
+[2024.11.25-11.55.43:894][653]LogNet: Browse: /Game/Levels/SimplePuzzles/SimplePuzzles
+[2024.11.25-11.55.43:894][653]LogLoad: LoadMap: /Game/Levels/SimplePuzzles/SimplePuzzles
+[2024.11.25-11.55.43:894][653]LogWorld: BeginTearingDown for /Game/Tyler_UI/UEDPIE_0_MainMenu
+[2024.11.25-11.55.43:895][653]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-11.55.43:895][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-11.55.43:906][653]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.25-11.55.43:908][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.11.25-11.55.43:913][653]LogAudio: Display: Audio Device (ID: 4) registered with world 'SimplePuzzles'.
+[2024.11.25-11.55.43:913][653]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.25-11.55.43:913][653]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.25-11.55.43:913][653]LogAIModule: Creating AISystem for world SimplePuzzles
+[2024.11.25-11.55.43:914][653]LogWorldPartition: ULevel::OnLevelLoaded(SimplePuzzles)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.25-11.55.43:914][653]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.25-11.55.43:914][653]LogWorldPartition: UWorldPartition::Initialize : World = SimplePuzzles, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.11.25-11.55.43:914][653]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.25-11.55.43:918][653]LogWorldPartition: Display: GenerateStreaming for 'SimplePuzzles' started...
+[2024.11.25-11.55.44:065][653]LogWorldPartition: Display: GenerateStreaming for 'SimplePuzzles' took 146 ms (total: 1.09 sec)
+[2024.11.25-11.55.44:070][653]LogContentBundle: [SimplePuzzles(Standalone)] Creating new contrainer.
+[2024.11.25-11.55.44:070][653]LogWorldPartition: Display: WorldPartition initialize took 156 ms (total: 1.15 sec)
+[2024.11.25-11.55.44:070][653]LogPlayLevel: PIE: World Init took: (0.157203s)
+[2024.11.25-11.55.44:070][653]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.25-11.55.44:143][653]LogWorld: Bringing World /Game/Levels/SimplePuzzles/UEDPIE_0_SimplePuzzles.SimplePuzzles up for play (max tick rate 60) at 2024.11.25-11.55.44
+[2024.11.25-11.55.44:143][653]LogWorld: Bringing up level for play took: 0.072325
+[2024.11.25-11.55.44:152][653]LogLoad: Took 0.257915 seconds to LoadMap(/Game/Levels/SimplePuzzles/SimplePuzzles)
+[2024.11.25-11.55.44:454][671]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.55.44:454][671]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.55.44:454][671]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.WGT_BP_Interface_C_0
+[2024.11.25-11.55.45:804][752]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.55.45:804][752]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.55.45:804][752]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.WGT_BP_Interface_C_0
+[2024.11.25-11.55.47:187][835]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.55.47:187][835]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.55.47:187][835]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.WGT_BP_Interface_C_0
+[2024.11.25-11.55.51:571][ 98]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.55.51:571][ 98]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.55.51:571][ 98]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.WGT_BP_Interface_C_0
+[2024.11.25-11.55.52:571][158]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.55.52:571][158]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.55.52:571][158]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.WGT_BP_Interface_C_0
+[2024.11.25-11.55.55:257][319]LogShaderCompilers: Display: ================================================
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Total job queries 251, among them cache hits 201 (80.08%)
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Tracking 50 distinct input hashes that result in 37 distinct outputs (74.00%)
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: RAM used: 1.15 MiB of 1.60 GiB budget. Usage: 0.07%
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Shaders Compiled: 8
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 0.26 s
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Job execution time: average 6.22 s, max 6.52 s
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Job life time (pending + execution): average 6.35 s, max 6.55
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Shader code size: average 33.859 KiB, min 29.625 KiB, max 35.855 KiB
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.55 s
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Average processing rate: 1.22 jobs/sec
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Total thread time: 6.594 s
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Total thread preprocess time: 1.603 s
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Percentage time preprocessing: 24.31%
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Effective parallelization: 1.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.87 sec, max 0.88 sec, min 0.87 sec)
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.84 sec, max 0.88 sec, min 0.79 sec)
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.80 sec, max 0.85 sec, min 0.76 sec)
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.78 sec, max 0.85 sec, min 0.72 sec)
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.53% of total time (compiled    2 times, average 0.87 sec, max 0.88 sec, min 0.87 sec)
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display:                                                 FLumenCardVS - 25.38% of total time (compiled    2 times, average 0.84 sec, max 0.88 sec, min 0.79 sec)
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.29% of total time (compiled    2 times, average 0.80 sec, max 0.85 sec, min 0.76 sec)
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 23.80% of total time (compiled    2 times, average 0.78 sec, max 0.85 sec, min 0.72 sec)
+[2024.11.25-11.55.55:258][319]LogShaderCompilers: Display: ================================================
+[2024.11.25-11.55.57:255][438]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.55.57:255][438]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.55.57:256][438]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.WGT_BP_Interface_C_0
+[2024.11.25-11.56.01:301][678]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.01:318][679]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.01:351][681]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.01:385][683]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.02:052][723]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.02:052][723]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.02:102][726]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.02:935][776]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.02:968][778]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.02:968][778]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.02:984][779]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.03:223][794]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1327.802612
+[2024.11.25-11.56.03:235][794]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.03:235][794]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.03:251][795]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.03:373][803]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.25-11.56.03:373][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1327.935425, Update Interval: 338.597992
+[2024.11.25-11.56.04:785][887]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.04:835][890]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.04:835][890]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.04:835][890]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.04:851][891]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.04:851][891]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.04:868][892]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.05:268][916]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.05:285][917]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.05:285][917]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.05:302][918]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.05:302][918]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.05:318][919]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.05:351][921]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.05:585][935]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.06:519][991]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.08:386][103]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.56.08:386][103]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.WGT_BP_Interface_C_0
+[2024.11.25-11.56.08:386][103]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.08:386][103]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.08:402][104]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.08:402][104]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.08:585][115]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.08:969][138]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.11:786][307]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.11:786][307]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.11:802][308]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.11:802][308]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.11:936][316]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.12:271][336]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.12:271][336]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.12:271][336]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.12:271][336]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.12:271][336]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.12:286][337]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.14:069][444]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.14:069][444]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.14:086][445]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.14:086][445]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.14:219][453]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.14:286][457]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.14:303][458]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.14:319][459]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.15:402][524]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.15:402][524]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.15:402][524]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.15:402][524]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.15:419][525]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.15:419][525]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.15:737][544]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.15:737][544]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.16:453][587]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.16:537][592]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.16:537][592]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.56.18:981][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-11.56.18:981][737]LogWorld: BeginTearingDown for /Game/Levels/SimplePuzzles/UEDPIE_0_SimplePuzzles
+[2024.11.25-11.56.18:981][737]LogWorld: UWorld::CleanupWorld for SimplePuzzles, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-11.56.18:986][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-11.56.18:988][737]LogContentBundle: [SimplePuzzles(Standalone)] Deleting container.
+[2024.11.25-11.56.18:991][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.25-11.56.18:993][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-11.56.19:000][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-11.56.19:000][737]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.25-11.56.19:000][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.25-11.56.19:002][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.25-11.56.19:015][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.11.25-11.56.19:062][740]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.11.25-11.56.42:194][ 95]LogEditorTransaction: Undo Resize Node
+[2024.11.25-11.56.42:588][102]LogEditorTransaction: Undo Change Number Pin Value
+[2024.11.25-11.56.42:906][115]LogEditorTransaction: Undo Change Object Pin Value
+[2024.11.25-11.56.43:225][134]LogEditorTransaction: Undo Create Pin Link
+[2024.11.25-11.56.43:890][173]LogEditorTransaction: Undo Create Pin Link
+[2024.11.25-11.56.44:262][195]LogEditorTransaction: Undo Move Node
+[2024.11.25-11.56.46:159][308]LogEditorTransaction: Redo Move Node
+[2024.11.25-11.56.46:302][311]LogEditorTransaction: Redo Create Pin Link
+[2024.11.25-11.56.46:459][314]LogEditorTransaction: Redo Create Pin Link
+[2024.11.25-11.56.46:774][322]LogEditorTransaction: Redo Change Object Pin Value
+[2024.11.25-11.56.46:900][328]LogEditorTransaction: Redo Change Number Pin Value
+[2024.11.25-11.56.47:065][335]LogEditorTransaction: Redo Resize Node
+[2024.11.25-11.56.58:589][  0]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/BoobyTrapElements/BP_Spikes.BP_Spikes without an associated node. The blueprint breakpoint has been removed
+[2024.11.25-11.56.58:589][  0]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/BoobyTrapElements/BP_Spikes.BP_Spikes without an associated node. The blueprint breakpoint has been removed
+[2024.11.25-11.57.03:053][260]BlueprintLog: New page: Compile BP_Spikes
+[2024.11.25-11.57.03:074][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.25-11.57.03:093][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-11.57.03:227][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BoobyTrapElements/BP_Spikes" FILE="../../../../../../Users/riley/Documents/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes.uasset" SILENT=true
+[2024.11.25-11.57.03:236][260]LogSavePackage: Moving output files for package: /Game/BoobyTrapElements/BP_Spikes
+[2024.11.25-11.57.03:237][260]LogSavePackage: Moving '../../../../../../Users/riley/Documents/CGD-Game/Prototype/Saved/BP_Spikes4BFE212246D0C84639CAA785B9549E24.tmp' to '../../../../../../Users/riley/Documents/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes.uasset'
+[2024.11.25-11.57.03:243][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 738 ms)
+[2024.11.25-11.57.03:244][260]AssetCheck: New page: Asset Save: BP_Spikes
+[2024.11.25-11.57.03:244][260]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BoobyTrapElements/BP_Spikes.BP_Spikes
+[2024.11.25-11.57.18:557][159]LogEditorTransaction: Undo Move Node
+[2024.11.25-11.57.18:910][164]LogEditorTransaction: Undo Move Nodes
+[2024.11.25-11.57.19:287][177]LogEditorTransaction: Undo Paste clipboard contents
+[2024.11.25-11.57.19:735][198]LogEditorTransaction: Undo Move Node
+[2024.11.25-11.57.20:206][223]LogEditorTransaction: Undo Move Nodes
+[2024.11.25-11.57.20:712][251]LogEditorTransaction: Undo Delete current selection
+[2024.11.25-11.58.00:238][576]BlueprintLog: New page: Compile BP_Spikes
+[2024.11.25-11.58.00:260][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.25-11.58.00:282][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-11.58.00:469][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BoobyTrapElements/BP_Spikes" FILE="../../../../../../Users/riley/Documents/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes.uasset" SILENT=true
+[2024.11.25-11.58.00:478][576]LogSavePackage: Moving output files for package: /Game/BoobyTrapElements/BP_Spikes
+[2024.11.25-11.58.00:479][576]LogSavePackage: Moving '../../../../../../Users/riley/Documents/CGD-Game/Prototype/Saved/BP_SpikesE693640F41DE7D367A54FEAAC802ED97.tmp' to '../../../../../../Users/riley/Documents/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes.uasset'
+[2024.11.25-11.58.00:485][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 942 ms)
+[2024.11.25-11.58.00:487][576]AssetCheck: New page: Asset Save: BP_Spikes
+[2024.11.25-11.58.00:487][576]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BoobyTrapElements/BP_Spikes.BP_Spikes
+[2024.11.25-11.58.02:274][672]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.25-11.58.02:280][672]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.11.25-11.58.02:280][672]LogPlayLevel: [PlayLevel] Compiling BP_DartBox before play...
+[2024.11.25-11.58.02:304][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.25-11.58.02:307][672]LogPlayLevel: PlayLevel: Blueprint regeneration took 27 ms (1 blueprints)
+[2024.11.25-11.58.02:307][672]PIE: New page: PIE session: MainMenu (25 Nov 2024, 11:58:02)
+[2024.11.25-11.58.02:342][672]LogPlayLevel: Creating play world package: /Game/Tyler_UI/UEDPIE_0_MainMenu
+[2024.11.25-11.58.02:343][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001632s)
+[2024.11.25-11.58.02:343][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tyler_UI/MainMenu.MainMenu to /Game/Tyler_UI/UEDPIE_0_MainMenu.MainMenu (0.001677s)
+[2024.11.25-11.58.02:354][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.11.25-11.58.02:355][672]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.25-11.58.02:355][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.25-11.58.02:355][672]LogAIModule: Creating AISystem for world MainMenu
+[2024.11.25-11.58.02:356][672]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2024.11.25-11.58.02:356][672]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.11.25-11.58.02:356][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.25-11.58.02:356][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.25-11.58.02:356][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.25-11.58.02:356][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.25-11.58.02:356][672]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.25-11.58.02:356][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.25-11.58.02:356][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.25-11.58.02:356][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.25-11.58.02:356][672]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.25-11.58.02:356][672]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.25-11.58.02:356][672]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.25-11.58.02:358][672]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.25-11.58.02:427][672]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.11.25-11.58.02:427][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.25-11.58.02:427][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.25-11.58.02:427][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.25-11.58.02:428][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.11.25-11.58.02:428][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.11.25-11.58.02:429][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.11.25-11.58.02:429][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.11.25-11.58.02:429][672]LogInit: FAudioDevice initialized with ID 5.
+[2024.11.25-11.58.02:430][672]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2024.11.25-11.58.02:430][672]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.25-11.58.02:434][672]LogLoad: Game class is 'GMB_MenuGameMode_C'
+[2024.11.25-11.58.02:435][672]LogWorld: Bringing World /Game/Tyler_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2024.11.25-11.58.02
+[2024.11.25-11.58.02:435][672]LogWorld: Bringing up level for play took: 0.000493
+[2024.11.25-11.58.02:436][672]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.11.25-11.58.02:437][672]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.25-11.58.02:437][672]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.11.25-11.58.02:437][672]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.11.25-11.58.02:437][672]PIE: Server logged in
+[2024.11.25-11.58.02:438][672]PIE: Play in editor total start time 0.158 seconds.
+[2024.11.25-11.58.03:024][705]LogNet: Browse: /Game/Levels/SimplePuzzles/SimplePuzzles
+[2024.11.25-11.58.03:024][705]LogLoad: LoadMap: /Game/Levels/SimplePuzzles/SimplePuzzles
+[2024.11.25-11.58.03:024][705]LogWorld: BeginTearingDown for /Game/Tyler_UI/UEDPIE_0_MainMenu
+[2024.11.25-11.58.03:024][705]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-11.58.03:024][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-11.58.03:034][705]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.25-11.58.03:035][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.25-11.58.03:043][705]LogAudio: Display: Audio Device (ID: 5) registered with world 'SimplePuzzles'.
+[2024.11.25-11.58.03:043][705]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.25-11.58.03:043][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.25-11.58.03:043][705]LogAIModule: Creating AISystem for world SimplePuzzles
+[2024.11.25-11.58.03:043][705]LogWorldPartition: ULevel::OnLevelLoaded(SimplePuzzles)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.25-11.58.03:043][705]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.25-11.58.03:043][705]LogWorldPartition: UWorldPartition::Initialize : World = SimplePuzzles, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.11.25-11.58.03:043][705]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.25-11.58.03:048][705]LogWorldPartition: Display: GenerateStreaming for 'SimplePuzzles' started...
+[2024.11.25-11.58.03:179][705]LogWorldPartition: Display: GenerateStreaming for 'SimplePuzzles' took 132 ms (total: 1.23 sec)
+[2024.11.25-11.58.03:184][705]LogContentBundle: [SimplePuzzles(Standalone)] Creating new contrainer.
+[2024.11.25-11.58.03:184][705]LogWorldPartition: Display: WorldPartition initialize took 141 ms (total: 1.29 sec)
+[2024.11.25-11.58.03:184][705]LogPlayLevel: PIE: World Init took: (0.142538s)
+[2024.11.25-11.58.03:184][705]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.25-11.58.03:258][705]LogWorld: Bringing World /Game/Levels/SimplePuzzles/UEDPIE_0_SimplePuzzles.SimplePuzzles up for play (max tick rate 60) at 2024.11.25-11.58.03
+[2024.11.25-11.58.03:259][705]LogWorld: Bringing up level for play took: 0.073434
+[2024.11.25-11.58.03:267][705]LogLoad: Took 0.243871 seconds to LoadMap(/Game/Levels/SimplePuzzles/SimplePuzzles)
+[2024.11.25-11.58.03:854][740]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.58.03:854][740]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.58.03:854][740]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WGT_BP_Interface_C_0
+[2024.11.25-11.58.05:570][843]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.58.05:570][843]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.58.05:570][843]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WGT_BP_Interface_C_0
+[2024.11.25-11.58.06:937][925]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.58.06:937][925]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.58.06:937][925]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WGT_BP_Interface_C_0
+[2024.11.25-11.58.11:337][189]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.58.11:337][189]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.58.11:337][189]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WGT_BP_Interface_C_0
+[2024.11.25-11.58.12:137][237]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.58.12:137][237]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.58.12:137][237]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WGT_BP_Interface_C_0
+[2024.11.25-11.58.16:537][501]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.58.16:537][501]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.58.16:537][501]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.WGT_BP_Interface_C_0
+[2024.11.25-11.58.19:870][701]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.19:870][701]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.19:887][702]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.19:887][702]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.19:936][705]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.20:170][719]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.20:186][720]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.20:203][721]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.20:253][724]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.21:771][815]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.21:771][815]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.21:787][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.21:803][817]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.21:803][817]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.22:154][838]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.22:187][840]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.22:204][841]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.22:220][842]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.22:236][843]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.22:270][845]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.23:304][907]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.23:304][907]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.23:320][908]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.23:337][909]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.23:337][909]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.23:503][919]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.23:587][924]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.23:587][924]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.23:587][924]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.23:587][924]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.23:587][924]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.23:670][929]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.23:771][935]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.24:554][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.24:737][993]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.24:737][993]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.26:912][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-11.58.26:912][121]LogWorld: BeginTearingDown for /Game/Levels/SimplePuzzles/UEDPIE_0_SimplePuzzles
+[2024.11.25-11.58.26:912][121]LogWorld: UWorld::CleanupWorld for SimplePuzzles, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-11.58.26:916][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-11.58.26:918][121]LogContentBundle: [SimplePuzzles(Standalone)] Deleting container.
+[2024.11.25-11.58.26:921][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.25-11.58.26:923][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-11.58.26:932][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-11.58.26:933][121]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.25-11.58.26:933][121]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.25-11.58.26:934][121]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.25-11.58.26:949][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.25-11.58.26:980][123]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.11.25-11.58.30:150][313]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.25-11.58.30:156][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.25-11.58.30:156][313]PIE: New page: PIE session: MainMenu (25 Nov 2024, 11:58:30)
+[2024.11.25-11.58.30:156][313]LogPlayLevel: Creating play world package: /Game/Tyler_UI/UEDPIE_0_MainMenu
+[2024.11.25-11.58.30:157][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001399s)
+[2024.11.25-11.58.30:157][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tyler_UI/MainMenu.MainMenu to /Game/Tyler_UI/UEDPIE_0_MainMenu.MainMenu (0.001426s)
+[2024.11.25-11.58.30:164][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.25-11.58.30:164][313]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.25-11.58.30:164][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.25-11.58.30:165][313]LogAIModule: Creating AISystem for world MainMenu
+[2024.11.25-11.58.30:165][313]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2024.11.25-11.58.30:165][313]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.11.25-11.58.30:165][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.25-11.58.30:165][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.25-11.58.30:165][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.25-11.58.30:165][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.25-11.58.30:165][313]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.25-11.58.30:165][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.25-11.58.30:165][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.25-11.58.30:165][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.25-11.58.30:166][313]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.25-11.58.30:166][313]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.25-11.58.30:166][313]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.25-11.58.30:167][313]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.25-11.58.30:236][313]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.11.25-11.58.30:237][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.25-11.58.30:237][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.25-11.58.30:237][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.25-11.58.30:237][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.11.25-11.58.30:237][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.11.25-11.58.30:238][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.11.25-11.58.30:238][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.11.25-11.58.30:238][313]LogInit: FAudioDevice initialized with ID 6.
+[2024.11.25-11.58.30:238][313]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2024.11.25-11.58.30:238][313]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.11.25-11.58.30:240][313]LogLoad: Game class is 'GMB_MenuGameMode_C'
+[2024.11.25-11.58.30:241][313]LogWorld: Bringing World /Game/Tyler_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2024.11.25-11.58.30
+[2024.11.25-11.58.30:241][313]LogWorld: Bringing up level for play took: 0.000452
+[2024.11.25-11.58.30:242][313]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.11.25-11.58.30:243][313]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.25-11.58.30:243][313]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.11.25-11.58.30:243][313]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.11.25-11.58.30:243][313]PIE: Server logged in
+[2024.11.25-11.58.30:244][313]PIE: Play in editor total start time 0.088 seconds.
+[2024.11.25-11.58.30:972][355]LogNet: Browse: /Game/Levels/SimplePuzzles/SimplePuzzles
+[2024.11.25-11.58.30:972][355]LogLoad: LoadMap: /Game/Levels/SimplePuzzles/SimplePuzzles
+[2024.11.25-11.58.30:972][355]LogWorld: BeginTearingDown for /Game/Tyler_UI/UEDPIE_0_MainMenu
+[2024.11.25-11.58.30:972][355]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-11.58.30:972][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-11.58.30:983][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.25-11.58.30:985][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.11.25-11.58.30:991][355]LogAudio: Display: Audio Device (ID: 6) registered with world 'SimplePuzzles'.
+[2024.11.25-11.58.30:991][355]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.25-11.58.30:991][355]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.25-11.58.30:991][355]LogAIModule: Creating AISystem for world SimplePuzzles
+[2024.11.25-11.58.30:991][355]LogWorldPartition: ULevel::OnLevelLoaded(SimplePuzzles)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.25-11.58.30:991][355]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.25-11.58.30:991][355]LogWorldPartition: UWorldPartition::Initialize : World = SimplePuzzles, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.11.25-11.58.30:991][355]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.25-11.58.30:996][355]LogWorldPartition: Display: GenerateStreaming for 'SimplePuzzles' started...
+[2024.11.25-11.58.31:124][355]LogWorldPartition: Display: GenerateStreaming for 'SimplePuzzles' took 127 ms (total: 1.35 sec)
+[2024.11.25-11.58.31:129][355]LogContentBundle: [SimplePuzzles(Standalone)] Creating new contrainer.
+[2024.11.25-11.58.31:129][355]LogWorldPartition: Display: WorldPartition initialize took 137 ms (total: 1.43 sec)
+[2024.11.25-11.58.31:129][355]LogPlayLevel: PIE: World Init took: (0.138447s)
+[2024.11.25-11.58.31:129][355]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.25-11.58.31:199][355]LogWorld: Bringing World /Game/Levels/SimplePuzzles/UEDPIE_0_SimplePuzzles.SimplePuzzles up for play (max tick rate 60) at 2024.11.25-11.58.31
+[2024.11.25-11.58.31:199][355]LogWorld: Bringing up level for play took: 0.069887
+[2024.11.25-11.58.31:208][355]LogLoad: Took 0.236244 seconds to LoadMap(/Game/Levels/SimplePuzzles/SimplePuzzles)
+[2024.11.25-11.58.31:860][394]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.58.31:860][394]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.58.31:860][394]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WGT_BP_Interface_C_0
+[2024.11.25-11.58.32:977][461]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.58.32:977][461]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.58.32:977][461]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WGT_BP_Interface_C_0
+[2024.11.25-11.58.33:649][501]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.58.33:649][501]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.58.33:649][501]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WGT_BP_Interface_C_0
+[2024.11.25-11.58.35:099][588]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.58.35:099][588]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.58.35:099][588]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WGT_BP_Interface_C_0
+[2024.11.25-11.58.39:632][860]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.58.39:632][860]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.58.39:632][860]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WGT_BP_Interface_C_0
+[2024.11.25-11.58.40:332][902]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.58.40:332][902]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.58.40:332][902]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WGT_BP_Interface_C_0
+[2024.11.25-11.58.44:749][167]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.58.44:749][167]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.58.44:749][167]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WGT_BP_Interface_C_0
+[2024.11.25-11.58.46:282][259]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:282][259]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:282][259]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:282][259]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:298][260]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:298][260]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:298][260]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:549][275]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:565][276]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:565][276]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:566][276]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:566][276]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:566][276]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:582][277]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:582][277]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:583][277]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:583][277]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:583][277]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:583][277]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:983][301]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.46:999][302]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.47:399][326]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.47:399][326]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.47:415][327]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.47:415][327]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.47:449][329]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.47:598][338]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.47:598][338]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.47:816][351]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.47:816][351]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.47:832][352]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.47:833][352]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.47:849][353]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.47:849][353]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.47:899][356]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.48:333][382]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.48:349][383]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2024.11.25-11.58.59:600][ 58]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.58.59:600][ 58]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.58.59:600][ 58]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WGT_BP_Interface_C_0
+[2024.11.25-11.59.01:583][177]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.59.01:583][177]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.59.01:583][177]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WGT_BP_Interface_C_0
+[2024.11.25-11.59.02:149][211]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.59.02:149][211]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.59.02:149][211]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WGT_BP_Interface_C_0
+[2024.11.25-11.59.05:083][387]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.59.05:083][387]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.59.05:083][387]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WGT_BP_Interface_C_0
+[2024.11.25-11.59.05:732][426]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.59.05:732][426]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.59.05:732][426]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WGT_BP_Interface_C_0
+[2024.11.25-11.59.07:149][511]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.11.25-11.59.07:149][511]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.11.25-11.59.07:149][511]LogScript: Warning: Script Msg called by: WGT_BP_Interface_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.WGT_BP_Interface_C_0
+[2024.11.25-11.59.08:799][610]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.08:849][613]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.08:883][615]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.08:932][618]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.09:166][632]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.09:199][634]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.09:782][669]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.09:782][669]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.09:782][669]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.09:849][673]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.10:316][701]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1278627288] On
+[2024.11.25-11.59.10:366][704]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1278627288] On
+[2024.11.25-11.59.10:499][712]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1278627288] On
+[2024.11.25-11.59.10:582][717]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1278627288] On
+[2024.11.25-11.59.11:682][783]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.11:683][783]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.12:416][827]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.12:416][827]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.12:416][827]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.12:665][842]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.12:949][859]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.13:566][896]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.13:582][897]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.13:599][898]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.13:716][905]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.14:699][964]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1278627288] On
+[2024.11.25-11.59.14:699][964]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1278627288] On
+[2024.11.25-11.59.14:699][964]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1278627288] On
+[2024.11.25-11.59.14:749][967]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1278627288] On
+[2024.11.25-11.59.15:149][999]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.15:149][999]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.15:166][  1]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.15:316][ 19]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.16:157][120]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.16:174][122]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.16:183][123]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.16:782][195]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.16:791][196]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.16:807][198]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.16:966][217]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.17:191][244]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.17:216][247]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.17:274][254]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6873202_1972930096] On
+[2024.11.25-11.59.18:924][452]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.18:924][452]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.18:924][452]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.18:933][453]LogBlueprintUserMessages: [BP_PressurePlate_C_UAID_18C04D3582E6883202_1492235289] On
+[2024.11.25-11.59.21:391][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-11.59.21:391][745]LogWorld: BeginTearingDown for /Game/Levels/SimplePuzzles/UEDPIE_0_SimplePuzzles
+[2024.11.25-11.59.21:392][745]LogWorld: UWorld::CleanupWorld for SimplePuzzles, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-11.59.21:396][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-11.59.21:399][745]LogContentBundle: [SimplePuzzles(Standalone)] Deleting container.
+[2024.11.25-11.59.21:401][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.25-11.59.21:404][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-11.59.21:411][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-11.59.21:411][745]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.11.25-11.59.21:411][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.11.25-11.59.21:413][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.11.25-11.59.21:426][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.25-11.59.21:473][750]LogPlayLevel: Display: Destroying online subsystem :Context_16
