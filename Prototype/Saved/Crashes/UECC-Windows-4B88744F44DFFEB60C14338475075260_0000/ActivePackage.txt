@@ -1,0 +1,1 @@
+/Game/CustomBlueprints/MiniGame/BP_PlayerCube
