@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/AlphaEnding/WBP_AlphaOver.uasset",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/AlphaEnding/BoulderChaseFlat.umap",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/TestZone/TestZone.umap",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/TestZone/BP_TestActivate.uasset",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Audio/BP_MusicTrigger.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Sam/BP_Tilt_Demo1.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Materials/ClayMaterials/MI_ClayPuzzleFloor.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Sam/BP_Disc.uasset",
@@ -45,7 +51,6 @@
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Lewis/NewChar/SK_Devvy_M_PhysicsAsset.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Lewis/NewChar/New_folder/Standing_Melee_Attack_Horizontal__WithSkin_.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Lewis/NewChar/New_folder/M_FlatGreyLight_Inst.uasset",
-				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Lewis/NewChar/New_folder/Standing_Melee_Attack_Horizontal__WithSkin__Anim_mixamo_com.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Lewis/NewChar/New_folder/Standing_Melee_Attack_Horizontal__WithSkin__Anim_Unreal_Take.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Lewis/NewChar/New_folder/Standing_Melee_Attack_Horizontal__WithSkin__PhysicsAsset.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Animations/Standing_Melee_Attack_Horizontal__WithSkin__Anim_mixamo_com.uasset",
@@ -53,16 +58,10 @@
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Animations/Blend_IdleSprint.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Animations/Blend_FallLandWalking.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Animations/Anim_WallSlide.uasset",
-				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Animations/Anim_Walk.uasset",
-				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Animations/Anim_Sprint.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Animations/Anim_Slide.uasset",
-				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Animations/Anim_Run.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Animations/Anim_JumpStart.uasset",
-				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Animations/Anim_JumpLand.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Animations/Anim_JumpInAirFall.uasset",
-				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Animations/Anim_Idle.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Animations/Anim_DoubleJump.uasset",
-				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Animations/ABP_Player.uasset",
 				"D:/Year 3/Group Work/CGD-Game/Prototype/Content/Lewis/NewChar/BP_ThirdPersonCharacter.uasset"
 			]
 		}
