@@ -6433,3 +6433,305 @@ Script Stack (0 frames) :
 [2024.12.04-18.54.22:304][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 9.09 sec)
 [2024.12.04-18.54.22:305][655]AssetCheck: New page: Asset Save: MainMenu
 [2024.12.04-18.54.22:305][655]LogContentValidation: Display: Validating /Script/Engine.World /Game/Tyler_UI/MainMenu.MainMenu
+[2024.12.04-18.59.27:311][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.12.04-19.01.13:866][674]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.12.04-19.01.13:959][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.04-19.01.14:204][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.04-19.01.14:250][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.12.04-19.01.14:338][674]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.04-19.01.14:339][674]LogSavePackage: Moving 'D:/SJR/CGD-Game/Prototype/Saved/BP_ThirdPersonCharacterFD4CC8EA4EE31F65FC4532AA7543E2BB.tmp' to 'D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.04-19.01.14:346][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 9.23 sec)
+[2024.12.04-19.01.14:356][674]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.12.04-19.01.14:356][674]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.12.04-19.04.22:501][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.12.04-19.04.22:503][249]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Tyler_UI/MainMenu' took 0.021
+[2024.12.04-19.04.22:504][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.04-19.04.22:504][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.04-19.04.22:592][249]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2024.12.04-19.04.22:593][249]LogSavePackage: Moving 'D:/SJR/CGD-Game/Prototype/Saved/BP_ThirdPersonCharacter_Auto788670C3446BF9F14633CF193F7773D97.tmp' to 'D:/SJR/CGD-Game/Prototype/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2024.12.04-19.04.22:594][249]LogFileHelpers: Auto-saving content packages took 0.091
+[2024.12.04-19.04.56:830][223]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UGameplayStatics::GetCurrentLevelName' [Element not found.]
+[2024.12.04-19.05.13:287][ 61]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.12.04-19.05.13:287][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.04-19.06.36:158][950]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.12.04-19.06.36:253][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.12.04-19.06.36:544][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.04-19.06.36:605][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.12.04-19.06.36:697][950]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.04-19.06.36:697][950]LogSavePackage: Moving 'D:/SJR/CGD-Game/Prototype/Saved/BP_ThirdPersonCharacter63F32F31472EDD90DD981F93739E6CE9.tmp' to 'D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.04-19.06.36:703][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 9.39 sec)
+[2024.12.04-19.06.36:707][950]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.12.04-19.06.36:707][950]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.12.04-19.06.40:107][286]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.12.04-19.06.40:209][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.12.04-19.06.40:501][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.04-19.06.40:554][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.12.04-19.06.40:644][286]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.04-19.06.40:644][286]LogSavePackage: Moving 'D:/SJR/CGD-Game/Prototype/Saved/BP_ThirdPersonCharacter43F2657B487A68551B1B3E8E2AF1C727.tmp' to 'D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.04-19.06.40:651][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 9.54 sec)
+[2024.12.04-19.06.40:658][286]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.12.04-19.06.40:658][286]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.12.04-19.06.45:570][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.04-19.06.45:570][799]PIE: New page: PIE session: MainMenu (4 Dec 2024, 19:06:45)
+[2024.12.04-19.06.45:605][799]LogPlayLevel: Creating play world package: /Game/Tyler_UI/UEDPIE_0_MainMenu
+[2024.12.04-19.06.45:607][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002767s)
+[2024.12.04-19.06.45:607][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tyler_UI/MainMenu.MainMenu to /Game/Tyler_UI/UEDPIE_0_MainMenu.MainMenu (0.002834s)
+[2024.12.04-19.06.45:623][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.12.04-19.06.45:629][799]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.04-19.06.45:629][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.04-19.06.45:630][799]LogAIModule: Creating AISystem for world MainMenu
+[2024.12.04-19.06.45:630][799]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2024.12.04-19.06.45:630][799]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2024.12.04-19.06.45:630][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.04-19.06.45:630][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.04-19.06.45:630][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.04-19.06.45:630][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.04-19.06.45:630][799]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.04-19.06.45:630][799]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.04-19.06.45:630][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.04-19.06.45:630][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.04-19.06.45:631][799]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.04-19.06.45:631][799]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.04-19.06.45:631][799]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.04-19.06.45:632][799]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.04-19.06.45:660][799]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.12.04-19.06.45:660][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.04-19.06.45:660][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.04-19.06.45:660][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.04-19.06.45:661][799]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2024.12.04-19.06.45:661][799]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2024.12.04-19.06.45:662][799]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2024.12.04-19.06.45:662][799]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2024.12.04-19.06.45:662][799]LogInit: FAudioDevice initialized with ID 53.
+[2024.12.04-19.06.45:662][799]LogAudio: Display: Audio Device (ID: 53) registered with world 'MainMenu'.
+[2024.12.04-19.06.45:662][799]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2024.12.04-19.06.45:665][799]LogLoad: Game class is 'GMB_MenuGameMode_C'
+[2024.12.04-19.06.45:665][799]LogWorld: Bringing World /Game/Tyler_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.12.04-19.06.45
+[2024.12.04-19.06.45:665][799]LogWorld: Bringing up level for play took: 0.000285
+[2024.12.04-19.06.45:667][799]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2024.12.04-19.06.45:668][799]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.04-19.06.45:668][799]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.04-19.06.45:668][799]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.04-19.06.45:668][799]PIE: Server logged in
+[2024.12.04-19.06.45:668][799]PIE: Play in editor total start time 0.099 seconds.
+[2024.12.04-19.06.47:890][ 63]LogNet: Browse: /Game/Levels/SimplePuzzles/SimplePuzzles
+[2024.12.04-19.06.47:890][ 63]LogLoad: LoadMap: /Game/Levels/SimplePuzzles/SimplePuzzles
+[2024.12.04-19.06.47:890][ 63]LogWorld: BeginTearingDown for /Game/Tyler_UI/UEDPIE_0_MainMenu
+[2024.12.04-19.06.47:890][ 63]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.04-19.06.47:890][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.04-19.06.47:931][ 63]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.04-19.06.47:933][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.12.04-19.06.47:953][ 63]LogAudio: Display: Audio Device (ID: 53) registered with world 'SimplePuzzles'.
+[2024.12.04-19.06.47:953][ 63]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.04-19.06.47:953][ 63]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.04-19.06.47:953][ 63]LogAIModule: Creating AISystem for world SimplePuzzles
+[2024.12.04-19.06.47:954][ 63]LogWorldPartition: ULevel::OnLevelLoaded(SimplePuzzles)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.04-19.06.47:954][ 63]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.04-19.06.47:954][ 63]LogWorldPartition: UWorldPartition::Initialize : World = SimplePuzzles, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.12.04-19.06.47:954][ 63]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.04-19.06.47:959][ 63]LogWorldPartition: Display: GenerateStreaming for 'SimplePuzzles' started...
+[2024.12.04-19.06.48:743][ 63]LogWorldPartition: Display: GenerateStreaming for 'SimplePuzzles' took 784 ms (total: 7.96 sec)
+[2024.12.04-19.06.48:751][ 63]LogContentBundle: [SimplePuzzles(Standalone)] Creating new contrainer.
+[2024.12.04-19.06.48:751][ 63]LogWorldPartition: Display: WorldPartition initialize took 796 ms (total: 9.40 sec)
+[2024.12.04-19.06.48:751][ 63]LogPlayLevel: PIE: World Init took: (0.797794s)
+[2024.12.04-19.06.48:751][ 63]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.04-19.06.48:862][ 63]LogWorld: Bringing World /Game/Levels/SimplePuzzles/UEDPIE_0_SimplePuzzles.SimplePuzzles up for play (max tick rate 0) at 2024.12.04-19.06.48
+[2024.12.04-19.06.48:863][ 63]LogWorld: Bringing up level for play took: 0.111866
+[2024.12.04-19.06.48:875][ 63]LogLoad: Took 0.985399 seconds to LoadMap(/Game/Levels/SimplePuzzles/SimplePuzzles)
+[2024.12.04-19.06.49:563][136]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.12.04-19.06.52:426][468]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [SAVED PLAYER]
+[2024.12.04-19.06.53:875][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.04-19.06.53:876][632]LogWorld: BeginTearingDown for /Game/Levels/SimplePuzzles/UEDPIE_0_SimplePuzzles
+[2024.12.04-19.06.53:876][632]LogWorld: UWorld::CleanupWorld for SimplePuzzles, bSessionEnded=true, bCleanupResources=true
+[2024.12.04-19.06.53:882][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.04-19.06.53:885][632]LogContentBundle: [SimplePuzzles(Standalone)] Deleting container.
+[2024.12.04-19.06.53:887][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.04-19.06.53:890][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.04-19.06.53:905][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.04-19.06.53:905][632]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2024.12.04-19.06.53:905][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.12.04-19.06.53:907][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.12.04-19.06.53:930][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.12.04-19.06.53:954][633]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.12.04-19.07.05:993][999]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.12.04-19.07.06:090][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.12.04-19.07.06:381][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.04-19.07.06:424][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2024.12.04-19.07.06:513][999]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.04-19.07.06:513][999]LogSavePackage: Moving 'D:/SJR/CGD-Game/Prototype/Saved/BP_ThirdPersonCharacter0BEF20DF4153B1DE879F25B1825EA572.tmp' to 'D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.04-19.07.06:521][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 9.68 sec)
+[2024.12.04-19.07.06:525][999]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.12.04-19.07.06:525][999]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.12.04-19.07.07:766][115]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.04-19.07.07:775][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.04-19.07.07:775][115]PIE: New page: PIE session: MainMenu (4 Dec 2024, 19:07:07)
+[2024.12.04-19.07.07:806][115]LogPlayLevel: Creating play world package: /Game/Tyler_UI/UEDPIE_0_MainMenu
+[2024.12.04-19.07.07:808][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002311s)
+[2024.12.04-19.07.07:808][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tyler_UI/MainMenu.MainMenu to /Game/Tyler_UI/UEDPIE_0_MainMenu.MainMenu (0.002360s)
+[2024.12.04-19.07.07:825][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.04-19.07.07:836][115]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.04-19.07.07:836][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.04-19.07.07:836][115]LogAIModule: Creating AISystem for world MainMenu
+[2024.12.04-19.07.07:836][115]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2024.12.04-19.07.07:836][115]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2024.12.04-19.07.07:836][115]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.04-19.07.07:836][115]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.04-19.07.07:836][115]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.04-19.07.07:836][115]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.04-19.07.07:836][115]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.04-19.07.07:836][115]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.04-19.07.07:836][115]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.04-19.07.07:836][115]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.04-19.07.07:837][115]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.04-19.07.07:837][115]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.04-19.07.07:837][115]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.04-19.07.07:838][115]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.04-19.07.07:866][115]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.12.04-19.07.07:866][115]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.04-19.07.07:866][115]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.04-19.07.07:866][115]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.04-19.07.07:866][115]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2024.12.04-19.07.07:866][115]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2024.12.04-19.07.07:868][115]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2024.12.04-19.07.07:868][115]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2024.12.04-19.07.07:868][115]LogInit: FAudioDevice initialized with ID 54.
+[2024.12.04-19.07.07:868][115]LogAudio: Display: Audio Device (ID: 54) registered with world 'MainMenu'.
+[2024.12.04-19.07.07:868][115]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2024.12.04-19.07.07:870][115]LogLoad: Game class is 'GMB_MenuGameMode_C'
+[2024.12.04-19.07.07:870][115]LogWorld: Bringing World /Game/Tyler_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.12.04-19.07.07
+[2024.12.04-19.07.07:871][115]LogWorld: Bringing up level for play took: 0.000264
+[2024.12.04-19.07.07:872][115]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2024.12.04-19.07.07:873][115]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.04-19.07.07:873][115]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.04-19.07.07:873][115]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.04-19.07.07:873][115]PIE: Server logged in
+[2024.12.04-19.07.07:873][115]PIE: Play in editor total start time 0.099 seconds.
+[2024.12.04-19.07.09:053][255]LogNet: Browse: /Game/Levels/SimplePuzzles/SimplePuzzles
+[2024.12.04-19.07.09:053][255]LogLoad: LoadMap: /Game/Levels/SimplePuzzles/SimplePuzzles
+[2024.12.04-19.07.09:053][255]LogWorld: BeginTearingDown for /Game/Tyler_UI/UEDPIE_0_MainMenu
+[2024.12.04-19.07.09:053][255]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.04-19.07.09:053][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.04-19.07.09:095][255]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.04-19.07.09:096][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.12.04-19.07.09:111][255]LogAudio: Display: Audio Device (ID: 54) registered with world 'SimplePuzzles'.
+[2024.12.04-19.07.09:111][255]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.04-19.07.09:111][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.04-19.07.09:111][255]LogAIModule: Creating AISystem for world SimplePuzzles
+[2024.12.04-19.07.09:112][255]LogWorldPartition: ULevel::OnLevelLoaded(SimplePuzzles)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.04-19.07.09:112][255]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.04-19.07.09:112][255]LogWorldPartition: UWorldPartition::Initialize : World = SimplePuzzles, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.12.04-19.07.09:112][255]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.04-19.07.09:117][255]LogWorldPartition: Display: GenerateStreaming for 'SimplePuzzles' started...
+[2024.12.04-19.07.09:857][255]LogWorldPartition: Display: GenerateStreaming for 'SimplePuzzles' took 740 ms (total: 8.70 sec)
+[2024.12.04-19.07.09:865][255]LogContentBundle: [SimplePuzzles(Standalone)] Creating new contrainer.
+[2024.12.04-19.07.09:865][255]LogWorldPartition: Display: WorldPartition initialize took 753 ms (total: 10.1 sec)
+[2024.12.04-19.07.09:865][255]LogPlayLevel: PIE: World Init took: (0.754247s)
+[2024.12.04-19.07.09:865][255]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.04-19.07.09:978][255]LogWorld: Bringing World /Game/Levels/SimplePuzzles/UEDPIE_0_SimplePuzzles.SimplePuzzles up for play (max tick rate 0) at 2024.12.04-19.07.09
+[2024.12.04-19.07.09:979][255]LogWorld: Bringing up level for play took: 0.113473
+[2024.12.04-19.07.09:989][255]LogLoad: Took 0.936135 seconds to LoadMap(/Game/Levels/SimplePuzzles/SimplePuzzles)
+[2024.12.04-19.07.10:732][329]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.12.04-19.07.12:227][504]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.12.04-19.07.13:508][636]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.12.04-19.07.17:505][ 46]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [SAVED PLAYER]
+[2024.12.04-19.07.22:412][551]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.12.04-19.07.26:375][956]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [SAVED PLAYER]
+[2024.12.04-19.07.33:254][645]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] [SAVED PLAYER]
+[2024.12.04-19.07.34:796][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.04-19.07.34:796][794]LogWorld: BeginTearingDown for /Game/Levels/SimplePuzzles/UEDPIE_0_SimplePuzzles
+[2024.12.04-19.07.34:797][794]LogWorld: UWorld::CleanupWorld for SimplePuzzles, bSessionEnded=true, bCleanupResources=true
+[2024.12.04-19.07.34:803][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.04-19.07.34:805][794]LogContentBundle: [SimplePuzzles(Standalone)] Deleting container.
+[2024.12.04-19.07.34:808][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.04-19.07.34:812][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.04-19.07.34:828][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.04-19.07.34:831][794]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2024.12.04-19.07.34:831][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2024.12.04-19.07.34:833][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2024.12.04-19.07.34:853][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.12.04-19.07.34:881][795]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.12.04-19.07.41:280][555]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.04-19.07.41:287][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.04-19.07.41:287][555]PIE: New page: PIE session: MainMenu (4 Dec 2024, 19:07:41)
+[2024.12.04-19.07.41:325][555]LogPlayLevel: Creating play world package: /Game/Tyler_UI/UEDPIE_0_MainMenu
+[2024.12.04-19.07.41:327][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001391s)
+[2024.12.04-19.07.41:327][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tyler_UI/MainMenu.MainMenu to /Game/Tyler_UI/UEDPIE_0_MainMenu.MainMenu (0.001426s)
+[2024.12.04-19.07.41:340][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.12.04-19.07.41:345][555]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.04-19.07.41:345][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.04-19.07.41:345][555]LogAIModule: Creating AISystem for world MainMenu
+[2024.12.04-19.07.41:345][555]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2024.12.04-19.07.41:346][555]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2024.12.04-19.07.41:346][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.04-19.07.41:346][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.04-19.07.41:346][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.04-19.07.41:346][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.04-19.07.41:346][555]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.04-19.07.41:346][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.04-19.07.41:346][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.04-19.07.41:346][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.04-19.07.41:346][555]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.04-19.07.41:346][555]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.04-19.07.41:346][555]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.04-19.07.41:347][555]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.04-19.07.41:375][555]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.12.04-19.07.41:375][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.04-19.07.41:375][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.04-19.07.41:375][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.04-19.07.41:376][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2024.12.04-19.07.41:376][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2024.12.04-19.07.41:377][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2024.12.04-19.07.41:377][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2024.12.04-19.07.41:377][555]LogInit: FAudioDevice initialized with ID 55.
+[2024.12.04-19.07.41:377][555]LogAudio: Display: Audio Device (ID: 55) registered with world 'MainMenu'.
+[2024.12.04-19.07.41:377][555]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2024.12.04-19.07.41:379][555]LogLoad: Game class is 'GMB_MenuGameMode_C'
+[2024.12.04-19.07.41:379][555]LogWorld: Bringing World /Game/Tyler_UI/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.12.04-19.07.41
+[2024.12.04-19.07.41:379][555]LogWorld: Bringing up level for play took: 0.000275
+[2024.12.04-19.07.41:381][555]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2024.12.04-19.07.41:382][555]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.04-19.07.41:382][555]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.04-19.07.41:382][555]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.04-19.07.41:382][555]PIE: Server logged in
+[2024.12.04-19.07.41:382][555]PIE: Play in editor total start time 0.095 seconds.
+[2024.12.04-19.07.42:346][669]LogNet: Browse: /Game/Levels/SimplePuzzles/SimplePuzzles
+[2024.12.04-19.07.42:346][669]LogLoad: LoadMap: /Game/Levels/SimplePuzzles/SimplePuzzles
+[2024.12.04-19.07.42:346][669]LogWorld: BeginTearingDown for /Game/Tyler_UI/UEDPIE_0_MainMenu
+[2024.12.04-19.07.42:346][669]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.04-19.07.42:346][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.04-19.07.42:400][669]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.04-19.07.42:402][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.12.04-19.07.42:416][669]LogAudio: Display: Audio Device (ID: 55) registered with world 'SimplePuzzles'.
+[2024.12.04-19.07.42:416][669]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.04-19.07.42:416][669]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.04-19.07.42:417][669]LogAIModule: Creating AISystem for world SimplePuzzles
+[2024.12.04-19.07.42:417][669]LogWorldPartition: ULevel::OnLevelLoaded(SimplePuzzles)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.04-19.07.42:417][669]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.04-19.07.42:417][669]LogWorldPartition: UWorldPartition::Initialize : World = SimplePuzzles, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.12.04-19.07.42:417][669]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.04-19.07.42:422][669]LogWorldPartition: Display: GenerateStreaming for 'SimplePuzzles' started...
+[2024.12.04-19.07.43:121][669]LogWorldPartition: Display: GenerateStreaming for 'SimplePuzzles' took 698 ms (total: 9.40 sec)
+[2024.12.04-19.07.43:128][669]LogContentBundle: [SimplePuzzles(Standalone)] Creating new contrainer.
+[2024.12.04-19.07.43:128][669]LogWorldPartition: Display: WorldPartition initialize took 710 ms (total: 10.8 sec)
+[2024.12.04-19.07.43:128][669]LogPlayLevel: PIE: World Init took: (0.711826s)
+[2024.12.04-19.07.43:128][669]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.04-19.07.43:238][669]LogWorld: Bringing World /Game/Levels/SimplePuzzles/UEDPIE_0_SimplePuzzles.SimplePuzzles up for play (max tick rate 0) at 2024.12.04-19.07.43
+[2024.12.04-19.07.43:239][669]LogWorld: Bringing up level for play took: 0.111135
+[2024.12.04-19.07.43:251][669]LogLoad: Took 0.904568 seconds to LoadMap(/Game/Levels/SimplePuzzles/SimplePuzzles)
+[2024.12.04-19.07.44:883][821]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.12.04-19.07.45:761][906]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.12.04-19.07.46:378][966]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.12.04-19.07.47:276][ 53]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2024.12.04-19.07.55:906][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.04-19.07.55:906][877]LogWorld: BeginTearingDown for /Game/Levels/SimplePuzzles/UEDPIE_0_SimplePuzzles
+[2024.12.04-19.07.55:906][877]LogWorld: UWorld::CleanupWorld for SimplePuzzles, bSessionEnded=true, bCleanupResources=true
+[2024.12.04-19.07.55:912][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.04-19.07.55:914][877]LogContentBundle: [SimplePuzzles(Standalone)] Deleting container.
+[2024.12.04-19.07.55:918][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.04-19.07.55:921][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.04-19.07.55:933][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.04-19.07.55:933][877]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2024.12.04-19.07.55:933][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.12.04-19.07.55:935][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.12.04-19.07.55:957][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.12.04-19.07.55:979][878]LogPlayLevel: Display: Destroying online subsystem :Context_72
