@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/WP_PauseMenu.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/MainMenu.umap",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Tyler_UI/WP_MainMenu.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Tyler_UI/MainMenu_BuiltData.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Tyler_UI/MainMenu.umap",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
