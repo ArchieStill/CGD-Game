@@ -5,18 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Tyler_UI/MainMenu_BuiltData.uasset",
-				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Tyler_UI/MainMenu.umap",
-				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/AlphaEnding/WBP_AlphaOver.uasset",
-				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/9/87/45OCRM40WWYTA69O92IHSJ.uasset",
-				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/NewMovementTest/NewMovementTest.umap",
-				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/NewMovementTest/_GENERATED/Archie/CubeGridToolOutput_19E8FA37.uasset",
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes.uasset",
 				"D:/CGD-Game/Prototype/Content/CustomBlueprints/BP_Breakable.uasset",
 				"D:/CGD-Game/Prototype/Content/Pots+Collects/Pot.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/9/MC/L0LVYS2Q3X4NTHII8VHVTC.uasset",
-				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/1/5B/C9OPW9JAHTCWD5MFN0VHN0.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/9/J6/HL34IOVPIGVBO0VLNGVZUQ.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/1/MT/UX73SIK4W6W6H5IB5T8YX7.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/5/QB/2HM6OWDLOG8815P35LVERQ.uasset",
@@ -48,7 +40,18 @@
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/AlphaEnding/BoulderChaseSlope/C/YP/PND3H3P6CJ3FJ86QRI8TTB.uasset",
 				"D:/CGD-Game/Prototype/Content/CustomBlueprints/BP_SpawnsTNT.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/BP_ChaseBoulder.uasset",
-				"D:/CGD-Game/Prototype/Content/CustomBlueprints/Objects/BP_TNT.uasset"
+				"D:/CGD-Game/Prototype/Content/CustomBlueprints/Objects/BP_TNT.uasset",
+				"D:/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/NewMovementTest/NewMovementTest.umap",
+				"D:/CGD-Game/Prototype/Content/Levels/NewMovementTest/_GENERATED/Archie/CubeGridToolOutput_19E8FA37.uasset",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Tyler_UI/MainMenu_BuiltData.uasset",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Tyler_UI/MainMenu.umap",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/AlphaEnding/WBP_AlphaOver.uasset",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/9/87/45OCRM40WWYTA69O92IHSJ.uasset",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/NewMovementTest/NewMovementTest.umap",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/NewMovementTest/_GENERATED/Archie/CubeGridToolOutput_19E8FA37.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/1/5B/C9OPW9JAHTCWD5MFN0VHN0.uasset"
 			]
 		}
 	]
