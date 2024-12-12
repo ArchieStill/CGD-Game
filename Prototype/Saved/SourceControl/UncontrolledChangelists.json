@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Audio/BP_AudioEngine.uasset",
+				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/FMOD/PrivateIntegrationData/BankLookup.uasset",
+				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/FMOD/Buses/Reverb.uasset",
+				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/FMOD/Banks/Master.uasset",
+				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
+				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Levels/TestZone/TestZone.umap",
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/0/DP/1DIAEG6M9U1QHG5EHC3CF9.uasset",
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/1/EB/NZODUW6KPUMBUCK23X3XLX.uasset",
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/1/GP/BLZC3I11RW3NOS88XH9CGI.uasset",
