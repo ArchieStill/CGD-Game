@@ -6,6 +6,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes.uasset",
 				"D:/CGD-Game/Prototype/Content/CustomBlueprints/BP_Breakable.uasset",
 				"D:/CGD-Game/Prototype/Content/Pots+Collects/Pot.uasset",
@@ -558,6 +559,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+=======
+>>>>>>> ElijahHiddenObjects
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes.uasset",
 				"D:/CGD-Game/Prototype/Content/CustomBlueprints/BP_Breakable.uasset",
 				"D:/CGD-Game/Prototype/Content/Pots+Collects/Pot.uasset",
@@ -594,6 +597,7 @@
 				"D:/CGD-Game/Prototype/Content/CustomBlueprints/BP_SpawnsTNT.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/BP_ChaseBoulder.uasset",
 				"D:/CGD-Game/Prototype/Content/CustomBlueprints/Objects/BP_TNT.uasset",
+<<<<<<< HEAD
 				"D:/CGD-Game/Prototype/Content/Levels/BoobyTrapLevel.umap",
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/BP_Spikes1.uasset",
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/Beta/BP_Spikes1.uasset",
@@ -635,6 +639,33 @@
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/Alpha/Spikes_pCylinder2.uasset",
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/Alpha/Spikes_pCylinder3.uasset",
 				"D:/CGD-Game/Prototype/Content/BoobyTrapElements/Alpha/Spikes_pCylinder4.uasset",
+=======
+				"D:/CGD-Game/Prototype/Content/Levels/HiddenObjects.umap",
+				"D:/CGD-Game/Prototype/Content/CustomBlueprints/Objects/BP_HiddenObjectCrystal.uasset",
+				"D:/CGD-Game/Prototype/Content/BPI_HiddenObject.uasset",
+				"D:/CGD-Game/Prototype/Content/CustomBlueprints/Objects/BP_HiddenPlatform.uasset",
+				"D:/CGD-Game/Prototype/Content/Materials/M_EmissiveTurquoise.uasset",
+				"D:/CGD-Game/Prototype/Content/Materials/M_TranslucentWhite.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel.umap",
+				"D:/CGD-Game/Prototype/Content/CustomBlueprints/Objects/BP_OrangeCrystal.uasset",
+				"D:/CGD-Game/Prototype/Content/CustomBlueprints/Objects/BP_BlueCrystal.uasset",
+				"D:/CGD-Game/Prototype/Content/CustomBlueprints/Objects/BP_OrangeCrystalPlatform.uasset",
+				"D:/CGD-Game/Prototype/Content/Materials/MI_Orange_Transparent.uasset",
+				"D:/CGD-Game/Prototype/Content/Materials/M_EmissiveOrange.uasset",
+				"D:/CGD-Game/Prototype/Content/CustomBlueprints/Objects/BP_BlueCrystalPlatform.uasset",
+				"D:/CGD-Game/Prototype/Content/Materials/M_DarkOrange.uasset",
+				"D:/CGD-Game/Prototype/Content/BPI_Showable.uasset",
+				"D:/CGD-Game/Prototype/Content/CustomBlueprints/Interactables/BP_OrangeCrystalHammerButton.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/SimplePuzzles/BP_HammerButton.uasset",
+				"D:/CGD-Game/Prototype/Content/BallPuzzle/BP_BlueCrystalBumper.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/SimplePuzzles/BP_FalseHammerHitWhenPlayerHitRotating.uasset",
+				"D:/CGD-Game/Prototype/Content/BallPuzzle/BP_OrangeCrystalBumper.uasset",
+				"D:/CGD-Game/Prototype/Content/Materials/MI_Orange_Transparent_2.uasset",
+				"D:/CGD-Game/Prototype/Content/BallPuzzle/BP_OrangeCrystalAutoBumper.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/SimplePuzzles/BP_OrangeCrystalHammerButton.uasset",
+				"D:/CGD-Game/Prototype/Content/CustomBlueprints/BP_OrangeCrystalHammerButton.uasset",
+				"D:/CGD-Game/Prototype/Content/BP_HiddenPlatform.uasset",
+>>>>>>> ElijahHiddenObjects
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Tyler_UI/MainMenu_BuiltData.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Tyler_UI/MainMenu.umap",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
