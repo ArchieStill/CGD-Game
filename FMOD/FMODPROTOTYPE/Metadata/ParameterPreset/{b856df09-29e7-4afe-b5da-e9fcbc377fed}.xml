@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b856df09-29e7-4afe-b5da-e9fcbc377fed}">
+		<property name="name">
+			<value>HitBool</value>
+		</property>
+		<relationship name="folder">
+			<destination>{25e1f1bf-f15c-410a-86ec-924af1897ed6}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{5f95c644-23fd-4768-975d-71a5a5ac4856}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{5f95c644-23fd-4768-975d-71a5a5ac4856}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Success</value>
+			<value>Fail</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
