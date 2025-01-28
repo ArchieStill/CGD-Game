@@ -1704,3 +1704,111 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2025.01.28-09.25.59:700][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.01.28-09.25.59:702][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
 [2025.01.28-09.25.59:766][355]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.01.28-09.38.08:486][306]LogViewport: Scene viewport resized to 2288x1840, mode Windowed.
+[2025.01.28-09.38.31:542][444]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.28-09.38.31:589][446]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.28-09.38.31:623][448]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.28-09.38.31:645][449]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: ================================================
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Total job queries 85, among them cache hits 64 (75.29%)
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Tracking 21 distinct input hashes that result in 14 distinct outputs (66.67%)
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: RAM used: 501.69 KiB of 3.20 GiB budget. Usage: 0.01%
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Shaders Compiled: 21
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Jobs assigned 21, completed 21 (100%)
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Average time worker was idle: 1291.71 s
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Job execution time: average 0.88 s, max 1.67 s
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Job life time (pending + execution): average 0.94 s, max 1.76
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Shader code size: average 42.037 KiB, min 29.625 KiB, max 70.504 KiB
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.29 s
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Jobs were issued in 21 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Average processing rate: 4.90 jobs/sec
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Total thread time: 5.03 s
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Total thread preprocess time: 2.253 s
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Percentage time preprocessing: 44.78%
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Effective parallelization: 1.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 0.26 sec, max 0.34 sec, min 0.18 sec)
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.25 sec, max 0.37 sec, min 0.18 sec)
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.25 sec, max 0.36 sec, min 0.18 sec)
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2025.01.28-09.38.32:225][498]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 0.19 sec, max 0.25 sec, min 0.11 sec)
+[2025.01.28-09.38.32:226][498]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.28-09.38.32:226][498]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.40% of total time (compiled    6 times, average 0.25 sec, max 0.37 sec, min 0.18 sec)
+[2025.01.28-09.38.32:226][498]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 30.25% of total time (compiled    6 times, average 0.25 sec, max 0.36 sec, min 0.18 sec)
+[2025.01.28-09.38.32:226][498]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.72% of total time (compiled    4 times, average 0.26 sec, max 0.34 sec, min 0.18 sec)
+[2025.01.28-09.38.32:226][498]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.72% of total time (compiled    4 times, average 0.19 sec, max 0.25 sec, min 0.11 sec)
+[2025.01.28-09.38.32:226][498]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.92% of total time (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2025.01.28-09.38.32:226][498]LogShaderCompilers: Display: ================================================
+[2025.01.28-09.38.32:305][503]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.28-09.38.32:327][504]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.28-09.38.32:400][508]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.28-09.38.32:416][509]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.28-09.41.53:385][974]BlueprintLog: New page: Compile BP_BlueCrystal
+[2025.01.28-09.41.53:409][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.01.28-09.41.53:432][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-09.41.53:505][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomBlueprints/Objects/BP_BlueCrystal" FILE="D:/CGD-Game/Prototype/Content/CustomBlueprints/Objects/BP_BlueCrystal.uasset" SILENT=true
+[2025.01.28-09.41.53:519][974]LogSavePackage: Moving output files for package: /Game/CustomBlueprints/Objects/BP_BlueCrystal
+[2025.01.28-09.41.53:519][974]LogSavePackage: Moving 'D:/CGD-Game/Prototype/Saved/BP_BlueCrystal022BE92046EE9DF45CA4F086066982AC.tmp' to 'D:/CGD-Game/Prototype/Content/CustomBlueprints/Objects/BP_BlueCrystal.uasset'
+[2025.01.28-09.41.53:524][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 1.40 sec)
+[2025.01.28-09.41.53:527][974]AssetCheck: New page: Asset Save: BP_BlueCrystal
+[2025.01.28-09.41.53:527][974]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CustomBlueprints/Objects/BP_BlueCrystal.BP_BlueCrystal
+[2025.01.28-09.41.56:038][250]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.28-09.41.56:045][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.28-09.41.56:045][250]PIE: New page: PIE session: CrystalLevel (28 Jan 2025, 09:41:56)
+[2025.01.28-09.41.56:081][250]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CrystalLevel
+[2025.01.28-09.41.56:083][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002664s)
+[2025.01.28-09.41.56:083][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CrystalLevel.CrystalLevel to /Game/Levels/UEDPIE_0_CrystalLevel.CrystalLevel (0.002705s)
+[2025.01.28-09.41.56:096][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.01.28-09.41.56:097][250]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.28-09.41.56:097][250]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.28-09.41.56:097][250]LogAIModule: Creating AISystem for world CrystalLevel
+[2025.01.28-09.41.56:097][250]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2025.01.28-09.41.56:098][250]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.01.28-09.41.56:098][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.28-09.41.56:098][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.28-09.41.56:098][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.28-09.41.56:098][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.28-09.41.56:098][250]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.28-09.41.56:098][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.28-09.41.56:098][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.28-09.41.56:098][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.28-09.41.56:098][250]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.28-09.41.56:098][250]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.28-09.41.56:098][250]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.28-09.41.56:100][250]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.28-09.41.56:128][250]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.01.28-09.41.56:128][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.28-09.41.56:128][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.28-09.41.56:128][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.28-09.41.56:129][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.01.28-09.41.56:129][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.01.28-09.41.56:130][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.01.28-09.41.56:130][250]LogInit: FAudioDevice initialized with ID 6.
+[2025.01.28-09.41.56:130][250]LogAudio: Display: Audio Device (ID: 6) registered with world 'CrystalLevel'.
+[2025.01.28-09.41.56:130][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.01.28-09.41.56:130][250]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.28-09.41.56:132][250]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.28-09.41.56:133][250]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CrystalLevel.CrystalLevel up for play (max tick rate 0) at 2025.01.28-09.41.56
+[2025.01.28-09.41.56:134][250]LogWorld: Bringing up level for play took: 0.001309
+[2025.01.28-09.41.56:135][250]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.01.28-09.41.56:139][250]PIE: Server logged in
+[2025.01.28-09.41.56:139][250]PIE: Play in editor total start time 0.094 seconds.
+[2025.01.28-09.41.56:702][311]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2025.01.28-09.41.58:387][508]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2025.01.28-09.42.04:176][197]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2025.01.28-09.42.10:252][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-09.42.10:252][911]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_CrystalLevel
+[2025.01.28-09.42.10:252][911]LogWorld: UWorld::CleanupWorld for CrystalLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.28-09.42.10:253][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-09.42.10:262][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.28-09.42.10:264][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.28-09.42.10:274][911]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.28-09.42.10:274][911]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.28-09.42.10:275][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.28-09.42.10:276][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.28-09.42.10:279][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.28-09.42.10:281][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.01.28-09.42.10:365][912]LogPlayLevel: Display: Destroying online subsystem :Context_25
