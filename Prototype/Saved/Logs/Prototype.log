@@ -34249,3 +34249,34 @@ Make sure 'BP_ChaseBoulder_C' has been compiled for  Get CanGoDonw
 [2025.01.28-17.48.00:752][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 4.55 sec)
 [2025.01.28-17.48.00:755][470]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2025.01.28-17.48.00:755][470]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.01.28-17.50.41:127][754]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.01.28-17.50.41:218][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.28-17.50.41:312][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-17.50.41:340][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.01.28-17.50.41:389][754]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.28-17.50.41:390][754]LogSavePackage: Moving 'D:/SJR/CGD-Game/Prototype/Saved/BP_ThirdPersonCharacter784ABF6B448D446130F70A96C032337A.tmp' to 'D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.28-17.50.41:397][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 4.64 sec)
+[2025.01.28-17.50.41:402][754]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.01.28-17.50.41:402][754]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.01.28-17.51.39:345][501]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.01.28-17.51.39:434][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.01.28-17.51.39:502][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-17.51.39:562][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.01.28-17.51.39:614][501]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.28-17.51.39:615][501]LogSavePackage: Moving 'D:/SJR/CGD-Game/Prototype/Saved/BP_ThirdPersonCharacter2F2B6778450B0A78191CEFB7B315C903.tmp' to 'D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.28-17.51.39:621][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 4.76 sec)
+[2025.01.28-17.51.39:630][501]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.01.28-17.51.39:630][501]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.01.28-17.51.52:154][923]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.01.28-17.51.52:241][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.28-17.52.10:248][ 30]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.01.28-17.52.10:339][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.01.28-17.53.26:871][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.01.28-17.53.27:885][948]LogSlate: Window 'Save Content' being destroyed
+[2025.01.28-17.53.27:895][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.28-17.53.27:960][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter" FILE="D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.01.28-17.53.28:008][948]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.01.28-17.53.28:009][948]LogSavePackage: Moving 'D:/SJR/CGD-Game/Prototype/Saved/BP_ThirdPersonCharacter01BA8DB74A6CB099CEAD45948F20E970.tmp' to 'D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.01.28-17.53.28:014][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 4.88 sec)
+[2025.01.28-17.53.28:018][948]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.01.28-17.53.28:018][948]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
