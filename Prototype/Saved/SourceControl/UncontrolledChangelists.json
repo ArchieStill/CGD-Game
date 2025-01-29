@@ -5,13 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/CGD-Game/Prototype/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
+				"D:/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/6/X2/WRO1O3C43MWKCG0W02P1IA.uasset",
+				"D:/CGD-Game/Prototype/Content/BallPuzzle/BP_Bumper.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/2/RZ/1PXXB9PVGMT17Z0CIMNTWV.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/D/K1/74JDQMGFH3ZS7Q1ZN2X0N2.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/1/XY/4LVGI59XGZFZODN8FYQYN1.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/9/J6/HL34IOVPIGVBO0VLNGVZUQ.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/1/MT/UX73SIK4W6W6H5IB5T8YX7.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/5/QB/2HM6OWDLOG8815P35LVERQ.uasset",
 				"D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/SJR/CGD-Game/Prototype/Content/Levels/AlphaEnding/WBP_AlphaOver.uasset",
 				"D:/SJR/CGD-Game/Prototype/Content/CustomBlueprints/BP_ZoomOutCam.uasset",
-				"D:/SJR/CGD-Game/Prototype/Content/Levels/AlphaEnding/BP_ChaseBoulder.uasset",
-				"D:/CGD-Game/Prototype/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
-				"D:/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/6/X2/WRO1O3C43MWKCG0W02P1IA.uasset"
+				"D:/SJR/CGD-Game/Prototype/Content/Levels/AlphaEnding/BP_ChaseBoulder.uasset"
 			]
 		}
 	]
