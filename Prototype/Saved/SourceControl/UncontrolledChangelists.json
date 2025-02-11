@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"L:/Uni Work/Year 3/Commercial Games Development/Actual Repo/CGD-Game/Prototype/Content/Blueprints/CameraShake/BP_CameraShake.uasset",
+				"L:/Uni Work/Year 3/Commercial Games Development/Actual Repo/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/7/SK/SHUCTYC0QAB79RPLUVUORS.uasset",
 				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/E/5V/JGQV1VUKHTLWNZ9TUWD7LO.uasset",
