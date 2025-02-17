@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e1da81cb-0e48-4bdc-afc3-e72c627c864d}">
+		<property name="assetPath">
+			<value>Player/Movement/443611__hachiman935__persona_deslizandose_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.5448072562358277</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c052e8fe-babb-4ee0-af0c-b290ac72251c}</destination>
+		</relationship>
+	</object>
+</objects>
