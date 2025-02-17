@@ -15341,3 +15341,6 @@ Make sure 'BP_DeathBoxManager' has been compiled for  Execute Death Sequence
 [2025.02.17-16.00.21:246][256]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2025.02.17-16.00.21:246][256]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2025.02.17-16.00.21:246][256]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.02.17-16.00.22:058][256]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.02.17-16.00.22:153][256]LogExit: Exiting.
+[2025.02.17-16.00.22:178][256]Log file closed, 02/17/25 16:00:22
