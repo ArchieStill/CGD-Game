@@ -60,7 +60,26 @@
 			<destination>{0f32bcbd-e318-491e-9640-56d924f9dcd7}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{3ce4a093-8877-4e45-a035-24527465d071}" />
+	<object class="EventAutomatableProperties" id="{3ce4a093-8877-4e45-a035-24527465d071}">
+		<property name="isPersistent">
+			<value>true</value>
+		</property>
+		<property name="maxVoices">
+			<value>1</value>
+		</property>
+		<property name="voiceStealing">
+			<value>2</value>
+		</property>
+		<property name="priority">
+			<value>4</value>
+		</property>
+		<property name="dopplerEnabled">
+			<value>true</value>
+		</property>
+		<property name="triggerCooldown">
+			<value>200</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{6e50e5ed-b8c5-492c-8e13-a90e833a4c86}" />
 	<object class="GroupTrack" id="{abb8876a-9c9f-4461-be87-d13bf292a043}">
 		<relationship name="automationTracks">
