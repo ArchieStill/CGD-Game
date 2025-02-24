@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/Blueprints/Objects/BP_BoulderTorch.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/Blueprints/Objects/BP_BigTorch.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/Blueprints/Objects/BP_TorchPurple.uasset",
 				"D:/SJR/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/7/SK/SHUCTYC0QAB79RPLUVUORS.uasset",
 				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/E/5V/JGQV1VUKHTLWNZ9TUWD7LO.uasset",
@@ -45,7 +48,6 @@
 				"D:/SJR/CGD-Game/Prototype/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset",
 				"D:/SJR/CGD-Game/Prototype/Content/Blueprints/RelicPuzzle/Blueprint_Effect_Smoke.uasset",
 				"D:/SJR/CGD-Game/Prototype/Content/Blueprints/RelicPuzzle/BP_SmokePurple.uasset",
-				"D:/SJR/CGD-Game/Prototype/Content/Blueprints/RelicPuzzle/Blueprint_Effect_Smoke.uasset",
 				"D:/SJR/CGD-Game/Prototype/Content/Blueprints/RelicPuzzle/M_smoke_subUV.uasset",
 				"D:/SJR/CGD-Game/Prototype/Content/Blueprints/Objects/BP_RoomTorchPurple.uasset",
 				"D:/SJR/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/5/7X/66O0ZHXLOGKV55I5W4FMJF.uasset",
