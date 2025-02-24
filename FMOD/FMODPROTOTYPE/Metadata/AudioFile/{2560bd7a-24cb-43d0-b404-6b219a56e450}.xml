@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2560bd7a-24cb-43d0-b404-6b219a56e450}">
+		<property name="assetPath">
+			<value>AE_FootstepsCollection_V1/FEETHmn-GRASS_AUDIOELK-Fs Grass Shoes Outdoors 01_AUDIOELK_AUDIOELK.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.5973541666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c052e8fe-babb-4ee0-af0c-b290ac72251c}</destination>
+		</relationship>
+	</object>
+</objects>
