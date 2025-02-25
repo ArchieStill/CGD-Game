@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Blueprints/Widget/BP_HintDisplay.uasset",
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Blueprints/Hammer_Level/BP_HintBox.uasset",
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Levels/Level_Hammer.umap",
 				"D:/CGD-Game/Prototype/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
 				"D:/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzles/6/X2/WRO1O3C43MWKCG0W02P1IA.uasset",
