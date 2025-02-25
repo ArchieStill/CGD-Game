@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{67bd846e-36ab-4285-bc15-28c0be190d02}">
+		<property name="assetPath">
+			<value>AE_FootstepsCollection_V1/FEETHmn-GRAVEL_AUDIOELK-Fs Gravel Shoes Outdoors 44_AUDIOELK_AUDIOELK.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.5439791666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c052e8fe-babb-4ee0-af0c-b290ac72251c}</destination>
+		</relationship>
+	</object>
+</objects>
