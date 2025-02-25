@@ -53,7 +53,7 @@
 			<destination>{4ed9302a-7b05-4fe8-bcf7-be8a1202a47e}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{2de8f56a-1d20-4d23-a07e-8f8486963092}</destination>
+			<destination>{0f32bcbd-e318-491e-9640-56d924f9dcd7}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{4457a7d6-5683-44a0-8228-7a646072bf9a}">
@@ -94,7 +94,7 @@
 	<object class="MixerBusPanner" id="{4ed9302a-7b05-4fe8-bcf7-be8a1202a47e}" />
 	<object class="SingleSound" id="{667fc9bb-5bc5-47da-90d9-9775522b587a}">
 		<property name="length">
-			<value>0.5</value>
+			<value>0.20000000000000001</value>
 		</property>
 		<relationship name="fadeInCurve">
 			<destination>{ef7e4404-a86d-4fe3-9f01-523a974c8d21}</destination>
