@@ -53,7 +53,7 @@
 			<destination>{528ae7b9-1336-4cfc-9d52-7b9dc7c32efb}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{0f32bcbd-e318-491e-9640-56d924f9dcd7}</destination>
+			<destination>{2de8f56a-1d20-4d23-a07e-8f8486963092}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{38f08fe6-e6ee-4c30-94fc-bee72f583d0b}" />
@@ -90,7 +90,7 @@
 	<object class="MixerBusPanner" id="{528ae7b9-1336-4cfc-9d52-7b9dc7c32efb}" />
 	<object class="SingleSound" id="{06384606-3422-47b0-99f9-e7e44abb637e}">
 		<property name="length">
-			<value>0.23999999999999999</value>
+			<value>0.14999999999999999</value>
 		</property>
 		<property name="timelockedOffset">
 			<value>0.077290496195175862</value>
@@ -159,6 +159,7 @@
 	<object class="MixerBusEffectChain" id="{cedca620-d9d1-473b-bc06-a4a915b9cb58}">
 		<relationship name="effects">
 			<destination>{f6375281-6544-4e4d-93eb-571eef79dafd}</destination>
+			<destination>{731455a6-1049-43b4-97c5-ed827495b474}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{94f22b14-db31-4855-9bb9-a5b00e374696}" />
@@ -187,7 +188,7 @@
 	</object>
 	<object class="AutomationPoint" id="{0750138f-2ab0-4368-b9b4-2863863d03b1}">
 		<property name="position">
-			<value>0.17999999999999999</value>
+			<value>0.089999999999999997</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -198,11 +199,19 @@
 	</object>
 	<object class="AutomationPoint" id="{dc7fbf01-ff2f-4a0d-87a0-2da26c2891f4}">
 		<property name="position">
-			<value>0.24000000000000013</value>
+			<value>0.15000000000000013</value>
 		</property>
 		<property name="value">
 			<value>0</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{f6375281-6544-4e4d-93eb-571eef79dafd}" />
+	<object class="DelayEffect" id="{731455a6-1049-43b4-97c5-ed827495b474}">
+		<property name="delay">
+			<value>340</value>
+		</property>
+		<property name="level">
+			<value>-27</value>
+		</property>
+	</object>
 </objects>
