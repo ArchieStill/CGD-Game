@@ -56,7 +56,11 @@
 			<destination>{48023b54-5e93-4cba-bb0e-7da3ace3918f}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{b7131686-85f1-48b5-ba11-de2bec7bc29e}" />
+	<object class="EventAutomatableProperties" id="{b7131686-85f1-48b5-ba11-de2bec7bc29e}">
+		<property name="maxVoices">
+			<value>1</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{adb3c3b1-dd10-4e77-8503-6c017ec6a5cb}" />
 	<object class="GroupTrack" id="{7ef6ab7d-d5c4-4a69-adc4-753de1c83bbe}">
 		<relationship name="modules">
@@ -218,22 +222,22 @@
 			<value>3</value>
 		</property>
 		<property name="frequencyA">
-			<value>623.349548</value>
+			<value>1988.98267</value>
 		</property>
 		<property name="frequencyB">
-			<value>1948.19666</value>
+			<value>5158.79541</value>
 		</property>
 		<property name="frequencyD">
-			<value>9026.09277</value>
+			<value>15468.6729</value>
 		</property>
 		<property name="qualityA">
-			<value>0.730814755</value>
+			<value>1.537714</value>
 		</property>
 		<property name="qualityD">
-			<value>0.192069337</value>
+			<value>0.423557937</value>
 		</property>
 		<property name="gainB">
-			<value>-15.2437696</value>
+			<value>-9.52329445</value>
 		</property>
 	</object>
 	<object class="DistortionEffect" id="{f503ab4b-2e65-4a99-9b20-c64a15383c99}">
