@@ -1,0 +1,891 @@
+Stats thread started at 0.259167
+ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-2308D8FE44FB3BAB1CF5958BF36D4BC0
+         Session CrashGUID >====================================================
+Loading Mac ini files took 0.04 seconds
+Loading Android ini files took 0.04 seconds
+Loading VulkanPC ini files took 0.04 seconds
+Loading IOS ini files took 0.04 seconds
+Loading TVOS ini files took 0.05 seconds
+Loading Windows ini files took 0.05 seconds
+Loading Unix ini files took 0.05 seconds
+Loading Linux ini files took 0.05 seconds
+Loading LinuxArm64 ini files took 0.05 seconds
+Asset registry cache read as 30.6 MiB from ../../../../../../Users/riley/Documents/CGD-Game/Prototype/Intermediate/CachedAssetRegistry_0.bin
+Mounting Engine plugin Bridge
+Mounting Engine plugin EnhancedInput
+Found config from plugin[EnhancedInput] Input
+Mounting Engine plugin FastBuildController
+Mounting Engine plugin MeshPainting
+Mounting Engine plugin Fab
+Mounting Engine plugin TraceUtilities
+Mounting Engine plugin XGEController
+Mounting Engine plugin ACLPlugin
+Mounting Engine plugin AnimationModifierLibrary
+Mounting Engine plugin ControlRig
+Mounting Engine plugin ControlRigSpline
+Mounting Engine plugin AnimationData
+Mounting Engine plugin OodleNetwork
+Mounting Engine plugin AlembicImporter
+Mounting Engine plugin AssetManagerEditor
+Mounting Engine plugin IKRig
+Mounting Engine plugin Paper2D
+Mounting Engine plugin BlueprintHeaderView
+Mounting Engine plugin ChangelistReview
+Mounting Engine plugin CryptoKeys
+Mounting Engine plugin DataValidation
+Mounting Engine plugin EditorDebugTools
+Mounting Engine plugin EditorScriptingUtilities
+Mounting Engine plugin FacialAnimation
+Mounting Engine plugin CurveEditorTools
+Mounting Engine plugin EngineAssetDefinitions
+Mounting Engine plugin GeometryMode
+Mounting Engine plugin GameplayTagsEditor
+Mounting Engine plugin MaterialAnalyzer
+Mounting Engine plugin ModelingToolsEditorMode
+Mounting Engine plugin BlendSpaceMotionAnalysis
+Mounting Engine plugin MacGraphicsSwitching
+Mounting Engine plugin PluginBrowser
+Mounting Engine plugin SpeedTreeImporter
+Mounting Engine plugin WorldPartitionHLODUtilities
+Mounting Engine plugin InterchangeEditor
+Mounting Engine plugin AISupport
+Mounting Engine plugin UVEditor
+Mounting Engine plugin Interchange
+Mounting Engine plugin SequencerAnimTools
+Mounting Engine plugin EnvironmentQueryEditor
+Mounting Engine plugin MobileLauncherProfileWizard
+Mounting Engine plugin DatasmithContent
+Mounting Engine plugin GLTFExporter
+Mounting Engine plugin ActorSequence
+Mounting Engine plugin VariantManager
+Mounting Engine plugin LevelSequenceEditor
+Mounting Engine plugin TemplateSequence
+Mounting Engine plugin SequencerScripting
+Mounting Engine plugin AndroidDeviceProfileSelector
+Mounting Engine plugin AndroidMoviePlayer
+Mounting Engine plugin AndroidPermission
+Mounting Engine plugin AndroidFileServer
+Mounting Engine plugin ArchVisCharacter
+Mounting Engine plugin VariantManagerContent
+Mounting Engine plugin AppleImageUtils
+Mounting Engine plugin AssetTags
+Mounting Engine plugin AudioWidgets
+Mounting Engine plugin AudioSynesthesia
+Mounting Engine plugin CableComponent
+Mounting Engine plugin AppleMoviePlayer
+Mounting Engine plugin CustomMeshComponent
+Mounting Engine plugin ChunkDownloader
+Mounting Engine plugin GeometryProcessing
+Mounting Engine plugin GoogleCloudMessaging
+Mounting Engine plugin GooglePAD
+Mounting Engine plugin ActorLayerUtilities
+Mounting Engine plugin LinuxDeviceProfileSelector
+Mounting Engine plugin InputDebugging
+Found config from plugin[InputDebugging] Input
+Mounting Engine plugin IOSDeviceProfileSelector
+Mounting Engine plugin LocationServicesBPLibrary
+Mounting Engine plugin MeshModelingToolset
+Mounting Engine plugin MobilePatchingUtils
+Mounting Engine plugin AudioCapture
+Mounting Engine plugin Metasound
+Mounting Engine plugin MsQuic
+Mounting Engine plugin ExampleDeviceProfileSelector
+Mounting Engine plugin ProceduralMeshComponent
+Mounting Engine plugin ResonanceAudio
+Mounting Engine plugin RigVM
+Mounting Engine plugin SignificanceManager
+Mounting Engine plugin SoundFields
+Mounting Engine plugin Synthesis
+Mounting Engine plugin WaveTable
+Mounting Engine plugin WindowsDeviceProfileSelector
+Mounting Engine plugin WebMMoviePlayer
+Mounting Engine plugin GameplayCameras
+Mounting Engine plugin CameraShakePreviewer
+Mounting Engine plugin WindowsMoviePlayer
+Mounting Engine plugin ChaosCloth
+Mounting Engine plugin ChaosClothEditor
+Mounting Engine plugin ChaosUserDataPT
+Mounting Engine plugin BackChannel
+Mounting Engine plugin CharacterAI
+Mounting Engine plugin ChaosSolverPlugin
+Mounting Engine plugin Dataflow
+Mounting Engine plugin ChaosEditor
+Mounting Engine plugin PropertyAccessEditor
+Mounting Engine plugin Fracture
+Mounting Engine plugin GeometryFlow
+Mounting Engine plugin FullBodyIK
+Mounting Engine plugin GeometryCollectionPlugin
+Mounting Engine plugin GeometryCache
+Mounting Engine plugin MeshLODToolset
+Mounting Engine plugin MeshModelingToolsetExp
+Mounting Engine plugin AutomationUtils
+Mounting Engine plugin ChaosCaching
+Mounting Engine plugin ChaosNiagara
+Mounting Engine plugin OpenImageDenoise
+Mounting Engine plugin PlanarCut
+Mounting Engine plugin PlatformCrypto
+Mounting Engine plugin LocalizableMessage
+Mounting Engine plugin ToolPresets
+Mounting Engine plugin ProxyLODPlugin
+Mounting Engine plugin AnimationSharing
+Mounting Engine plugin CodeLiteSourceCodeAccess
+Mounting Engine plugin GitSourceControl
+Mounting Engine plugin KDevelopSourceCodeAccess
+Mounting Engine plugin PerforceSourceControl
+Mounting Engine plugin CLionSourceCodeAccess
+Mounting Engine plugin RenderDocPlugin
+Mounting Engine plugin DumpGPUServices
+Mounting Engine plugin TextureFormatOodle
+Mounting Engine plugin TraceDataFilters
+Mounting Engine plugin PixWinPlugin
+Mounting Engine plugin PluginUtils
+Mounting Engine plugin PropertyAccessNode
+Mounting Engine plugin N10XSourceCodeAccess
+Mounting Engine plugin PythonScriptPlugin
+Mounting Engine plugin RiderSourceCodeAccess
+Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+Mounting Engine plugin XCodeSourceCodeAccess
+Mounting Engine plugin UObjectPlugin
+Mounting Engine plugin SubversionSourceControl
+Mounting Engine plugin InterchangeTests
+Mounting Engine plugin LauncherChunkInstaller
+Mounting Engine plugin StructUtils
+Mounting Engine plugin SkeletalReduction
+Mounting Engine plugin EOSShared
+Mounting Engine plugin OnlineServices
+Mounting Engine plugin OnlineBase
+Mounting Engine plugin OnlineSubsystemNull
+Mounting Engine plugin OnlineSubsystem
+Mounting Engine plugin OnlineSubsystemUtils
+Mounting Engine plugin NullSourceCodeAccess
+Mounting Engine plugin Takes
+Mounting Engine plugin AndroidMedia
+Mounting Engine plugin MediaCompositing
+Mounting Engine plugin MediaPlayerEditor
+Mounting Engine plugin ImgMedia
+Mounting Engine plugin PlasticSourceControl
+Mounting Engine plugin TcpMessaging
+Mounting Engine plugin WebMMedia
+Mounting Engine plugin WmfMedia
+Mounting Engine plugin UdpMessaging
+Mounting Engine plugin VisualStudioSourceCodeAccess
+Mounting Engine plugin Niagara
+Mounting Engine plugin AvfMedia
+Mounting Engine plugin MediaPlate
+Mounting Engine plugin PortableObjectFileDataSource
+Mounting Engine plugin ContentBrowserClassDataSource
+Mounting Engine plugin OnlineSubsystemIOS
+Mounting Engine plugin ContentBrowserFileDataSource
+Mounting Engine plugin LightMixer
+Mounting Engine plugin ObjectMixer
+Mounting Engine plugin OnlineSubsystemGooglePlay
+Mounting Engine plugin ContentBrowserAssetDataSource
+Mounting Project plugin FMODStudio
+Mounting Project plugin FMODStudioNiagara
+FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+FPackageName: Mount point added: '../../Plugins/Fab/Content/' mounted to '/Fab/'
+FPackageName: Mount point added: '../../Plugins/TraceUtilities/Content/' mounted to '/TraceUtilities/'
+FPackageName: Mount point added: '../../Plugins/Animation/ACLPlugin/Content/' mounted to '/ACLPlugin/'
+FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+FPackageName: Mount point added: '../../Plugins/Editor/UVEditor/Content/' mounted to '/UVEditor/'
+FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
+FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+FPackageName: Mount point added: '../../Plugins/Runtime/RigVM/Content/' mounted to '/RigVM/'
+FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ToolPresets/Content/' mounted to '/ToolPresets/'
+FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+FPackageName: Mount point added: '../../Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+FPackageName: Mount point added: '../../../../../../Users/riley/Documents/CGD-Game/Prototype/Plugins/FMODStudio/Content/' mounted to '/FMODStudio/'
+FPackageName: Mount point added: '../../../../../../Users/riley/Documents/CGD-Game/Prototype/Plugins/FMODStudioNiagara/Content/' mounted to '/FMODStudioNiagara/'
+Revision control is disabled
+Revision control is disabled
+Revision control is disabled
+Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
+RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
+File 'WinPixGpuCapturer.dll' does not exist
+PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+Initializing EOSSDK Version:1.16.1-27379709
+Using libcurl 8.4.0
+ - built for Windows
+ - supports SSL with OpenSSL/1.1.1t
+ - supports HTTP deflate (compression) using libz 1.2.13
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: Created online subsystem instance for: NULL
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+ExecutableName: UnrealEditor-Cmd.exe
+Build: ++UE5+Release-5.3-CL-29314046
+Engine Version: 5.3.2-29314046+++UE5+Release-5.3
+Compatible Engine Version: 5.3.0-27405482+++UE5+Release-5.3
+Net CL: 27405482
+OS: Windows 11 (24H2) [10.0.26100.3194] (), CPU: 13th Gen Intel(R) Core(TM) i9-13900HX, GPU: Intel(R) UHD Graphics
+Compiled (64-bit): Nov  3 2023 16:09:16
+Architecture: x64
+Compiled with Visual C++: 19.36.32537.00
+Build Configuration: Development
+Branch Name: ++UE5+Release-5.3
+Command Line:  C:\Users\riley\Documents\CGD-Game\Prototype\Prototype.uproject -run=Cook -TargetPlatform=Windows -unversioned -fileopenlog -abslog="C:\Program Files\Epic Games\UE_5.3\Engine\Programs\AutomationTool\Saved\Cook-2025.03.01-19.20.07.txt" -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output
+Base Directory: C:/Program Files/Epic Games/UE_5.3/Engine/Binaries/Win64/
+Allocator: Mimalloc
+Installed Engine Build: 1
+This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+Number of dev versions registered: 36
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 47
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 111
+  FortniteValkyrie (8DBC2C5B-54A7-43E0-A768-FCBB7DA29060): 2
+  FortniteSeason (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 10
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 11
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 118
+  UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 47
+  UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+  UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+  UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Object subsystem initialized
+Set CVar [[con.DebugEarlyDefault:1]]
+CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+Set CVar [[r.setres:1280x720]]
+CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy variable created
+CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable created
+Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
+CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy variable created
+CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+Set CVar [[r.GPUCrashDebugging:0]]
+CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+Set CVar [[r.ReflectionMethod:1]]
+Set CVar [[r.GenerateMeshDistanceFields:1]]
+Set CVar [[r.DynamicGlobalIlluminationMethod:2]]
+Set CVar [[r.Lumen.TraceMeshSDFs:0]]
+Set CVar [[r.Shadow.Virtual.Enable:1]]
+Set CVar [[r.Mobile.EnableNoPrecomputedLightingCSMShader:1]]
+Set CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+Set CVar [[r.DefaultFeature.LocalExposure.HighlightContrastScale:0.8]]
+Set CVar [[r.DefaultFeature.LocalExposure.ShadowContrastScale:0.8]]
+Set CVar [[r.Shaders.RemoveUnusedInterpolators:1]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+Set CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Set CVar [[s.AsyncLoadingThreadEnabled:1]]
+Set CVar [[s.EventDrivenLoaderEnabled:1]]
+Set CVar [[s.WarnIfTimeLimitExceeded:0]]
+Set CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Set CVar [[s.TimeLimitExceededMinTime:0.005]]
+Set CVar [[s.UseBackgroundLevelStreaming:1]]
+Set CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Set CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Set CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Set CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Set CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Set CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+Set CVar [[s.FlushStreamingOnExit:1]]
+CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+Set CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Set CVar [[gc.SizeOfPermanentObjectPool:0]]
+Set CVar [[gc.FlushStreamingOnGC:0]]
+Set CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Set CVar [[gc.AllowParallelGC:1]]
+Set CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Set CVar [[gc.MaxObjectsInEditor:25165824]]
+Set CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Set CVar [[gc.CreateGCClusters:1]]
+Set CVar [[gc.MinGCClusterSize:5]]
+Set CVar [[gc.AssetClustreringEnabled:0]]
+Set CVar [[gc.ActorClusteringEnabled:0]]
+Set CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+Set CVar [[gc.MultithreadedDestructionEnabled:1]]
+Set CVar [[gc.VerifyUObjectsAreNotFGCObjects:0]]
+Set CVar [[gc.PendingKillEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+CVar [[DefaultASTCQualityBySpeed:2]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.MaterialEditor.LWCTruncateMode]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+Set CVar [[r.SkeletalMeshLODBias:0]]
+Set CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+Set CVar [[r.FXAA.Quality:4]]
+Set CVar [[r.TemporalAA.Quality:2]]
+Set CVar [[r.TSR.History.R11G11B10:1]]
+Set CVar [[r.TSR.History.ScreenPercentage:200]]
+Set CVar [[r.TSR.History.UpdateQuality:3]]
+Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+Set CVar [[r.TSR.ShadingRejection.TileOverscan:3]]
+CVar [[r.TSR.Velocity.Extrapolation:1]] deferred - dummy variable created
+Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+Set CVar [[r.LightFunctionQuality:1]]
+Set CVar [[r.ShadowQuality:5]]
+Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+Set CVar [[r.Shadow.MaxResolution:2048]]
+Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+Set CVar [[r.Shadow.DistanceScale:1.0]]
+Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Set CVar [[r.DistanceFieldShadowing:1]]
+Set CVar [[r.VolumetricFog:1]]
+Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Set CVar [[r.LightMaxDrawDistanceScale:1]]
+Set CVar [[r.CapsuleShadows:1]]
+Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+Set CVar [[r.DistanceFieldAO:1]]
+Set CVar [[r.AOQuality:2]]
+Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+Set CVar [[r.SSR.Quality:3]]
+Set CVar [[r.SSR.HalfResSceneColor:0]]
+Set CVar [[r.Lumen.Reflections.Allow:1]]
+Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:0]]
+Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+Set CVar [[r.MotionBlurQuality:4]]
+Set CVar [[r.MotionBlur.HalfResGather:0]]
+Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+Set CVar [[r.AmbientOcclusionLevels:-1]]
+Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Set CVar [[r.DepthOfFieldQuality:2]]
+Set CVar [[r.RenderTargetPoolMin:400]]
+Set CVar [[r.LensFlareQuality:2]]
+Set CVar [[r.SceneColorFringeQuality:1]]
+Set CVar [[r.EyeAdaptationQuality:2]]
+Set CVar [[r.BloomQuality:5]]
+Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+Set CVar [[r.FastBlurThreshold:100]]
+Set CVar [[r.Upscale.Quality:3]]
+Set CVar [[r.LightShaftQuality:1]]
+Set CVar [[r.Filter.SizeScale:1]]
+Set CVar [[r.Tonemapper.Quality:5]]
+Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+Set CVar [[r.Streaming.MipBias:0]]
+Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Set CVar [[r.Streaming.Boost:1]]
+Set CVar [[r.MaxAnisotropy:8]]
+Set CVar [[r.VT.MaxAnisotropy:8]]
+Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Set CVar [[r.Streaming.PoolSize:1000]]
+Set CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+Set CVar [[r.RefractionQuality:2]]
+Set CVar [[r.SceneColorFormat:4]]
+Set CVar [[r.DetailMode:2]]
+Set CVar [[r.TranslucencyVolumeBlur:1]]
+Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Set CVar [[r.SSS.Scale:1]]
+Set CVar [[r.SSS.SampleSet:2]]
+Set CVar [[r.SSS.Quality:1]]
+Set CVar [[r.SSS.HalfRes:0]]
+Set CVar [[r.SSGI.Quality:3]]
+Set CVar [[r.EmitterSpawnRateScale:1.0]]
+Set CVar [[r.ParticleLightQuality:2]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+CVar [[fx.Niagara.QualityLevel:3]] deferred - dummy variable created
+Set CVar [[r.Refraction.OffsetQuality:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+Set CVar [[foliage.DensityScale:1.0]]
+Set CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Set CVar [[r.AnisotropicMaterials:1]]
+Selected Device Profile: [WindowsEditor]
+Platform has ~ 32 GB [34082775040 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile [Windows]
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Set CVar [[r.DumpShaderDebugInfo:2]]
+Set CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Set CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+Applying CVar settings from Section [ConsoleVariables] File [Engine]
+Applying CVar settings from Section [ConsoleVariables] File [C:/Users/riley/Documents/CGD-Game/Prototype/Saved/Config/WindowsEditor/Editor.ini]
+Computer: RILEYSHELIOS
+User: riley
+CPU Page size=4096, Cores=24
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=31.7GB (32GB approx)
+Platform Memory Stats for WindowsEditor
+Process Physical Memory: 521.96 MB used, 521.96 MB peak
+Process Virtual Memory: 541.10 MB used, 541.10 MB peak
+Physical Memory: 16842.39 MB used,  15661.47 MB free, 32503.87 MB total
+Virtual Memory: 22545.81 MB used,  15078.05 MB free, 37623.87 MB total
+Metadata set : extradevelopmentmemorymb="0"
+Loaded Base TextureFormat: TextureFormatASTC
+Loaded Base TextureFormat: TextureFormatDXT
+Loaded Base TextureFormat: TextureFormatETC2
+Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+Loaded Base TextureFormat: TextureFormatUncompressed
+Oodle Texture TFO init; latest sdk version = 2.9.10
+Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+Oodle Texture loading DLL: oo2tex_win64_2.9.6.dll
+Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+Oodle Texture loading DLL: oo2tex_win64_2.9.9.dll
+Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+Loaded Base TextureFormat: TextureFormatOodle
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxEditor'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxArm64'
+Loaded TargetPlatform 'LinuxArm64Server'
+Loaded TargetPlatform 'LinuxArm64Client'
+Loaded TargetPlatform 'Mac'
+Loaded TargetPlatform 'MacEditor'
+Loaded TargetPlatform 'MacServer'
+Loaded TargetPlatform 'MacClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsEditor'
+Loaded TargetPlatform 'WindowsServer'
+Loaded TargetPlatform 'WindowsClient'
+Building Assets For Windows
+Lib vorbis DLL was dynamically loaded.
+Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+Loaded format module MetalShaderFormat
+  SF_METAL
+  SF_METAL_MRT
+  SF_METAL_TVOS
+  SF_METAL_MRT_TVOS
+  SF_METAL_SM5
+  SF_METAL_SM6
+  SF_METAL_SIM
+  SF_METAL_MACES3_1
+  SF_METAL_MRT_MAC
+Loaded format module ShaderFormatD3D
+  PCD3D_SM6
+  PCD3D_SM5
+  PCD3D_ES31
+Loaded format module ShaderFormatOpenGL
+  GLSL_150_ES31
+  GLSL_ES3_1_ANDROID
+Loaded format module ShaderFormatVectorVM
+  VVM_1_0
+Loaded format module VulkanShaderFormat
+  SF_VULKAN_SM5
+  SF_VULKAN_ES31_ANDROID
+  SF_VULKAN_ES31
+  SF_VULKAN_SM5_ANDROID
+  SF_VULKAN_SM6
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: Chaos
+Using OS detected language (en-GB).
+Using OS detected locale (en-GB).
+No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+Current RHI does not support Variable Rate Shading
+Ray tracing is disabled. Reason: disabled through project setting (r.RayTracing=0).
+Memory: Max Cache Size: -1 MB
+FDerivedDataBackendGraph: Pak pak cache file ../../../../../../Users/riley/Documents/CGD-Game/Prototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchy Hierarchy.
+FDerivedDataBackendGraph: CompressedPak pak cache file ../../../../../../Users/riley/Documents/CGD-Game/Prototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchy Hierarchy.
+../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (2383 MiB)
+FDerivedDataBackendGraph: EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+C:/Users/riley/AppData/Local/UnrealEngine/Common/DerivedDataCache: Speed tests took 0.00 seconds.
+C:/Users/riley/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.03ms. RandomReadSpeed=1802.42MBs, RandomWriteSpeed=249.29MBs. Assigned SpeedClass 'Local'
+Local: Using data cache path C:/Users/riley/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared: Disabled because no path is configured.
+Unable to find inner node Shared for hierarchy Hierarchy.
+Cloud: Disabled because Host is set to 'None'
+Unable to find inner node Cloud for hierarchy Hierarchy.
+Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/riley/Documents/CGD-Game/Prototype/Intermediate/Shaders/WorkingDirectory/22136/).
+Cleaned the shader compiler working directory 'C:/Users/riley/AppData/Local/Temp/UnrealShaderWorkingDir/8F731A614559B323F9E37C9E543AFD60/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Using Local Shader Compiler with 29 workers.
+Compiling shader autogen file: ../../../../../../Users/riley/Documents/CGD-Game/Prototype/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Autogen file is unchanged, skipping write.
+AssetDataGatherer spent 0.000s loading caches ../../../../../../Users/riley/Documents/CGD-Game/Prototype/Intermediate/CachedAssetRegistry_*.bin.
+FAssetRegistry took 0.0018 seconds to start up
+EditorDomain is Disabled
+Deviceprofile LinuxArm64Editor not found.
+Deviceprofile LinuxArm64 not found.
+Available device profiles:
+	[000007B84825BC00][000007B844F6A000 66] GlobalDefaults, 
+	[000007B84825B800][000007B844F65000 66] Windows, 
+	[000007B84825B200][000007B844F62800 66] WindowsEditor, 
+	[000007B84825B000][000007B844F67800 66] WindowsServer, 
+	[000007B84825A800][000007B844F6C800 66] WindowsClient, 
+	[000007B84825A200][000007B8179A5000 66] IOS, 
+	[000007B848259E00][000007B8179AA000 66] iPadAir2, 
+	[000007B84825C000][000007B840DC2800 66] IPadPro, 
+	[000007B84825C200][000007B848DE0000 66] iPadAir3, 
+	[000007B84825C400][000007B848DE2800 66] iPadAir4, 
+	[000007B84825C600][000007B848DE5000 66] iPadAir5, 
+	[000007B84825C800][000007B848DE7800 66] iPadMini4, 
+	[000007B84825CA00][000007B848DEA000 66] iPadMini5, 
+	[000007B84825CC00][000007B848DEC800 66] iPadMini6, 
+	[000007B84825CE00][000007B848DF0000 66] iPhone6S, 
+	[000007B84825D000][000007B848DF2800 66] iPhone7, 
+	[000007B84825D200][000007B848DF5000 66] iPodTouch7, 
+	[000007B84825D400][000007B848DF7800 66] iPhone6SPlus, 
+	[000007B84825D600][000007B848DFA000 66] iPhone7Plus, 
+	[000007B84825D800][000007B848DFC800 66] iPhoneSE, 
+	[000007B84825DA00][000007B848E00000 66] iPhone8, 
+	[000007B84825DC00][000007B848E02800 66] iPhone8Plus, 
+	[000007B84825DE00][000007B848E05000 66] iPhoneX, 
+	[000007B84825E000][000007B848E07800 66] iPhoneXS, 
+	[000007B84825E200][000007B848E0A000 66] iPhoneXSMax, 
+	[000007B84825E400][000007B848E0C800 66] iPhoneXR, 
+	[000007B84825E600][000007B848E10000 66] iPhone11, 
+	[000007B84825E800][000007B848E12800 66] iPhone11Pro, 
+	[000007B84825EA00][000007B848E15000 66] iPhone11ProMax, 
+	[000007B84825EC00][000007B848E17800 66] iPhoneSE2, 
+	[000007B84825EE00][000007B848E1A000 66] iPhone12Mini, 
+	[000007B84825F000][000007B848E1C800 66] iPhone12, 
+	[000007B84825F200][000007B848E20000 66] iPhone12Pro, 
+	[000007B84825F400][000007B848E22800 66] iPhone12ProMax, 
+	[000007B84825F600][000007B848E25000 66] iPhone13Mini, 
+	[000007B84825F800][000007B848E27800 66] iPhone13, 
+	[000007B84825FA00][000007B848E2A000 66] iPhone13Pro, 
+	[000007B84825FC00][000007B848E2C800 66] iPhone13ProMax, 
+	[000007B84825FE00][000007B849710000 66] iPhoneSE3, 
+	[000007B84833E600][000007B849712800 66] iPhone14, 
+	[000007B817945400][000007B849715000 66] iPhone14Plus, 
+	[000007B849720000][000007B849717800 66] iPhone14Pro, 
+	[000007B849720200][000007B84971A000 66] iPhone14ProMax, 
+	[000007B849720400][000007B84971C800 66] iPhone15, 
+	[000007B849720600][000007B849730000 66] iPhone15Plus, 
+	[000007B849720800][000007B849732800 66] iPhone15Pro, 
+	[000007B849720A00][000007B849735000 66] iPhone15ProMax, 
+	[000007B849720C00][000007B849737800 66] iPadPro105, 
+	[000007B849720E00][000007B84973A000 66] iPadPro129, 
+	[000007B849721000][000007B84973C800 66] iPadPro97, 
+	[000007B849721200][000007B849740000 66] iPadPro2_129, 
+	[000007B849721400][000007B849742800 66] iPad5, 
+	[000007B849721600][000007B849745000 66] iPad6, 
+	[000007B849721800][000007B849747800 66] iPad7, 
+	[000007B849721A00][000007B84974A000 66] iPad8, 
+	[000007B849721C00][000007B84974C800 66] iPad9, 
+	[000007B849721E00][000007B849750000 66] iPad10, 
+	[000007B849722000][000007B849752800 66] iPadPro11, 
+	[000007B849722200][000007B849755000 66] iPadPro2_11, 
+	[000007B849722400][000007B849757800 66] iPadPro3_11, 
+	[000007B849722600][000007B84975A000 66] iPadPro4_11, 
+	[000007B849722800][000007B84975C800 66] iPadPro3_129, 
+	[000007B849722A00][000007B849760000 66] iPadPro4_129, 
+	[000007B849722C00][000007B849762800 66] iPadPro5_129, 
+	[000007B849722E00][000007B849765000 66] iPadPro6_129, 
+	[000007B849723000][000007B849767800 66] AppleTV, 
+	[000007B849723200][000007B84976A000 66] AppleTV4K, 
+	[000007B849723400][000007B84976C800 66] AppleTV2_4K, 
+	[000007B849723600][000007B849770000 66] TVOS, 
+	[000007B849723800][000007B849772800 66] Mac, 
+	[000007B849723A00][000007B849775000 66] MacEditor, 
+	[000007B849723C00][000007B849777800 66] MacClient, 
+	[000007B849723E00][000007B84977A000 66] MacServer, 
+	[000007B849724000][000007B84977C800 66] Linux, 
+	[000007B849724200][000007B849780000 66] LinuxEditor, 
+	[000007B849724400][000007B849782800 66] LinuxArm64Editor, 
+	[000007B849724600][000007B849785000 66] LinuxArm64, 
+	[000007B849724800][000007B849787800 66] LinuxClient, 
+	[000007B849724A00][000007B84978A000 66] LinuxArm64Client, 
+	[000007B849724C00][000007B84978C800 66] LinuxServer, 
+	[000007B849724E00][000007B849790000 66] LinuxArm64Server, 
+	[000007B849725000][000007B849792800 66] Android, 
+	[000007B849725200][000007B849795000 66] Android_Preview_OpenGL, 
+	[000007B849725400][000007B849797800 66] Android_Preview_Vulkan, 
+	[000007B849725600][000007B84979A000 66] Android_Low, 
+	[000007B849725800][000007B84979C800 66] Android_Mid, 
+	[000007B849725A00][000007B8497A0000 66] Android_High, 
+	[000007B849725C00][000007B8497A2800 66] Android_Default, 
+	[000007B849725E00][000007B8497A5000 66] Android_Adreno4xx, 
+	[000007B849726000][000007B8497A7800 66] Android_Adreno5xx_Low, 
+	[000007B849726200][000007B8497AA000 66] Android_Adreno5xx, 
+	[000007B849726400][000007B8497AC800 66] Android_Adreno6xx, 
+	[000007B849726600][000007B8497B0000 66] Android_Adreno6xx_Vulkan, 
+	[000007B849726800][000007B8497B2800 66] Android_Adreno7xx, 
+	[000007B849726A00][000007B8497B5000 66] Android_Adreno7xx_Vulkan, 
+	[000007B849726C00][000007B8497B7800 66] Android_Mali_T6xx, 
+	[000007B849726E00][000007B8497BA000 66] Android_Mali_T7xx, 
+	[000007B849727000][000007B8497BC800 66] Android_Mali_T8xx, 
+	[000007B849727200][000007B8497C0000 66] Android_Mali_G71, 
+	[000007B849727400][000007B8497C2800 66] Android_Mali_G72, 
+	[000007B849727600][000007B8497C5000 66] Android_Mali_G72_Vulkan, 
+	[000007B849727800][000007B8497C7800 66] Android_Mali_G76, 
+	[000007B849727A00][000007B8497CA000 66] Android_Mali_G76_Vulkan, 
+	[000007B849727C00][000007B8497CC800 66] Android_Mali_G77, 
+	[000007B849727E00][000007B8497D0000 66] Android_Mali_G77_Vulkan, 
+	[000007B849728000][000007B8497D2800 66] Android_Mali_G78, 
+	[000007B849728200][000007B8497D5000 66] Android_Mali_G78_Vulkan, 
+	[000007B849728400][000007B8497D7800 66] Android_Mali_G710, 
+	[000007B849728600][000007B8497DA000 66] Android_Mali_G710_Vulkan, 
+	[000007B849728A00][000007B8497DC800 66] Android_Mali_G7xx, 
+	[000007B849728C00][000007B8497E0000 66] Android_Mali_G7xx_Vulkan, 
+	[000007B849728E00][000007B8497E2800 66] Android_Xclipse_920, 
+	[000007B849729000][000007B8497E5000 66] Android_Xclipse_920_Vulkan, 
+	[000007B849729400][000007B8497E7800 66] Android_Vulkan_SM5, 
+	[000007B849729600][000007B8497EA000 66] Android_PowerVR_G6xxx, 
+	[000007B849729800][000007B8497EC800 66] Android_PowerVR_GT7xxx, 
+	[000007B849729A00][000007B8497F0000 66] Android_PowerVR_GE8xxx, 
+	[000007B849729C00][000007B8497F2800 66] Android_PowerVR_GM9xxx, 
+	[000007B849729E00][000007B8497F5000 66] Android_PowerVR_GM9xxx_Vulkan, 
+	[000007B84972A000][000007B8497F7800 66] Android_TegraK1, 
+	[000007B84972A200][000007B8497FA000 66] Android_Unknown_Vulkan, 
+	[000007B84972A400][000007B8497FC800 66] Oculus_Quest, 
+	[000007B84972A600][000007B8478E0000 66] Oculus_Quest2, 
+	[000007B84972A800][000007B8478E2800 66] Meta_Quest_Pro, 
+	[000007B84972AA00][000007B8478E5000 66] Meta_Quest_3, 
+	[000007B84972AC00][000007B8478E7800 66] HoloLens, 
+	[000007B84972AE00][000007B8478EA000 66] MagicLeap_Vulkan, 
+Active device profile: [000007B84825B200][000007B844F62800 66] WindowsEditor
+Metadata set : deviceprofile="WindowsEditor"
+Compiling shader autogen file: ../../../../../../Users/riley/Documents/CGD-Game/Prototype/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+Autogen file is unchanged, skipping write.
+Texture Encode Speed: Final (cook).
+Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+Shared linear texture encoding: Disabled
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SkeletalMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+VirtualizationSystem name found in ini file: None
+FNullVirtualizationSystem mounted, virtualization will be disabled
+Border
+BreadcrumbButton
+Brushes.Title
+Default
+Icons.Save
+Icons.Toolbar.Settings
+ListView
+SoftwareCursor_CardinalCross
+SoftwareCursor_Grab
+TableView.DarkRow
+TableView.Row
+TreeView
+FWorldPartitionClassDescRegistry::Initialize started...
+FWorldPartitionClassDescRegistry::Initialize took 1 ms
+Registering Engine Module Parameter Interfaces...
+MetaSound Engine Initialized
+Using Python 3.9.7
+Niagara Debugger Client Initialized | Session: 4F9CDC3A46718A4216C1A992D3ECBB9B | Instance: 03000F5E4DEE36A33DD0E98679C8C476 (RILEYSHELIOS-22136).
+FFMODStudioModule startup
+Lib path = 'C:/Users/riley/Documents/CGD-Game/Prototype/Plugins/FMODStudio/Binaries'
+Running in nosound mode
+FFMODStudioModule::LoadDll: Loading C:/Users/riley/Documents/CGD-Game/Prototype/Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+FFMODStudioModule::LoadDll: Loading C:/Users/riley/Documents/CGD-Game/Prototype/Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+Loaded bank lookup
+Loaded asset lookup
+UAndroidPermissionCallbackProxy::GetInstance
+No Audio Capture implementations found. Audio input will be silent.
+No Audio Capture implementations found. Audio input will be silent.
+OIDN starting up
+Revision control is disabled
+Found projects:
+Revision control is disabled
+Unable to create Visual Studio setup instance: 80040154
+Unable to create Visual Studio setup instance: 80040154
+Unable to create Visual Studio setup instance: 80040154
+Loaded 0 collections in 0.001256 seconds
+Scanning file cache for directory 'C:/Users/riley/Documents/CGD-Game/Prototype/Saved/Collections/' took 0.00s
+Scanning file cache for directory 'C:/Users/riley/Documents/CGD-Game/Prototype/Content/Developers/riley/Collections/' took 0.00s
+Scanning file cache for directory 'C:/Users/riley/Documents/CGD-Game/Prototype/Content/Collections/' took 0.00s
+
+
+Script Stack (0 frames) :
+
+appError called: Assertion failed: CurrentApplication.IsValid() [File:D:\build\++UE5\Sync\LocalInstall\Engine\Source\Runtime\Slate\Public\Framework\Application\SlateApplication.h] [Line: 255] 
+
+
+Windows GetLastError: The operation completed successfully. (0)
