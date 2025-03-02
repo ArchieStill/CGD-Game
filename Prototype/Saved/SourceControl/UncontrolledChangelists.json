@@ -39,7 +39,16 @@
 				"D:/CGD-Game/Prototype/Content/Models/LowPoly_Environment_Pack/Boulder.uasset",
 				"D:/CGD-Game/Prototype/Content/Blueprints/BoulderChase/BP_ChaseBoulder.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/AlphaEnding/BoulderChaseSlope/E/YN/J1J0B2UJTK7AT0XQCSMV76.uasset",
-				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/BoulderChaseFlat.umap"
+				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/BoulderChaseFlat.umap",
+				"D:/CGD-Game/Prototype/Content/Blueprints/BoulderChase/BP_ChaseHurdle.uasset",
+				"D:/CGD-Game/Prototype/Content/Materials/ClayMaterials/M_ClayDark.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_FalseHammerHitWhenPlayerHit.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/BoulderChase/BP_ZoomOutCam.uasset",
+				"D:/CGD-Game/Prototype/Content/Audio/BP_MusicTrigger.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/_GENERATED/a2still/Box_13295C26.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/_GENERATED/a2still/Box_93B6352E.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/_GENERATED/a2still/Box_E2B91CE4.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/_GENERATED/a2still/Box_FAC5CF76.uasset"
 			]
 		}
 	]
