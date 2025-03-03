@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/WBP/WP_PauseMenu.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/WBP/WP_MainMenu.uasset",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Levels/MainMenu.umap",
+				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_ActivateStatue.uasset",
 				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_Breakable.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/B/MT/ZZTLNIFU4UP3J195OSIY7A.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/B/YG/Z02Z7RN5BHGQL58H944OWV.uasset",
