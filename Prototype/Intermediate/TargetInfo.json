@@ -1,0 +1,24 @@
+{
+	"Targets": [
+		{
+			"Name": "Prototype",
+			"Path": "Source\\Prototype.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PrototypeClient",
+			"Path": "Source\\PrototypeClient.Target.cs",
+			"Type": "Client"
+		},
+		{
+			"Name": "PrototypeEditor",
+			"Path": "Source\\PrototypeEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "PrototypeServer",
+			"Path": "Source\\PrototypeServer.Target.cs",
+			"Type": "Server"
+		}
+	]
+}
