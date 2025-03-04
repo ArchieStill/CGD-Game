@@ -5,7 +5,7 @@
 			<value>HammerStatue</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{d568d2d1-17da-410b-a3a7-1caaaa7bf7ed}</destination>
@@ -72,6 +72,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{717163ac-3b4d-4e2e-8983-57ae8e7c48c4}">
+		<property name="volume">
+			<value>3.5</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{48de256f-c968-4c5c-8b4f-8f9b77315535}</destination>
 		</relationship>
@@ -127,6 +130,7 @@
 			<destination>{02d2ea7c-8e2f-43a4-b367-3bf43794cb51}</destination>
 			<destination>{7927d05e-697b-49ac-a191-e8dea2550ecf}</destination>
 			<destination>{647f4de6-8c50-4c04-b76f-49fe3a89ff34}</destination>
+			<destination>{0c1e892f-e541-4aad-9d6d-6a7384541b77}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{21a76afd-76d6-43c5-8bd5-26c786b01b36}" />
@@ -186,6 +190,17 @@
 	<object class="DistortionEffect" id="{647f4de6-8c50-4c04-b76f-49fe3a89ff34}">
 		<property name="level">
 			<value>0.329999983</value>
+		</property>
+	</object>
+	<object class="SpatialiserEffect" id="{0c1e892f-e541-4aad-9d6d-6a7384541b77}">
+		<property name="minimumDistance">
+			<value>5.20000029</value>
+		</property>
+		<property name="maximumDistance">
+			<value>30</value>
+		</property>
+		<property name="overrideRange">
+			<value>true</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{99f45204-52ba-4bf9-b6b9-a08d9bbb6705}">
