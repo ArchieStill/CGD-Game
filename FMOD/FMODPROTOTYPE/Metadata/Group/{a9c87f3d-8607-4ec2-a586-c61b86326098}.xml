@@ -18,6 +18,7 @@
 		<relationship name="effects">
 			<destination>{5b676474-a148-4b96-81d9-0527baee7f7f}</destination>
 			<destination>{3744a39a-4b40-4628-a088-caef382eda8f}</destination>
+			<destination>{8311bb61-4d12-4601-a9ef-d587d184da34}</destination>
 			<destination>{6ae0da83-dca8-49fd-a1ba-c01bac9f69d2}</destination>
 		</relationship>
 	</object>
@@ -32,17 +33,29 @@
 		</property>
 		<relationship name="sidechains">
 			<destination>{93c9b9ae-c1f1-4c49-ad7b-e5bbb4ccd577}</destination>
+			<destination>{576ab8cd-bd6d-4fe4-a4e7-ce93b3dfa3b6}</destination>
 		</relationship>
 	</object>
-	<object class="CompressorEffect" id="{6ae0da83-dca8-49fd-a1ba-c01bac9f69d2}">
+	<object class="CompressorEffect" id="{8311bb61-4d12-4601-a9ef-d587d184da34}">
 		<property name="threshold">
-			<value>-37.5</value>
+			<value>-60</value>
 		</property>
 		<property name="releaseTime">
 			<value>400</value>
 		</property>
 		<relationship name="sidechains">
-			<destination>{932cf83c-502e-43d9-b692-7e735bb5d63c}</destination>
+			<destination>{0860ce97-2781-43a7-8a3a-ea229a27413d}</destination>
+		</relationship>
+	</object>
+	<object class="CompressorEffect" id="{6ae0da83-dca8-49fd-a1ba-c01bac9f69d2}">
+		<property name="threshold">
+			<value>-38.5</value>
+		</property>
+		<property name="releaseTime">
+			<value>400</value>
+		</property>
+		<relationship name="sidechains">
+			<destination>{17f7c568-e0c0-4ff2-bd8a-a8f548fd6ca2}</destination>
 		</relationship>
 	</object>
 </objects>

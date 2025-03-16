@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{58a9580d-a7b7-41dd-85f7-0eec36c13fcc}">
+		<property name="assetPath">
+			<value>Traps/556991__ycbcr__tabletop-clock-ticking-speed-ramp-down-followup.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>60.02969791666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c052e8fe-babb-4ee0-af0c-b290ac72251c}</destination>
+		</relationship>
+	</object>
+</objects>
