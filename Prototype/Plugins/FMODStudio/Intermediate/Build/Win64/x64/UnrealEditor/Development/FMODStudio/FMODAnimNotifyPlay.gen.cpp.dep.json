@@ -1,0 +1,38 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodanimnotifyplay.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "d:\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\generatedcppincludes.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\metadata.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\textproperty.h",
+            "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodanimnotifyplay.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\animation\\animnotifies\\animnotify.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\public\\animation\\animnotifyqueue.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\public\\animation\\animtypes.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\core\\public\\misc\\memstack.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\core\\public\\containers\\lockfreefixedsizeallocator.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\animation\\animlinkableelement.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animlinkableelement.generated.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\animation\\animenums.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animenums.generated.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintfunctionlibrary.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\blueprintfunctionlibrary.generated.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\core\\public\\uobject\\ue5releasestreamobjectversion.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\core\\public\\uobject\\devobjectversion.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animtypes.generated.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\public\\animation\\animnodemessages.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animnotifyqueue.generated.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animnotify.generated.h",
+            "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodevent.h",
+            "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
+            "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodasset.generated.h",
+            "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodevent.generated.h",
+            "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodanimnotifyplay.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

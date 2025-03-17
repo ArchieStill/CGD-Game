@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Prototype.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\CGD-Game\Prototype\Intermediate\Build\Win64\x64\PrototypeEditor\Development\Core\SharedPCH.Core.Cpp17.h.obj"
+"D:\CGD-Game\Prototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\Prototype\Module.Prototype.cpp.obj"
+"D:\CGD-Game\Prototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\Prototype\Default.rc2.res"
+/OUT:"D:\CGD-Game\Prototype\Intermediate\Build\Win64\x64\UnrealEditor\Development\Prototype\UnrealEditor-Prototype.lib"

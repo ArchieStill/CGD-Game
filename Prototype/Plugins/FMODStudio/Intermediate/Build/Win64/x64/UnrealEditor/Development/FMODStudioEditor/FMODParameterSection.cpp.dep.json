@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\source\\fmodstudioeditor\\private\\sequencer\\fmodparametersection.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudioeditor\\pch.fmodstudioeditor.h.pch",
+        "Includes": [
+            "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\source\\fmodstudioeditor\\private\\sequencer\\fmodparametersection.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\moviescenetracks\\public\\sections\\moviesceneparametersection.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\moviescenetracks\\uht\\moviesceneparametersection.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FMODStudioNiagara.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\CGD-Game\Prototype\Intermediate\Build\Win64\x64\PrototypeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.h.obj"
+"D:\CGD-Game\Prototype\Plugins\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\Module.FMODStudioNiagara.cpp.obj"
+"D:\CGD-Game\Prototype\Plugins\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\Default.rc2.res"
+/OUT:"D:\CGD-Game\Prototype\Plugins\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\UnrealEditor-FMODStudioNiagara.lib"
