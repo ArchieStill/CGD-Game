@@ -53,7 +53,7 @@
 			<destination>{531d66e8-1c84-483c-9022-751dccdfa7bd}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{f42d2a21-ff7b-4b7c-8cc6-0fb0ca4c79c2}</destination>
+			<destination>{426c5793-c962-47c8-8994-b8e5215e40e4}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{a4afffa0-3be7-430d-8e19-75828f0ad4c8}" />
@@ -133,6 +133,7 @@
 			<destination>{806726ec-26a2-4edc-8708-910bae2a623c}</destination>
 			<destination>{b69512c5-f1ae-4521-82e1-2c57b0b8a707}</destination>
 			<destination>{b525164e-5574-49e2-a8a8-c57456ba505a}</destination>
+			<destination>{f798ebdb-9ed0-410c-a956-e0497a5dd5d2}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{ea047007-fd12-40f8-a867-27c45d8e00ae}" />
@@ -188,6 +189,7 @@
 			<value>-9</value>
 		</property>
 	</object>
+	<object class="Sidechain" id="{f798ebdb-9ed0-410c-a956-e0497a5dd5d2}" />
 	<object class="AutomationPoint" id="{32b68840-ddba-4c5b-beae-8e19f39f7474}">
 		<property name="position">
 			<value>0</value>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{92f7b244-e584-44e1-a990-0660d6725005}">
+		<property name="name">
+			<value>Explosion</value>
+		</property>
+		<relationship name="folder">
+			<destination>{25e1f1bf-f15c-410a-86ec-924af1897ed6}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{584adc4f-0053-4a30-bc50-113090c2864e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{584adc4f-0053-4a30-bc50-113090c2864e}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>NotExploding</value>
+			<value>Exploding</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

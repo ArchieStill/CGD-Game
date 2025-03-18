@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{b2a22b97-c0cf-4ef0-8d26-25964233b96a}">
+		<property name="name">
+			<value>Boulder</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{b6d4ef51-2248-44bc-b532-9007c70d1b20}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{bf3200c9-7eb1-42d3-a608-e8eb9411de3a}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{0f32bcbd-e318-491e-9640-56d924f9dcd7}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{b6d4ef51-2248-44bc-b532-9007c70d1b20}">
+		<relationship name="effects">
+			<destination>{0e055d47-be81-4998-b9f8-8de1eed79fd4}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{bf3200c9-7eb1-42d3-a608-e8eb9411de3a}" />
+	<object class="MixerBusFader" id="{0e055d47-be81-4998-b9f8-8de1eed79fd4}" />
+</objects>

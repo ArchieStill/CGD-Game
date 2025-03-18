@@ -79,6 +79,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{dffb05d1-989f-4282-8cd7-2f44cfa5a215}">
+		<property name="volume">
+			<value>2.5</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{3a43e78c-adab-48b2-982a-ff96825d30be}</destination>
 		</relationship>
@@ -117,6 +120,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{3cf7611d-16d0-4ff9-a481-316c33135a1e}">
+		<property name="volume">
+			<value>4.5</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -182,7 +188,7 @@
 	<object class="MixerBusFader" id="{d19d65da-316a-4750-a76e-f2f968bddc34}" />
 	<object class="DistortionEffect" id="{716491c4-b607-4e2c-93b6-69a2a1f8cb11}">
 		<property name="level">
-			<value>0.560000002</value>
+			<value>0.604999959</value>
 		</property>
 	</object>
 	<object class="ThreeEQEffect" id="{10d7b5ae-d4d2-4011-890c-359fc59fed22}">
@@ -211,11 +217,14 @@
 		</relationship>
 	</object>
 	<object class="SpatialiserEffect" id="{f33d7b47-ace3-478b-8003-ba47d0c0d9f0}">
+		<property name="bypass">
+			<value>true</value>
+		</property>
 		<property name="minimumDistance">
-			<value>65</value>
+			<value>20</value>
 		</property>
 		<property name="maximumDistance">
-			<value>200</value>
+			<value>90</value>
 		</property>
 		<property name="overrideRange">
 			<value>true</value>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{13660956-c8a3-4efb-9a83-c7350e2b5787}">
+		<property name="name">
+			<value>DuckingBoulder</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{f4547e46-9729-46db-8732-435106ba3cd3}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{d28c8e9a-b3fb-41d7-9409-3262115a5b58}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{b2a22b97-c0cf-4ef0-8d26-25964233b96a}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{f4547e46-9729-46db-8732-435106ba3cd3}">
+		<relationship name="effects">
+			<destination>{df64905c-6bc4-44bd-bdf5-4bc2272a307f}</destination>
+			<destination>{576ab8cd-bd6d-4fe4-a4e7-ce93b3dfa3b6}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{d28c8e9a-b3fb-41d7-9409-3262115a5b58}" />
+	<object class="MixerBusFader" id="{df64905c-6bc4-44bd-bdf5-4bc2272a307f}" />
+	<object class="Sidechain" id="{576ab8cd-bd6d-4fe4-a4e7-ce93b3dfa3b6}" />
+</objects>
