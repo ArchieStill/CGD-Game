@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/5/P2/L3DI93PJV2BLHS7CITKD3M.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/C/GJ/37WQ5GRJLUQAVVKGHMGBGJ.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/C/25/C1P0TJMUDQMEA337MQSHI2.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/4/AZ/UWVQ3O2YG36K0YXIVZ6MKG.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/C/H5/KF74V64BG3N7P7ZNM8B7JG.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/7/K4/AZB43DOV46TSU3CC7LURCK.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/Blueprints/Boss/Shockwave/BP_Shockwave.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/Blueprints/Boss/Shockwave/BP_SequenceBlast.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/NewPuzzlesYay/1/PP/RV0DDF94LRDTFYBCTJQ6FV.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/7/2D/Z8TXR5ZPVW8DNYNJCEYEOZ.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/9/0O/LL94UGWPQ1D7E5MUTI31GI.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/C/25/C1P0TJMUDQMEA337MQSHI2.uasset",
@@ -284,13 +293,7 @@
 				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/E/NV/HG48VIBY2J7SDLMMZ2PJXN.uasset",
 				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/1/YT/IA8TPW89GQ6C9AVE0T4VPY.uasset",
 				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/3/D3/SDGQQG8DAAJGJ3829RTCCZ.uasset",
-				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/3/Y5/2DYAZOZPS6YUHRHYU70Z39.uasset",
-				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/5/P2/L3DI93PJV2BLHS7CITKD3M.uasset",
-				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/C/GJ/37WQ5GRJLUQAVVKGHMGBGJ.uasset",
-				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/C/25/C1P0TJMUDQMEA337MQSHI2.uasset",
-				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/4/AZ/UWVQ3O2YG36K0YXIVZ6MKG.uasset",
-				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/C/H5/KF74V64BG3N7P7ZNM8B7JG.uasset",
-				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/7/K4/AZB43DOV46TSU3CC7LURCK.uasset"
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/3/Y5/2DYAZOZPS6YUHRHYU70Z39.uasset"
 			]
 		}
 	]
