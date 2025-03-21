@@ -1,0 +1,212 @@
+[+] Containers:
+ |- [+] Container: /Game/Levels/BallPuzzle
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:062028CE422A69FB1220CEBAC46C979F BaseClass:/Game/Blueprints/PuzzleObjects/BP_BallButton.BP_BallButton_C NativeClass:/Script/Engine.Actor Name:BP_BallButton_C_UAID_089798BF50FF422C02_1385130582 Label:BP_BallButton SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2550.000 Y=-650.000 Z=-112.500), Max=(X=2650.000 Y=-550.000 Z=-87.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:10D13D4C4C91382160D779B7485B861B BaseClass:/Game/Blueprints/PuzzleObjects/BP_HammerButton.BP_HammerButton_C NativeClass:/Script/Engine.Actor Name:BT_HammerButton_C_UAID_089798BF50FF4A2B02_1952653927 Label:BT_HammerButton SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3620.000 Y=2030.000 Z=-10.000), Max=(X=3720.000 Y=2130.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:14E18B094EC4A3E478D65B8B3DBF5C42 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_644ED76ADAC6F42502_1848459518 Label:Invisible5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9540.000 Y=7570.000 Z=-280.000), Max=(X=11715.000 Y=7620.000 Z=20.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:166ECC614A2F3F9DA80C11A8DF275BA4 BaseClass:/Game/Blueprints/PuzzleObjects/BP_Door.BP_Door_C NativeClass:/Script/Engine.Actor Name:BP_Door_C_UAID_089798BF50FF4C2B02_1797326282 Label:BP_Door2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4510.000 Y=900.000 Z=0.000), Max=(X=4590.000 Y=1100.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:18A75C3341FC6772E79779A93EB183AD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_644ED76ADAC6F42502_1280279514 Label:Invisible3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7650.000 Y=4870.000 Z=-100.000), Max=(X=9650.000 Y=7570.000 Z=-50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:1B1285CF43ECDCF77EF5A39C5E301D0A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638410.000 Y=-1638410.000 Z=-1638400.000), Max=(X=1638390.000 Y=1638390.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:1C1FE7F7464CD08570D468BEFA43D0A8 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:1E6DEB304B5F2D40D3606C8CB06353E6 BaseClass:/Game/Blueprints/PuzzleObjects/BP_LaserReciever.BP_LaserReciever_C NativeClass:/Script/Engine.Actor Name:BP_LaserReciever_C_UAID_089798BF50FF4C2B02_1810840283 Label:BP_LaserReciever SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4484.436 Y=400.115 Z=8.776), Max=(X=4513.546 Y=499.885 Z=103.594) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:27C95D494994CD39FF857A8E3515B6CF BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:2AFAB0A142443DB9AB60A498CB048D4D BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:32ACFEDD4367DADADBB7D7B2F00AFAD0 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:394848754018ECC880DEF4ADD8040A3A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_644ED76ADAC6F42502_1868143519 Label:Invisible4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9690.000 Y=4820.000 Z=-260.000), Max=(X=9740.000 Y=7720.000 Z=40.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:4075806A482BA828930CF78140790A82 BaseClass:/Game/Blueprints/PuzzleObjects/BP_LaserRedirector.BP_LaserRedirector_C NativeClass:/Script/Engine.Actor Name:BP_LaserRedirector_C_UAID_089798BF50FF4C2B02_1880043285 Label:BP_LaserRedirector2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4090.000 Y=370.000 Z=-30.000), Max=(X=4432.000 Y=530.000 Z=130.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:426206E84FCA058C08DDB0BC8128132B BaseClass:/Game/Blueprints/PuzzleObjects/BP_Ball.BP_Ball_C NativeClass:/Script/Engine.Actor Name:BP_Ball_C_UAID_089798BF50FF3E2C02_1585781871 Label:BP_Ball SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4300.000 Y=-660.000 Z=290.000), Max=(X=4400.000 Y=-560.000 Z=390.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4791409245C4829D4AF0B8BBE7AB57CB BaseClass:/Game/Blueprints/PuzzleObjects/BP_ActivateCircleCam.BP_ActivateCircleCam_C NativeClass:/Script/Engine.Actor Name:BP_ActivateCircleCam_C_UAID_089798BF50FF545702_1942974153 Label:BP_ActivateCircleCam SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1351.000 Y=3509.000 Z=1197.000), Max=(X=1619.000 Y=3777.000 Z=1465.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:522DBF8041EF9D23E4800E80C0F1BB92 BaseClass:/Game/Blueprints/PuzzleObjects/BP_Bumper.BP_Bumper_C NativeClass:/Script/Engine.Actor Name:BP_Bumper_C_UAID_089798BF50FF412C02_1121637402 Label:BP_Bumper SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3080.000 Y=-800.000 Z=-398.359), Max=(X=3280.000 Y=-400.000 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:524822B64E54C9E07DB727B91C83FEE0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_644ED76ADAC6F42502_1530119517 Label:Invisible6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9430.000 Y=7560.000 Z=-100.000), Max=(X=12130.000 Y=9560.000 Z=-50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:5A41085445686C7BBB27009524A2F0A3 BaseClass:/Game/Blueprints/PuzzleObjects/BP_LaserSpawner.BP_LaserSpawner_C NativeClass:/Script/Engine.Actor Name:BP_LaserSpawner_C_UAID_089798BF50FF4C2B02_1891435286 Label:BP_LaserSpawner SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3715.373 Y=22.546 Z=-30.000), Max=(X=4142.000 Y=213.674 Z=146.824) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7465899C43AEA6194F86079BDD641F98 BaseClass:/Game/Blueprints/PuzzleObjects/BP_HammerButton.BP_HammerButton_C NativeClass:/Script/Engine.Actor Name:BT_HammerButton_C_UAID_089798BF50FF412C02_1202051403 Label:BT_HammerButton2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3080.000 Y=-80.000 Z=-10.000), Max=(X=3180.000 Y=20.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7A512452450B7BF9B28893A3ABCF960F BaseClass:/Game/Blueprints/PuzzleObjects/BP_Door.BP_Door_C NativeClass:/Script/Engine.Actor Name:BP_Door_C_UAID_089798BF50FF422C02_1420266583 Label:BP_Door3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4510.000 Y=-100.000 Z=0.000), Max=(X=4590.000 Y=100.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7AB88F274224F3C8F1A4C8B633BE59E9 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_089798BF50FFBE2402-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:97560AD044BE1989894D33A3BE66769F BaseClass:/Game/Blueprints/PuzzleObjects/BP_HammerButton.BP_HammerButton_C NativeClass:/Script/Engine.Actor Name:BT_HammerButton_C_UAID_089798BF50FF412C02_1974269405 Label:BT_HammerButton3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3450.000 Y=-80.000 Z=-10.000), Max=(X=3550.000 Y=20.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:98FE636D452B337E79ABB6BD3B06BD6A BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:A198191F4888A7B490348E95D3AED9A5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_644ED76ADAC6F42502_1518024516 Label:Invisible SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9420.000 Y=4820.000 Z=-50.000), Max=(X=12120.000 Y=4870.000 Z=1950.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:A23D455D46A4BF8B32C6B490DE3F54D0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_644ED76ADAC6F42502_1506885515 Label:Invisible2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11750.000 Y=4880.000 Z=-50.000), Max=(X=11800.000 Y=7580.000 Z=1950.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:B38516514E420EFE6C6C1397978AC41C BaseClass:/Game/Blueprints/PuzzleObjects/BP_LaserRedirector.BP_LaserRedirector_C NativeClass:/Script/Engine.Actor Name:BP_LaserRedirector_C_UAID_089798BF50FF4C2B02_1860213284 Label:BP_LaserRedirector SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4090.000 Y=30.000 Z=-30.000), Max=(X=4432.000 Y=190.000 Z=130.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C3DC983C4D2D023D37E60C8ECD953B2A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2C58B90D0505782202_1133291519 Label:SM_Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2310.000 Y=-300.000 Z=-50.000), Max=(X=4760.000 Y=3125.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:CA849F0B4434BB6AC869D0B2BC6D3919 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:CBF57C3B4AABD46F10795E85C568E215 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:DB975C3E411F7D6D0530009CF6912D77 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_089798BF50FF4B2B02_1819356105 Label:CubeGridToolOutput SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2200.000 Y=-900.000 Z=-200.000), Max=(X=5500.000 Y=3100.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DDD38EC14D90E8FB1A5E4FACB66BA52A BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1498.000 Y=3582.000 Z=1569.000), Max=(X=1578.000 Y=3662.000 Z=1753.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E87856D546977ABE755FBFB95AFBE068 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_089798BF50FF535702_1772746976 Label:Cylinder SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-96.938 Y=2119.062 Z=1231.000), Max=(X=3524.938 Y=5740.938 Z=1331.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:ECBC61DD4C3B20D7C820CCBA0C16308B BaseClass:/Game/Blueprints/PuzzleObjects/BP_BouncePad.BP_BouncePad_C NativeClass:/Script/Engine.Actor Name:BP_BouncePad_C_UAID_089798BF50FF3F2C02_1899139048 Label:BP_BouncePad SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3652.872 Y=-920.000 Z=-160.000), Max=(X=4687.128 Y=-280.000 Z=991.384) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EFA08E7B4B1EC07F1F43DF849E097B8C BaseClass:/Game/Blueprints/PuzzleObjects/BP_Bumper.BP_Bumper_C NativeClass:/Script/Engine.Actor Name:BP_Bumper_C_UAID_089798BF50FF412C02_1962023404 Label:BP_Bumper2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3620.000 Y=-800.000 Z=-398.359), Max=(X=3820.000 Y=-400.000 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:062028CE422A69FB1220CEBAC46C979F BaseClass:/Game/Blueprints/PuzzleObjects/BP_BallButton.BP_BallButton_C NativeClass:/Script/Engine.Actor Name:BP_BallButton_C_UAID_089798BF50FF422C02_1385130582 Label:BP_BallButton SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2550.000 Y=-650.000 Z=-112.500), Max=(X=2650.000 Y=-550.000 Z=-87.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:7A512452450B7BF9B28893A3ABCF960F BaseClass:/Game/Blueprints/PuzzleObjects/BP_Door.BP_Door_C NativeClass:/Script/Engine.Actor Name:BP_Door_C_UAID_089798BF50FF422C02_1420266583 Label:BP_Door3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4510.000 Y=-100.000 Z=0.000), Max=(X=4590.000 Y=100.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:10D13D4C4C91382160D779B7485B861B BaseClass:/Game/Blueprints/PuzzleObjects/BP_HammerButton.BP_HammerButton_C NativeClass:/Script/Engine.Actor Name:BT_HammerButton_C_UAID_089798BF50FF4A2B02_1952653927 Label:BT_HammerButton SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3620.000 Y=2030.000 Z=-10.000), Max=(X=3720.000 Y=2130.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:14E18B094EC4A3E478D65B8B3DBF5C42 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_644ED76ADAC6F42502_1848459518 Label:Invisible5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9540.000 Y=7570.000 Z=-280.000), Max=(X=11715.000 Y=7620.000 Z=20.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:166ECC614A2F3F9DA80C11A8DF275BA4 BaseClass:/Game/Blueprints/PuzzleObjects/BP_Door.BP_Door_C NativeClass:/Script/Engine.Actor Name:BP_Door_C_UAID_089798BF50FF4C2B02_1797326282 Label:BP_Door2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4510.000 Y=900.000 Z=0.000), Max=(X=4590.000 Y=1100.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:1E6DEB304B5F2D40D3606C8CB06353E6 BaseClass:/Game/Blueprints/PuzzleObjects/BP_LaserReciever.BP_LaserReciever_C NativeClass:/Script/Engine.Actor Name:BP_LaserReciever_C_UAID_089798BF50FF4C2B02_1810840283 Label:BP_LaserReciever SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4484.436 Y=400.115 Z=8.776), Max=(X=4513.546 Y=499.885 Z=103.594) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:18A75C3341FC6772E79779A93EB183AD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_644ED76ADAC6F42502_1280279514 Label:Invisible3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=7650.000 Y=4870.000 Z=-100.000), Max=(X=9650.000 Y=7570.000 Z=-50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:1B1285CF43ECDCF77EF5A39C5E301D0A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638410.000 Y=-1638410.000 Z=-1638400.000), Max=(X=1638390.000 Y=1638390.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:1C1FE7F7464CD08570D468BEFA43D0A8 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:27C95D494994CD39FF857A8E3515B6CF BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:2AFAB0A142443DB9AB60A498CB048D4D BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:32ACFEDD4367DADADBB7D7B2F00AFAD0 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:394848754018ECC880DEF4ADD8040A3A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_644ED76ADAC6F42502_1868143519 Label:Invisible4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9690.000 Y=4820.000 Z=-260.000), Max=(X=9740.000 Y=7720.000 Z=40.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:4075806A482BA828930CF78140790A82 BaseClass:/Game/Blueprints/PuzzleObjects/BP_LaserRedirector.BP_LaserRedirector_C NativeClass:/Script/Engine.Actor Name:BP_LaserRedirector_C_UAID_089798BF50FF4C2B02_1880043285 Label:BP_LaserRedirector2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4090.000 Y=370.000 Z=-30.000), Max=(X=4432.000 Y=530.000 Z=130.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:426206E84FCA058C08DDB0BC8128132B BaseClass:/Game/Blueprints/PuzzleObjects/BP_Ball.BP_Ball_C NativeClass:/Script/Engine.Actor Name:BP_Ball_C_UAID_089798BF50FF3E2C02_1585781871 Label:BP_Ball SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4300.000 Y=-660.000 Z=290.000), Max=(X=4400.000 Y=-560.000 Z=390.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:4791409245C4829D4AF0B8BBE7AB57CB BaseClass:/Game/Blueprints/PuzzleObjects/BP_ActivateCircleCam.BP_ActivateCircleCam_C NativeClass:/Script/Engine.Actor Name:BP_ActivateCircleCam_C_UAID_089798BF50FF545702_1942974153 Label:BP_ActivateCircleCam SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1351.000 Y=3509.000 Z=1197.000), Max=(X=1619.000 Y=3777.000 Z=1465.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:E87856D546977ABE755FBFB95AFBE068 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_089798BF50FF535702_1772746976 Label:Cylinder SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-96.938 Y=2119.062 Z=1231.000), Max=(X=3524.938 Y=5740.938 Z=1331.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:522DBF8041EF9D23E4800E80C0F1BB92 BaseClass:/Game/Blueprints/PuzzleObjects/BP_Bumper.BP_Bumper_C NativeClass:/Script/Engine.Actor Name:BP_Bumper_C_UAID_089798BF50FF412C02_1121637402 Label:BP_Bumper SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3080.000 Y=-800.000 Z=-398.359), Max=(X=3280.000 Y=-400.000 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:524822B64E54C9E07DB727B91C83FEE0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_644ED76ADAC6F42502_1530119517 Label:Invisible6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9430.000 Y=7560.000 Z=-100.000), Max=(X=12130.000 Y=9560.000 Z=-50.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:5A41085445686C7BBB27009524A2F0A3 BaseClass:/Game/Blueprints/PuzzleObjects/BP_LaserSpawner.BP_LaserSpawner_C NativeClass:/Script/Engine.Actor Name:BP_LaserSpawner_C_UAID_089798BF50FF4C2B02_1891435286 Label:BP_LaserSpawner SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3715.373 Y=22.546 Z=-30.000), Max=(X=4142.000 Y=213.674 Z=146.824) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:7465899C43AEA6194F86079BDD641F98 BaseClass:/Game/Blueprints/PuzzleObjects/BP_HammerButton.BP_HammerButton_C NativeClass:/Script/Engine.Actor Name:BT_HammerButton_C_UAID_089798BF50FF412C02_1202051403 Label:BT_HammerButton2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3080.000 Y=-80.000 Z=-10.000), Max=(X=3180.000 Y=20.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:7AB88F274224F3C8F1A4C8B633BE59E9 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_089798BF50FFBE2402-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:97560AD044BE1989894D33A3BE66769F BaseClass:/Game/Blueprints/PuzzleObjects/BP_HammerButton.BP_HammerButton_C NativeClass:/Script/Engine.Actor Name:BT_HammerButton_C_UAID_089798BF50FF412C02_1974269405 Label:BT_HammerButton3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3450.000 Y=-80.000 Z=-10.000), Max=(X=3550.000 Y=20.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:98FE636D452B337E79ABB6BD3B06BD6A BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:A198191F4888A7B490348E95D3AED9A5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_644ED76ADAC6F42502_1518024516 Label:Invisible SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9420.000 Y=4820.000 Z=-50.000), Max=(X=12120.000 Y=4870.000 Z=1950.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:A23D455D46A4BF8B32C6B490DE3F54D0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_644ED76ADAC6F42502_1506885515 Label:Invisible2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=11750.000 Y=4880.000 Z=-50.000), Max=(X=11800.000 Y=7580.000 Z=1950.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:B38516514E420EFE6C6C1397978AC41C BaseClass:/Game/Blueprints/PuzzleObjects/BP_LaserRedirector.BP_LaserRedirector_C NativeClass:/Script/Engine.Actor Name:BP_LaserRedirector_C_UAID_089798BF50FF4C2B02_1860213284 Label:BP_LaserRedirector SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4090.000 Y=30.000 Z=-30.000), Max=(X=4432.000 Y=190.000 Z=130.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:C3DC983C4D2D023D37E60C8ECD953B2A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2C58B90D0505782202_1133291519 Label:SM_Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2310.000 Y=-300.000 Z=-50.000), Max=(X=4760.000 Y=3125.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:CA849F0B4434BB6AC869D0B2BC6D3919 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:CBF57C3B4AABD46F10795E85C568E215 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:DB975C3E411F7D6D0530009CF6912D77 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_089798BF50FF4B2B02_1819356105 Label:CubeGridToolOutput SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2200.000 Y=-900.000 Z=-200.000), Max=(X=5500.000 Y=3100.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:DDD38EC14D90E8FB1A5E4FACB66BA52A BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1498.000 Y=3582.000 Z=1569.000), Max=(X=1578.000 Y=3662.000 Z=1753.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:ECBC61DD4C3B20D7C820CCBA0C16308B BaseClass:/Game/Blueprints/PuzzleObjects/BP_BouncePad.BP_BouncePad_C NativeClass:/Script/Engine.Actor Name:BP_BouncePad_C_UAID_089798BF50FF3F2C02_1899139048 Label:BP_BouncePad SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3652.872 Y=-920.000 Z=-160.000), Max=(X=4687.128 Y=-280.000 Z=991.384) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:EFA08E7B4B1EC07F1F43DF849E097B8C BaseClass:/Game/Blueprints/PuzzleObjects/BP_Bumper.BP_Bumper_C NativeClass:/Script/Engine.Actor Name:BP_Bumper_C_UAID_089798BF50FF412C02_1962023404 Label:BP_Bumper2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3620.000 Y=-800.000 Z=-398.359), Max=(X=3820.000 Y=-400.000 Z=-80.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Levels/BallPuzzle
+----------------------------------------------------------------------------------------------------------------
+BallPuzzle - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of BallPuzzle Persistent Level
+ |- Always loaded Actor Count: 40 
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Levels/BallPuzzle
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BenJosh_C_1
+ |- Actor Package: /Game/Levels/BallPuzzle
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BP_ActivateCircleCam_C_UAID_089798BF50FF545702_1942974153
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/E/Y3/KKFA41XVUBE3RXVLTTQ7S5
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BP_Ball_C_UAID_089798BF50FF3E2C02_1585781871
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/3/35/D6DLP486OF7TSM2EUHV4YO
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BP_BallButton_C_UAID_089798BF50FF422C02_1385130582
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/2/Y1/EZY9SLDGENAQO1FGT0PR0W
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BP_BouncePad_C_UAID_089798BF50FF3F2C02_1899139048
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/1/J2/XUD5LDTR73SAMYRQPBHAEK
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BP_Bumper_C_UAID_089798BF50FF412C02_1121637402
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/E/0F/W4KLAHQKKKODLOUOHKK36K
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BP_Bumper_C_UAID_089798BF50FF412C02_1962023404
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/0/MK/OVNNW95QNEPT8ODSNMJ64M
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BP_Door_C_UAID_089798BF50FF422C02_1420266583
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/1/6S/24J0GDGSKWE67A3O27D3KE
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BP_Door_C_UAID_089798BF50FF4C2B02_1797326282
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/1/SA/WSST2ZTRB45920C1F3UP01
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BP_LaserReciever_C_UAID_089798BF50FF4C2B02_1810840283
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/8/V7/2E5XGG7W45793CF1SJG294
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BP_LaserRedirector_C_UAID_089798BF50FF4C2B02_1860213284
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/4/UU/N77E3BKB1UOZ8LLG2T2KAJ
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BP_LaserRedirector_C_UAID_089798BF50FF4C2B02_1880043285
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/8/T7/2VWC6T5CE27ZNKGR28KSTD
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BP_LaserSpawner_C_UAID_089798BF50FF4C2B02_1891435286
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/4/AA/OZFH0KP446RAVES1VXFU1P
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Levels/BallPuzzle
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BT_HammerButton_C_UAID_089798BF50FF412C02_1202051403
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/4/DX/UNBDHJ5NCGLZ8VURM2H5UH
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BT_HammerButton_C_UAID_089798BF50FF412C02_1974269405
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/B/KN/CX0D6E3YGC299TZNMJCFIM
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.BT_HammerButton_C_UAID_089798BF50FF4A2B02_1952653927
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/1/V8/NXFSCDRZSD84JQTNIYUH6A
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Levels/BallPuzzle
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.DirectionalLight_0
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/4/KN/DKWZ3JMTJNHD3YHOQFN9F3
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/2/NZ/4XE3MNAEMU5JZS336FEHV3
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Levels/BallPuzzle
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/3/YZ/HXJ52CHK9X9COZH2QJBO9W
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/2/RS/N9AJU6EUF4CUILC4200M4N
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/3/4L/JJKW8GXAO2247JPUOO8J1Z
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/A/7N/05NWL16I93CZO9J5RWTAKY
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.StaticMeshActor_UAID_089798BF50FF4B2B02_1819356105
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/8/KE/Z3G7OJGJ5L6Q5F98Y5WNSU
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.StaticMeshActor_UAID_089798BF50FF535702_1772746976
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/2/66/RON8VFJIPEI24K0MJYM850
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.StaticMeshActor_UAID_2C58B90D0505782202_1133291519
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/5/HE/BG4T3M4GR89GC3B5NC630P
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.StaticMeshActor_UAID_644ED76ADAC6F42502_1280279514
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/8/4Y/E9SAWDH3HDWK8RRFACDLWV
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.StaticMeshActor_UAID_644ED76ADAC6F42502_1506885515
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/1/SZ/O2KZVYYTZ6C5OJQ3AD2X1E
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.StaticMeshActor_UAID_644ED76ADAC6F42502_1518024516
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/D/U3/NG3275L3RK7PB7QPCU7JRU
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.StaticMeshActor_UAID_644ED76ADAC6F42502_1530119517
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/B/KZ/ZR9MRZV3YRG7EL53AW21OD
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.StaticMeshActor_UAID_644ED76ADAC6F42502_1848459518
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/1/BK/GW0L5E0N3TW5YT20LW3YR0
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.StaticMeshActor_UAID_644ED76ADAC6F42502_1868143519
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/6/I4/N69RF3574QHMHAPEHLU63B
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/5/YB/47KA4QN57YZRTUMJWHI84W
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/F/0C/ZN034EP4N59RZ0V45FTPR7
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/3/7A/36HEY558RJKXXYCEKSYSJN
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/Levels/BallPuzzle
+ |- Actor Path: /Game/Levels/BallPuzzle.BallPuzzle:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/Levels/BallPuzzle/1/KR/X7QD5AZVBV0BWF8ETU3VTQ
+
+----------------------------------------------------------------------------------------------------------------
+BallPuzzle - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
