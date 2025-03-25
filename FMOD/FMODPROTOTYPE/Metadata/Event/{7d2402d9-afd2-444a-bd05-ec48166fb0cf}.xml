@@ -57,8 +57,8 @@
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{b7131686-85f1-48b5-ba11-de2bec7bc29e}">
-		<property name="maxVoices">
-			<value>1</value>
+		<property name="isPersistent">
+			<value>true</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{adb3c3b1-dd10-4e77-8503-6c017ec6a5cb}" />
@@ -73,9 +73,6 @@
 	<object class="Timeline" id="{3dfac1dd-6d6d-413d-92d9-964556fd65a7}">
 		<relationship name="modules">
 			<destination>{07e64231-6be2-46ae-ba28-5d98cac894fb}</destination>
-		</relationship>
-		<relationship name="markers">
-			<destination>{36e444af-1f44-45a4-a8ef-58f9f0ddc83e}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{7c6956ca-a0f9-4c8d-b43a-ca13ad926af3}">
@@ -97,7 +94,7 @@
 	<object class="MixerBusPanner" id="{d404cd9f-f59b-455f-a9d3-e346c65203a7}" />
 	<object class="SingleSound" id="{07e64231-6be2-46ae-ba28-5d98cac894fb}">
 		<property name="length">
-			<value>6.4399999999999995</value>
+			<value>2.5</value>
 		</property>
 		<property name="timelockedOffset">
 			<value>1</value>
@@ -124,20 +121,6 @@
 		</relationship>
 		<relationship name="output">
 			<destination>{7c6956ca-a0f9-4c8d-b43a-ca13ad926af3}</destination>
-		</relationship>
-	</object>
-	<object class="LoopRegion" id="{36e444af-1f44-45a4-a8ef-58f9f0ddc83e}">
-		<property name="position">
-			<value>0</value>
-		</property>
-		<property name="length">
-			<value>6.4399999999999995</value>
-		</property>
-		<relationship name="timeline">
-			<destination>{3dfac1dd-6d6d-413d-92d9-964556fd65a7}</destination>
-		</relationship>
-		<relationship name="markerTrack">
-			<destination>{adb3c3b1-dd10-4e77-8503-6c017ec6a5cb}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{35dbcf31-00d6-4136-9e87-0aa664e6c1f0}">
@@ -205,7 +188,7 @@
 	</object>
 	<object class="AutomationPoint" id="{817707e1-3227-4ac3-af0e-08803eaaba6f}">
 		<property name="position">
-			<value>2.2000000000000002</value>
+			<value>2</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -216,7 +199,7 @@
 	</object>
 	<object class="AutomationPoint" id="{9222ef9c-018e-433d-928e-49f799d1068f}">
 		<property name="position">
-			<value>6.4400000000000004</value>
+			<value>2.5000000000000009</value>
 		</property>
 		<property name="value">
 			<value>0</value>
