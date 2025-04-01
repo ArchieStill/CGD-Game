@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\cgd-game\\prototype\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\prototype\\module.prototype.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\cgd-game\\prototype\\intermediate\\build\\win64\\x64\\prototypeeditor\\development\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "d:\\cgd-game\\prototype\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\prototype\\definitions.prototype.h",
+            "d:\\cgd-game\\prototype\\intermediate\\source\\prototype.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

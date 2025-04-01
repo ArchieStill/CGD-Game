@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodsnapshotreverb.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "d:\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\generatedcppincludes.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\metadata.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\textproperty.h",
+            "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodsnapshotreverb.h",
+            "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
+            "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodasset.generated.h",
+            "d:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\sound\\reverbeffect.h",
+            "d:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\reverbeffect.generated.h",
+            "d:\\cgd-game\\prototype\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodsnapshotreverb.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
