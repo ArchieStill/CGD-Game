@@ -119,6 +119,8 @@
 	<object class="MixerBusEffectChain" id="{ed278576-7426-42f0-82ec-b69c0ea3b5ce}">
 		<relationship name="effects">
 			<destination>{e933f77c-4f90-4cd3-864c-2a018473626d}</destination>
+			<destination>{ca723305-9b2a-459f-b2d5-484052466705}</destination>
+			<destination>{f13e8d5b-6626-4085-9de2-57046bf8fd2b}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{32973554-be7b-4639-8198-17de20c08cf8}" />
@@ -140,6 +142,28 @@
 	</object>
 	<object class="MixerBusPanner" id="{1fd76063-91ae-42d9-bccb-dc962355f6a9}" />
 	<object class="MixerBusFader" id="{e933f77c-4f90-4cd3-864c-2a018473626d}" />
+	<object class="DistortionEffect" id="{ca723305-9b2a-459f-b2d5-484052466705}">
+		<property name="level">
+			<value>0.38499999</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{59583957-4c13-41d2-8cae-d90a5ee70337}</destination>
+		</relationship>
+	</object>
+	<object class="MixerSend" id="{f13e8d5b-6626-4085-9de2-57046bf8fd2b}">
+		<property name="level">
+			<value>-17</value>
+		</property>
+		<property name="inputFormat">
+			<value>0</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{9e3f05a2-a91b-4579-86bc-a32953172bc9}</destination>
+		</relationship>
+		<relationship name="mixerReturn">
+			<destination>{763fdf32-1fb0-4d9c-88e7-77e88612ea58}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{293e1958-24fe-4d9e-a3e1-5e13e1695cfc}" />
 	<object class="MultibandEqEffect" id="{52fceb55-24af-4050-bfee-f2e143a9f569}">
 		<property name="filterTypeB">
@@ -165,6 +189,22 @@
 		<relationship name="modulators">
 			<destination>{99b5ae1e-aab7-45f4-98fa-d5655655764b}</destination>
 		</relationship>
+	</object>
+	<object class="RandomizerModulator" id="{59583957-4c13-41d2-8cae-d90a5ee70337}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>level</value>
+		</property>
+		<property name="amount">
+			<value>26</value>
+		</property>
+	</object>
+	<object class="RandomizerModulator" id="{9e3f05a2-a91b-4579-86bc-a32953172bc9}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>level</value>
+		</property>
+		<property name="amount">
+			<value>25</value>
+		</property>
 	</object>
 	<object class="RandomizerModulator" id="{99b5ae1e-aab7-45f4-98fa-d5655655764b}">
 		<property name="nameOfPropertyBeingModulated">

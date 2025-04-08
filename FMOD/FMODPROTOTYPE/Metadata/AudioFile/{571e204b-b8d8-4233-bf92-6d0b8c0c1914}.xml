@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{571e204b-b8d8-4233-bf92-6d0b8c0c1914}">
+		<property name="assetPath">
+			<value>Music/CGD UNI UP BEAT BOSS MUSIC (QMASTER &amp; INTRO).mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>109.71428571428571</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c052e8fe-babb-4ee0-af0c-b290ac72251c}</destination>
+		</relationship>
+	</object>
+</objects>
