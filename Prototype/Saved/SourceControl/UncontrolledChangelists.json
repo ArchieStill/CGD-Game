@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_Bumper.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/Blueprints/BPC_PlayerLinkTest.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/Blueprints/RelicPuzzle/BP_Disc.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/Blueprints/DeathSystem/BP_DeathBox.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Blueprints/RelicPuzzle2/BP_CodeCrystal.uasset",
 				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/Archie/Box_C1C4E7DA.uasset",
