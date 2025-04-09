@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap"
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Blueprints/RelicPuzzle2/BP_CodeCrystal.uasset",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/Archie/Box_C1C4E7DA.uasset",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Levels/CrystalLevel/CrystalFinale.umap"
 			]
 		}
 	]
