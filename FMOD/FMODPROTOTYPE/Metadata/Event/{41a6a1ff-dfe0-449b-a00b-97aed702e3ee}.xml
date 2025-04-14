@@ -186,7 +186,7 @@
 	</object>
 	<object class="NamedMarker" id="{f6947f2e-d541-4805-8eef-f64e3189dcbe}">
 		<property name="position">
-			<value>35</value>
+			<value>34.899999999999999</value>
 		</property>
 		<property name="name">
 			<value>FadeOut</value>
@@ -262,10 +262,10 @@
 	<object class="MixerBusFader" id="{fa4777c1-3154-4866-9505-a8df34899caa}" />
 	<object class="SpatialiserEffect" id="{55d4921b-68d3-4f0e-8dbf-22700637493d}">
 		<property name="minimumDistance">
-			<value>8</value>
+			<value>7</value>
 		</property>
 		<property name="maximumDistance">
-			<value>35</value>
+			<value>25</value>
 		</property>
 		<property name="overrideRange">
 			<value>true</value>
