@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c9fee8fa-1a79-4cd1-83d2-f60514da642a}">
+		<property name="assetPath">
+			<value>Player/Interaction/coin-flip-88793.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.536</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c052e8fe-babb-4ee0-af0c-b290ac72251c}</destination>
+		</relationship>
+	</object>
+</objects>
