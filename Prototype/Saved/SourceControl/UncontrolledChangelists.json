@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/CGD-Game/Prototype/Content/Audio/BP/BP_MusicTrigger.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/BoulderChaseFlat.umap",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Collectables/GoldCoin.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/8/U4/VFFGKG08JR3CAT746J84F0.uasset",
 				"F:/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap",
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/5/AL/43PDLX6LQ31ZWQS1HU0GMH.uasset",
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/5/WI/UG870DSWS9HSGLPQZMTDO5.uasset",
