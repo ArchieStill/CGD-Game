@@ -53,7 +53,7 @@
 			<destination>{b0384d6c-282e-4396-8308-22b29f04d673}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{0f32bcbd-e318-491e-9640-56d924f9dcd7}</destination>
+			<destination>{48023b54-5e93-4cba-bb0e-7da3ace3918f}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{18ea545a-d8e8-4e0f-8336-bcb1e1bdc5f7}" />
@@ -95,9 +95,8 @@
 		<property name="length">
 			<value>6.3551700680272107</value>
 		</property>
-		<property name="name" />
 		<property name="pitch">
-			<value>0.100000001</value>
+			<value>-2.60000014</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{4abc7b43-88bc-415e-8a1c-9903d29b6fda}</destination>
@@ -154,6 +153,7 @@
 		<relationship name="effects">
 			<destination>{aefd60b1-860a-4172-aaae-ae5cf65b4094}</destination>
 			<destination>{f6a496e9-abc8-49b3-ac45-2d66a8797b0a}</destination>
+			<destination>{3beca288-3097-493d-9685-ffff45cc8049}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{00b88b7c-4d02-45f4-8be1-d0ea3886f8d8}" />
@@ -161,9 +161,6 @@
 	<object class="SpatialiserEffect" id="{d902fd38-4638-4765-b15f-265b89251a7a}">
 		<property name="minimumDistance">
 			<value>7.20000029</value>
-		</property>
-		<property name="maximumDistance">
-			<value>25</value>
 		</property>
 		<property name="overrideRange">
 			<value>true</value>
@@ -191,6 +188,11 @@
 		</property>
 		<property name="gainC">
 			<value>-16.8038998</value>
+		</property>
+	</object>
+	<object class="LimiterEffect" id="{3beca288-3097-493d-9685-ffff45cc8049}">
+		<property name="boost">
+			<value>1.89999998</value>
 		</property>
 	</object>
 </objects>

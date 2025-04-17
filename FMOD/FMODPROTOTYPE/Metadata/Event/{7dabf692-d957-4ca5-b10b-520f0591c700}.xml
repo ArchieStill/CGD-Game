@@ -152,7 +152,7 @@
 			<value>pitch</value>
 		</property>
 		<property name="amount">
-			<value>15.5</value>
+			<value>8.5</value>
 		</property>
 	</object>
 	<object class="RandomizerModulator" id="{09fe3ca2-f64d-4e47-a0a3-7f7a2d71ed0a}">
@@ -160,7 +160,7 @@
 			<value>startOffset</value>
 		</property>
 		<property name="amount">
-			<value>12.5</value>
+			<value>9</value>
 		</property>
 	</object>
 	<object class="FadeCurve" id="{bf95941b-72e8-4558-869a-da0fafaf2d7f}">
@@ -274,7 +274,7 @@
 			<value>level</value>
 		</property>
 		<property name="amount">
-			<value>22.5</value>
+			<value>13.5</value>
 		</property>
 	</object>
 </objects>
