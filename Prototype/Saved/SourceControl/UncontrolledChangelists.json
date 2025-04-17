@@ -7,13 +7,15 @@
 			"files": [
 				"D:/CGD-Game/Prototype/Content/Blueprints/Boss/BP_BossNew.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/NewPuzzlesYay/9/1P/5BDWOLZUB1NIDW802TSKNT.uasset",
-				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/NewPuzzlesYay/7/4A/63O3WK2NJSQTMANZJDXNIB.uasset",
 				"D:/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/CGD-Game/Prototype/Content/Blueprints/Boss/BP_FinalGem.uasset",
-				"D:/CGD-Game/Prototype/Content/WBP/WBP_LevelEnd1.uasset",
 				"D:/CGD-Game/Prototype/Content/WBP/WBP_GameEnd.uasset",
-				"D:/CGD-Game/Prototype/Content/WBP/WBP_AlphaOver1.uasset",
-				"D:/CGD-Game/Prototype/Content/WBP/WBP_Credits.uasset"
+				"D:/CGD-Game/Prototype/Content/WBP/WBP_Credits.uasset",
+				"D:/CGD-Game/Prototype/Content/WBP/WBP_LevelEnd.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/BoulderChase/BP_KeyDoor.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/NewPuzzlesYay/7/4A/63O3WK2NJSQTMANZJDXNIB.uasset",
+				"D:/CGD-Game/Prototype/Content/WBP/WBP_LevelEnd1.uasset",
+				"D:/CGD-Game/Prototype/Content/WBP/WBP_AlphaOver1.uasset"
 			]
 		}
 	]
