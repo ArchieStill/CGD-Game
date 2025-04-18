@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{5be7cce7-18b7-46e2-8fbf-4866d8960cd3}">
+		<property name="name">
+			<value>LaserBeamSideChain</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{9a651edd-9a65-4181-9031-f95294c87479}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{95199a39-e423-46ab-b8ef-772fb049edc3}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{93c3ed0c-ce42-4e7e-9e0b-aef8de4e375d}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{9a651edd-9a65-4181-9031-f95294c87479}">
+		<relationship name="effects">
+			<destination>{2feb6c6c-78b2-412c-a610-03783407d87f}</destination>
+			<destination>{90a72e02-dc66-46b7-b5ee-fb19c1d84ac4}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{95199a39-e423-46ab-b8ef-772fb049edc3}" />
+	<object class="MixerBusFader" id="{2feb6c6c-78b2-412c-a610-03783407d87f}" />
+	<object class="Sidechain" id="{90a72e02-dc66-46b7-b5ee-fb19c1d84ac4}" />
+</objects>

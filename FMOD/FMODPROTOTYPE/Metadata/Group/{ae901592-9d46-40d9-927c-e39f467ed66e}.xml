@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{ae901592-9d46-40d9-927c-e39f467ed66e}">
+		<property name="name">
+			<value>LargeDebrisDucking</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{d48f1a28-7d71-4abb-9207-1513716ea134}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{80d19939-9b25-4bd5-bdc7-8cc2937d8d6b}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{93c3ed0c-ce42-4e7e-9e0b-aef8de4e375d}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{d48f1a28-7d71-4abb-9207-1513716ea134}">
+		<relationship name="effects">
+			<destination>{560f997e-d3d1-41b7-a267-f5add947761c}</destination>
+			<destination>{431adaf9-c287-45d1-b794-f3fc50e770c8}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{80d19939-9b25-4bd5-bdc7-8cc2937d8d6b}" />
+	<object class="MixerBusFader" id="{560f997e-d3d1-41b7-a267-f5add947761c}" />
+	<object class="CompressorEffect" id="{431adaf9-c287-45d1-b794-f3fc50e770c8}">
+		<property name="threshold">
+			<value>-22.5</value>
+		</property>
+		<property name="ratio">
+			<value>6.5999999</value>
+		</property>
+	</object>
+</objects>

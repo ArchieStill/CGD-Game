@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="MixerGroup" id="{f27644e7-9a64-4566-b2a0-28616c0fd6bf}">
+		<property name="volume">
+			<value>-6.5</value>
+		</property>
 		<property name="name">
 			<value>MusicBossDucking</value>
 		</property>
@@ -27,7 +30,7 @@
 			<value>-30</value>
 		</property>
 		<relationship name="sidechains">
-			<destination>{513e9291-d1f3-4612-aa27-7aee38d53f04}</destination>
+			<destination>{9511ac4a-f70b-44c0-8006-4106a342cf7f}</destination>
 		</relationship>
 	</object>
 </objects>

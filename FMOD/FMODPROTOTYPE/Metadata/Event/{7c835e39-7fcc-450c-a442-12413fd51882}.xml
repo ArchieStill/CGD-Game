@@ -124,6 +124,7 @@
 	<object class="MixerBusEffectChain" id="{11b02b60-af17-4571-83d1-868b6f3a8e3d}">
 		<relationship name="effects">
 			<destination>{f63c2db5-d93f-40ff-9c55-4ee115413cbb}</destination>
+			<destination>{4b3cf073-2f69-4a69-ab3a-c3c04016d033}</destination>
 			<destination>{dd8e66df-5d47-420b-933b-e7183966b00d}</destination>
 		</relationship>
 	</object>
@@ -146,6 +147,14 @@
 	</object>
 	<object class="MixerBusPanner" id="{d9f5b77d-d5d5-44fc-83bf-ede56779b411}" />
 	<object class="MixerBusFader" id="{f63c2db5-d93f-40ff-9c55-4ee115413cbb}" />
+	<object class="DistortionEffect" id="{4b3cf073-2f69-4a69-ab3a-c3c04016d033}">
+		<property name="level">
+			<value>0.344999999</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{1317f6c3-1498-4fe0-8973-8f8684a809e4}</destination>
+		</relationship>
+	</object>
 	<object class="MixerSend" id="{dd8e66df-5d47-420b-933b-e7183966b00d}">
 		<property name="level">
 			<value>-28.5</value>
@@ -193,6 +202,14 @@
 		</property>
 		<property name="qualityC">
 			<value>1.08943677</value>
+		</property>
+	</object>
+	<object class="RandomizerModulator" id="{1317f6c3-1498-4fe0-8973-8f8684a809e4}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>level</value>
+		</property>
+		<property name="amount">
+			<value>20.5</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{9f4b1ced-5637-43ea-8a90-89f3ecb422ab}">
