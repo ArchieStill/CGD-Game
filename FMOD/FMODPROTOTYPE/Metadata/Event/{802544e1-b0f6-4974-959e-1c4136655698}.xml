@@ -60,6 +60,9 @@
 		<property name="maxVoices">
 			<value>1</value>
 		</property>
+		<property name="triggerCooldown">
+			<value>500</value>
+		</property>
 	</object>
 	<object class="MarkerTrack" id="{841d6b30-da9c-440f-8735-e80e4f4ef32b}" />
 	<object class="GroupTrack" id="{546bf13b-6427-478a-9949-e7802321456a}">
@@ -113,6 +116,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{1a28b404-de11-409b-a3b2-5f7132c283d8}">
+		<property name="volume">
+			<value>-6.5</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -153,6 +159,7 @@
 		<relationship name="effects">
 			<destination>{200e6430-e384-4565-baa9-8135070a9a3e}</destination>
 			<destination>{7f158273-b453-4969-a4cc-12e95d641110}</destination>
+			<destination>{8321819f-dcdd-43ee-838a-01ff738dc3c2}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{ec53632b-062d-4b82-889a-a340659e496f}" />
@@ -196,5 +203,16 @@
 		<property name="qualityD">
 			<value>0.730814755</value>
 		</property>
+	</object>
+	<object class="MixerSend" id="{8321819f-dcdd-43ee-838a-01ff738dc3c2}">
+		<property name="level">
+			<value>-19.5</value>
+		</property>
+		<property name="inputFormat">
+			<value>1</value>
+		</property>
+		<relationship name="mixerReturn">
+			<destination>{763fdf32-1fb0-4d9c-88e7-77e88612ea58}</destination>
+		</relationship>
 	</object>
 </objects>

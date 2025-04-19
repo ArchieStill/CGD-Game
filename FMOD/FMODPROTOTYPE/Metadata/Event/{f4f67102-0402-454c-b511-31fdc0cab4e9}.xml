@@ -5,7 +5,7 @@
 			<value>PowerupAppear</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{f8c70c17-179d-4361-a318-513ae32ff285}</destination>
@@ -53,7 +53,7 @@
 			<destination>{68eeb27a-1316-451d-8dc7-b90f31bdb6c2}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{0f32bcbd-e318-491e-9640-56d924f9dcd7}</destination>
+			<destination>{08acafda-4bf0-41e9-bdc4-2a6210f3fca8}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{a57932e8-4d4c-4aeb-8a87-ff4b0e52f78e}" />
@@ -122,6 +122,7 @@
 	<object class="MixerBusEffectChain" id="{14f37864-5397-46a0-b723-85a30dac1d97}">
 		<relationship name="effects">
 			<destination>{c022deb4-4610-4807-a39c-fb3720888a85}</destination>
+			<destination>{69c64e63-f477-4ea6-b4d2-f08d25e9ae4d}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{01acfa8c-acd3-4ede-bf6d-33cceb020a7b}" />
@@ -152,6 +153,17 @@
 	</object>
 	<object class="MixerBusPanner" id="{f6361983-b5be-4170-84be-8632839568a1}" />
 	<object class="MixerBusFader" id="{c022deb4-4610-4807-a39c-fb3720888a85}" />
+	<object class="SpatialiserEffect" id="{69c64e63-f477-4ea6-b4d2-f08d25e9ae4d}">
+		<property name="minimumDistance">
+			<value>45</value>
+		</property>
+		<property name="maximumDistance">
+			<value>80</value>
+		</property>
+		<property name="overrideRange">
+			<value>true</value>
+		</property>
+	</object>
 	<object class="AutomationPoint" id="{ea304344-85e7-4636-84da-688c407fccbb}">
 		<property name="position">
 			<value>0</value>
