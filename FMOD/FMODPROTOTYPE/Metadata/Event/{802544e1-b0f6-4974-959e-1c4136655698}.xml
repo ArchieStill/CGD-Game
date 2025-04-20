@@ -117,7 +117,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{1a28b404-de11-409b-a3b2-5f7132c283d8}">
 		<property name="volume">
-			<value>-6.5</value>
+			<value>-3</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
@@ -206,13 +206,24 @@
 	</object>
 	<object class="MixerSend" id="{8321819f-dcdd-43ee-838a-01ff738dc3c2}">
 		<property name="level">
-			<value>-19.5</value>
+			<value>-10</value>
 		</property>
 		<property name="inputFormat">
 			<value>1</value>
 		</property>
+		<relationship name="modulators">
+			<destination>{40dd5e51-2016-4a2b-83b4-191d06679528}</destination>
+		</relationship>
 		<relationship name="mixerReturn">
 			<destination>{763fdf32-1fb0-4d9c-88e7-77e88612ea58}</destination>
 		</relationship>
+	</object>
+	<object class="RandomizerModulator" id="{40dd5e51-2016-4a2b-83b4-191d06679528}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>level</value>
+		</property>
+		<property name="amount">
+			<value>23.5</value>
+		</property>
 	</object>
 </objects>

@@ -124,6 +124,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{00101e6d-fb8a-4d8b-82d6-4fba2c666f18}">
+		<property name="volume">
+			<value>1.5</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -209,7 +212,7 @@
 	</object>
 	<object class="MixerSend" id="{56010a68-d4e6-4029-8653-a18f8e686f55}">
 		<property name="level">
-			<value>-6</value>
+			<value>-3</value>
 		</property>
 		<property name="inputFormat">
 			<value>1</value>
