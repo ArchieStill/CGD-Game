@@ -7,8 +7,34 @@
 			"files": [
 				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap",
 				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/WoodenTrapdoor/FloatingWoodenPlatform.uasset",
-				"D:/CGD-Game/Prototype/Content/Blueprints/Water.uasset",
-				"D:/CGD-Game/Prototype/Content/Blueprints/Water/Water.uasset"
+				"D:/CGD-Game/Prototype/Content/Blueprints/Water/Water.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/SwingMontage.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/BP_SwingHammer.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Assets/SwingingHammer_polySurface5_Skeleton.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Assets/SwingingHammer_pasted__polySurface10_Anim.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Assets/SwingingHammer_pasted__polySurface10_Skeleton.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Assets/SwingingHammer_pasted__polySurface8_Anim.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Assets/SwingingHammer_pasted__polySurface8_Skeleton.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Assets/SwingingHammer_polySurface2_Anim.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Assets/SwingingHammer_polySurface2_Skeleton.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Assets/SwingingHammer_polySurface5_Anim.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Assets/standardSurface1.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Assets/RightArm.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Assets/LeftArm.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/MiddleCog.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/LeftArm.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/RightArm.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Container.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Assets/Container.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Container_Skeleton.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/LeftArm_Skeleton.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Assets/MiddleCog.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/MiddleCog_Skeleton.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/RightArm_Skeleton.uasset",
+				"D:/CGD-Game/Prototype/Content/Models/standardSurface1.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/Assets/SwingingHammer.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/BoobyTrapLevel.umap",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Water.uasset"
 			]
 		}
 	]
