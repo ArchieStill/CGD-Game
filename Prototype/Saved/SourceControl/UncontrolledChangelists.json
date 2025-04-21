@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Levels/IntroCutscene.umap",
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Levels/IntroCutsceneIndoor.umap",
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Blueprints/Objects/BP_RoomTorch1.uasset",
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Blueprints/Hammer_Level/BP_RagdollActor1.uasset",
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Cutscenes/IntroIndoorLevelSequence.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap",
 				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/WoodenTrapdoor/FloatingWoodenPlatform.uasset",
 				"D:/CGD-Game/Prototype/Content/Blueprints/Water.uasset",
