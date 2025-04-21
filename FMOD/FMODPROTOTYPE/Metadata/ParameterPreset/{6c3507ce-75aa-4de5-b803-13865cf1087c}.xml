@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{6c3507ce-75aa-4de5-b803-13865cf1087c}">
+		<property name="name">
+			<value>DeathType</value>
+		</property>
+		<relationship name="folder">
+			<destination>{25e1f1bf-f15c-410a-86ec-924af1897ed6}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{68ea6d5e-f7d6-4934-b9c2-351eaf00d6c6}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{68ea6d5e-f7d6-4934-b9c2-351eaf00d6c6}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Falling</value>
+			<value>Damaged</value>
+			<value>Snakes</value>
+			<value>Water</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>
