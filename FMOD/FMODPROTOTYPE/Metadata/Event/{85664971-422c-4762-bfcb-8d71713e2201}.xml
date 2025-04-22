@@ -95,6 +95,9 @@
 		<property name="timelockedOffset">
 			<value>12.160000000000004</value>
 		</property>
+		<relationship name="modulators">
+			<destination>{6d816a30-68c2-45c1-8ccd-802d47c1020d}</destination>
+		</relationship>
 		<relationship name="fadeOutCurve">
 			<destination>{2ce7d9fd-b9e7-465e-88dc-18f901390df2}</destination>
 		</relationship>
@@ -103,6 +106,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{923134a1-f5a1-4944-b3e0-5111e62f3262}">
+		<property name="volume">
+			<value>-1.5</value>
+		</property>
 		<property name="name">
 			<value>Audio 2</value>
 		</property>
@@ -124,6 +130,14 @@
 	</object>
 	<object class="MixerBusPanner" id="{6c49efe3-9fc2-4c94-acb9-7811e47cb88a}" />
 	<object class="MixerBusFader" id="{b660a618-f45d-4bd8-aea4-ccc4f8ede80d}" />
+	<object class="RandomizerModulator" id="{6d816a30-68c2-45c1-8ccd-802d47c1020d}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>pitch</value>
+		</property>
+		<property name="amount">
+			<value>10.5</value>
+		</property>
+	</object>
 	<object class="FadeCurve" id="{2ce7d9fd-b9e7-465e-88dc-18f901390df2}">
 		<relationship name="startPoint">
 			<destination>{e2c576ab-41b3-4931-b39d-d21f8cc73851}</destination>
@@ -186,11 +200,14 @@
 	</object>
 	<object class="DelayEffect" id="{a11f6094-e801-4931-b3c4-d6e32796db7c}">
 		<property name="delay">
-			<value>90</value>
+			<value>100</value>
 		</property>
 		<property name="level">
-			<value>-19.5</value>
+			<value>-23.5</value>
 		</property>
+		<relationship name="modulators">
+			<destination>{e978d3fb-25c2-4b81-8ae8-08985586202c}</destination>
+		</relationship>
 	</object>
 	<object class="MixerSend" id="{daa2a20c-a40b-4055-a4c3-ab127287bc56}">
 		<property name="level">
@@ -205,6 +222,14 @@
 		<relationship name="mixerReturn">
 			<destination>{763fdf32-1fb0-4d9c-88e7-77e88612ea58}</destination>
 		</relationship>
+	</object>
+	<object class="RandomizerModulator" id="{e978d3fb-25c2-4b81-8ae8-08985586202c}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>level</value>
+		</property>
+		<property name="amount">
+			<value>17</value>
+		</property>
 	</object>
 	<object class="RandomizerModulator" id="{e11eb85c-b81b-4931-9934-90f91ae0bd05}">
 		<property name="nameOfPropertyBeingModulated">
