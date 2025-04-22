@@ -76,3 +76,5 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 Prototype/Saved/Logs/Prototype.log
+
+*.log
