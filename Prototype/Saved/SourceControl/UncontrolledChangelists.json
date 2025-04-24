@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_GreenKey.uasset",
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_QuadrupleKeyDoor.uasset",
 				"D:/CGD-Game/Prototype/Content/Particles/RaftFX.uasset",
 				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/WoodenTrapdoor/FloatingWoodenPlatform.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap",
