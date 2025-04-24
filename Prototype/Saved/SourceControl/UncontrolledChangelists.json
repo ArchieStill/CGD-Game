@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/CGD-Game/Prototype/Content/Particles/RaftFX.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/WoodenTrapdoor/FloatingWoodenPlatform.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap",
+				"D:/CGD-Game/Prototype/Content/Particles/RaftSplashFX.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/BoobyTrapLevel.umap",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/SwingingHammer/BP_SwingHammer.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/_GENERATED/c33carter/CubeGridToolOutput_0FE175B0.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/_GENERATED/c33carter/CubeGridToolOutput_29A8C321.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/_GENERATED/c33carter/CubeGridToolOutput_603C04C5.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/_GENERATED/c33carter/CubeGridToolOutput_951C6886.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/_GENERATED/c33carter/CubeGridToolOutput_9F22458C.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/_GENERATED/c33carter/CubeGridToolOutput_D10ECCF3.uasset",
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/2/FA/55DKP1L826RGBY2PO0O13R.uasset",
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/3/68/LXN0BGOWZYAFME2M3AEFLM.uasset",
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/4/ZK/KBGVI9RIXA4DWSV82L6I5M.uasset",
@@ -537,11 +549,7 @@
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/D/1U/YZ4355RN4ULUIHWN03X9TF.uasset",
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/9/BD/76VEXHNK5AMO5Z50IKSJOP.uasset",
 				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/9/6K/YRD6VS7WF4NAALWUT9DCKO.uasset",
-				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/3/83/BUDVZ0M7TYVTW4EP3XW1YS.uasset",
-				"D:/CGD-Game/Prototype/Content/Particles/RaftFX.uasset",
-				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/WoodenTrapdoor/FloatingWoodenPlatform.uasset",
-				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap",
-				"D:/CGD-Game/Prototype/Content/Particles/RaftSplashFX.uasset"
+				"F:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/3/83/BUDVZ0M7TYVTW4EP3XW1YS.uasset"
 			]
 		}
 	]
