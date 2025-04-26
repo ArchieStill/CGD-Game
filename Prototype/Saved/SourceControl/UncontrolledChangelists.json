@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/ART+VISUALS/BP_CliffCharacterCutscenes.uasset",
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Levels/IntroCutsceneIndoor.umap",
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Cutscenes/IntroIndoorLevelSequence.uasset",
 				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Audio/BP/BP_MusicPuzzle3.uasset",
 				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Audio/BP/BP_MenuAudioEngine1.uasset",
 				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Audio/BP/BP_IntroCutSceneAudioEngine.uasset",
