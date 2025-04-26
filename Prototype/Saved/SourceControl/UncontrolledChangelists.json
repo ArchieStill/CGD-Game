@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_Laser.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/Blueprints/Boss/BP_DebrisCluster.uasset",
+				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/NewPuzzlesYay/9/1P/5BDWOLZUB1NIDW802TSKNT.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/BoobyTrapLevel.umap",
 				"D:/CGD-Game/Prototype/Content/Levels/_GENERATED/c33carter/CubeGridToolOutput_0FE175B0.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap",
