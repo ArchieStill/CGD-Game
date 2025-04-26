@@ -5,32 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Audio/BP/BP_MusicPuzzle3.uasset",
-				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Audio/BP/BP_MenuAudioEngine1.uasset",
-				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Audio/BP/BP_IntroCutSceneAudioEngine.uasset",
-				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Levels/IntroCutsceneIndoor.umap",
-				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/FMOD/Events/Music/IntroCutScene.uasset",
-				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/FMOD/Events/Player/Interaction/HammerStatue.uasset",
-				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/FMOD/Events/Player/Interaction/BallPuzzle.uasset",
-				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/FMOD/Events/Player/Interaction/PlatformCogs.uasset",
-				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/FMOD/Events/Player/Interaction/DoorSmash.uasset",
-				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/FMOD/Events/Player/Interaction/CoinCollect.uasset",
-				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset",
-				"D:/CGD-Game/Prototype/Content/Levels/BoobyTrapLevel.umap",
-				"D:/CGD-Game/Prototype/Content/Levels/_GENERATED/c33carter/CubeGridToolOutput_0FE175B0.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap",
-				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/c33carter/CubeGridToolOutput_83C3F7D8.uasset",
-<<<<<<< HEAD
-				"D:/CGD-Game/Prototype/Content/Blueprints/Boss/BP_BossNew.uasset",
-				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Blueprints/Boss/BP_BossNew.uasset"
-=======
-				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_OrangeRaft.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Objects/BP_RelicTorch.uasset",
 				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_BlueP6Raft.uasset",
-				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/Archie/Box_40280DF2.uasset",
-				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/Archie/Box_C1C4E7DA.uasset",
-				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/Archie/Box_EC09C654.uasset"
->>>>>>> Level2PolishII
+				"D:/CGD-Game/Prototype/Content/Blueprints/RelicPuzzle2/BP_Secret2BumperActivator.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Objects/BP_RelicTorchSwitch.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_OrangeCrystalAutoBumper.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_OrangeCrystalMovingPlatform.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_OrangeCrystalPlatform.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_BlueCrystalMovingPlatform.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/Archie/Box_3088B2B5.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/Archie/Box_EC09C654.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/c33carter/CubeGridToolOutput_19FDB315.uasset"
 			]
 		}
 	]
