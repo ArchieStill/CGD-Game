@@ -19,7 +19,10 @@
 				"D:/CGD-Game/Prototype/Content/Levels/BoobyTrapLevel.umap",
 				"D:/CGD-Game/Prototype/Content/Levels/_GENERATED/c33carter/CubeGridToolOutput_0FE175B0.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap",
-				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/c33carter/CubeGridToolOutput_83C3F7D8.uasset"
+				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/c33carter/CubeGridToolOutput_83C3F7D8.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Boss/BP_BossNew.uasset",
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Blueprints/Boss/BP_BossNew.uasset"
 			]
 		}
 	]
