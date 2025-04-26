@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/41dan/Documents/Unreal Projects/CGD-Game/Prototype/Content/Blueprints/Boss/BP_BossNew.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/BoobyTrapLevel.umap",
 				"D:/CGD-Game/Prototype/Content/Levels/_GENERATED/c33carter/CubeGridToolOutput_0FE175B0.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap",
