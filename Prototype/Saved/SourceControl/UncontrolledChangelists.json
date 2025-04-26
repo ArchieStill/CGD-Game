@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Data/unreal/CGD-Game/Prototype/Content/Levels/CrystalLevel/CrystalFinale.umap",
+				"D:/Data/unreal/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_BlueCrystalPlatform.uasset",
+				"D:/Data/unreal/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_SpinnerBase.uasset",
+				"D:/Data/unreal/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_SpinnerType2.uasset",
+				"D:/Data/unreal/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_SpinnerType1.uasset",
+				"D:/Data/unreal/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_SpinnerType3.uasset",
 				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Audio/BP/BP_MusicPuzzle3.uasset",
 				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Audio/BP/BP_MenuAudioEngine1.uasset",
 				"C:/Users/riley/Documents/CGD-Game/Prototype/Content/Audio/BP/BP_IntroCutSceneAudioEngine.uasset",
