@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Truly/Documents/Uwe/Year 3/Commercial Game/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Truly/Documents/Uwe/Year 3/Commercial Game/CGD-Game/Prototype/Content/ThirdPerson/Input/Actions/IA_Select.uasset",
+				"C:/Users/Truly/Documents/Uwe/Year 3/Commercial Game/CGD-Game/Prototype/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Truly/Documents/Uwe/Year 3/Commercial Game/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_MenuSystem.uasset",
+				"C:/Users/Truly/Documents/Uwe/Year 3/Commercial Game/CGD-Game/Prototype/Content/Materials/M_MenuHigh.uasset",
+				"C:/Users/Truly/Documents/Uwe/Year 3/Commercial Game/CGD-Game/Prototype/Content/Materials/MI_MenuHigh.uasset",
+				"C:/Users/Truly/Documents/Uwe/Year 3/Commercial Game/CGD-Game/Prototype/Content/Levels/3DMainMenu.umap",
 				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/Levels/3DMainMenu.umap",
 				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/Tyler Flemans/Documents/UWE Work/Year 3/Comercial Game Development/CGD-Game/Prototype/Content/ART+VISUALS/LEVELS/MainMenuExampleLevel.umap",
