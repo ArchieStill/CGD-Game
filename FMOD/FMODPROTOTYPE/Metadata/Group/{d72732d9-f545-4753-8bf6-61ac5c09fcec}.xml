@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{d72732d9-f545-4753-8bf6-61ac5c09fcec}">
+		<property name="name">
+			<value>IntroCutSceneDucking</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{47ac8140-0dff-481a-9b4c-760284967c0a}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{2435b736-0e76-4f74-9cde-adb99cb3bfa3}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{18228b44-7850-4b2c-9aec-f9823ea87807}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{47ac8140-0dff-481a-9b4c-760284967c0a}">
+		<relationship name="effects">
+			<destination>{b41ec0ce-ac3c-4504-8a41-416d15febb0f}</destination>
+			<destination>{8e0ae569-5f48-4ad9-ad7a-2b4ac7583b19}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{2435b736-0e76-4f74-9cde-adb99cb3bfa3}" />
+	<object class="MixerBusFader" id="{b41ec0ce-ac3c-4504-8a41-416d15febb0f}" />
+	<object class="Sidechain" id="{8e0ae569-5f48-4ad9-ad7a-2b4ac7583b19}" />
+</objects>
