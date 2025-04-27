@@ -16,7 +16,22 @@
 				"D:/CGD-Game/Prototype/Content/Textures/Stone4/Stone4_Emissive.uasset",
 				"D:/CGD-Game/Prototype/Content/Textures/Stone4/HDRP_URP/Stone4_MaskMap.uasset",
 				"D:/CGD-Game/Prototype/Content/Textures/Stone4/HDRP_URP/Stone4_MetallicSmoothness.uasset",
-				"D:/CGD-Game/Prototype/Content/Textures/Stone4/Stone4_Roughness.uasset"
+				"D:/CGD-Game/Prototype/Content/Textures/Stone4/Stone4_Roughness.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/Trapdoor/BP_Trapdoor.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/DeathSystem/BP_DeathBox.uasset",
+				"D:/CGD-Game/Prototype/Content/Materials/Traps/M_OpacityVar.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/0/DK/F6THQ885E6XFZ2RNVEOJGI.uasset",
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/C/VC/49F27F921Q49CQAXQANZ91.uasset",
+				"D:/CGD-Game/Prototype/Content/Materials/ClayMaterials/M_LuminousClay.uasset",
+				"D:/CGD-Game/Prototype/Content/Materials/ClayMaterials/Section2/MI_CaveWallSection2.uasset",
+				"D:/CGD-Game/Prototype/Content/ART+VISUALS/Materials+Textures/Wall_Column/Wall_Column_Material.uasset",
+				"D:/CGD-Game/Prototype/Content/ART+VISUALS/Materials+Textures/Torch/Wood/Wood.uasset",
+				"D:/CGD-Game/Prototype/Content/ART+VISUALS/StaticMeshes/Wood_Material.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/BoulderChase/BP_KeyDoor.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/BoulderChaseFlat.umap",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/Dart_Trap/BP_DartBox.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/Dart_Trap/BP_PoisonDart.uasset"
 			]
 		}
 	]
