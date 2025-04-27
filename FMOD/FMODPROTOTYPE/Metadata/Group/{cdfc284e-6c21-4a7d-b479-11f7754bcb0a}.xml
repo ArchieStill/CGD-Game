@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{cdfc284e-6c21-4a7d-b479-11f7754bcb0a}">
+		<property name="name">
+			<value>IntroCutSceneDucking</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{8dc001c9-60ca-435e-9dd8-a8aab115c212}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{03ced5bc-6bbc-4092-b014-afe0cd434a91}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{6d2a1ad4-4576-46d3-bb04-1aa22630d7e3}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{8dc001c9-60ca-435e-9dd8-a8aab115c212}">
+		<relationship name="effects">
+			<destination>{72fe382d-f301-47b1-82b9-d0b7791d45ce}</destination>
+			<destination>{71f55df2-eaa5-48e7-9e06-8c7bd5bef372}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{03ced5bc-6bbc-4092-b014-afe0cd434a91}" />
+	<object class="MixerBusFader" id="{72fe382d-f301-47b1-82b9-d0b7791d45ce}" />
+	<object class="CompressorEffect" id="{71f55df2-eaa5-48e7-9e06-8c7bd5bef372}">
+		<property name="threshold">
+			<value>-30.5</value>
+		</property>
+		<relationship name="sidechains">
+			<destination>{8e0ae569-5f48-4ad9-ad7a-2b4ac7583b19}</destination>
+		</relationship>
+	</object>
+</objects>
