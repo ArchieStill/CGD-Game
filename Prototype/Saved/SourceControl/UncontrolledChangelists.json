@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/CGD-Game/Prototype/Content/Blueprints/Menu/BP_MenuController.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/3DMainMenu.umap",
+				"D:/CGD-Game/Prototype/Content/Blueprints/Menu/GM_Menu.uasset",
 				"C:/Users/Truly/Documents/Uwe/Year 3/Commercial Game/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/Truly/Documents/Uwe/Year 3/Commercial Game/CGD-Game/Prototype/Content/ThirdPerson/Input/Actions/IA_Select.uasset",
 				"C:/Users/Truly/Documents/Uwe/Year 3/Commercial Game/CGD-Game/Prototype/Content/ThirdPerson/Input/IMC_Default.uasset",
