@@ -37,6 +37,10 @@
 				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_RisingEnd.uasset",
 				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_RisingWater.uasset",
 				"D:/CGD-Game/Prototype/Content/Audio/BP/BP_MusicTrigger.uasset",
+				"D:/CGD-Game/Prototype/Content/WBP/ContinueButton/Continue.uasset",
+				"D:/CGD-Game/Prototype/Content/WBP/ContinueButton/ContinueBlue.uasset",
+				"D:/CGD-Game/Prototype/Content/WBP/WBP_LevelEnd.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_BlueCrystalWall.uasset",
 				"F:/CGD-Game/Prototype/Content/ART+VISUALS/StaticMeshes/Trap_Hammer_Body.uasset",
 				"F:/CGD-Game/Prototype/Content/ART+VISUALS/StaticMeshes/Trap_Hammer_Hammer.uasset"
 			]
