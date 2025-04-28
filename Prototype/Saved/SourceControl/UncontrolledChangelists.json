@@ -12,7 +12,13 @@
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/C/SS/SJ6274Y1IHEXB8J9LSZ9QE.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/4/PQ/5KPDP3IJ03QYZBDR7R1X2A.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/4/EU/W0A31R5559AEKY0DORX5OX.uasset",
-				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/E/ID/ENMOZJMAHN5Y1L1HO4AQPV.uasset"
+				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/E/ID/ENMOZJMAHN5Y1L1HO4AQPV.uasset",
+				"D:/CGD-Game/Prototype/Content/Enums/ENM_Scenes.uasset",
+				"D:/CGD-Game/Prototype/Content/WBP/SceneTransition.uasset",
+				"D:/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_MenuSystem.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/BoulderChase/BP_KeyDoor.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/BoulderChaseFlat.umap",
+				"D:/CGD-Game/Prototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
