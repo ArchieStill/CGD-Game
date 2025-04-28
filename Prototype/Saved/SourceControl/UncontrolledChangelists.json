@@ -41,6 +41,12 @@
 				"D:/CGD-Game/Prototype/Content/WBP/ContinueButton/ContinueBlue.uasset",
 				"D:/CGD-Game/Prototype/Content/WBP/WBP_LevelEnd.uasset",
 				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_BlueCrystalWall.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_ActivateStatue.uasset",
+				"D:/CGD-Game/Prototype/Content/Audio/BP/BP_SecretFoundTrigger2.uasset",
+				"D:/CGD-Game/Prototype/Content/Materials/Crystal/M_PurpleRaft.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_BlueCrystal.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/Archie/Box_C1C4E7DA.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/a2still/P6RSide.uasset",
 				"F:/CGD-Game/Prototype/Content/ART+VISUALS/StaticMeshes/Trap_Hammer_Body.uasset",
 				"F:/CGD-Game/Prototype/Content/ART+VISUALS/StaticMeshes/Trap_Hammer_Hammer.uasset"
 			]
