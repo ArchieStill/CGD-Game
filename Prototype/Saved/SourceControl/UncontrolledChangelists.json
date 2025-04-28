@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/CGD-Game/Prototype/Content/ART+VISUALS/StaticMeshes/Trap_Hammer_Body.uasset",
+				"F:/CGD-Game/Prototype/Content/ART+VISUALS/StaticMeshes/Trap_Hammer_Hammer.uasset",
 				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_FalseHammerHitWhenPlayerHit.uasset",
 				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_FalseHammerHitWhenPlayerHitRotating.uasset",
 				"D:/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/E/7C/38B8TZIFOTTMQGWU0A1L9A.uasset",
