@@ -31,7 +31,10 @@
 				"D:/CGD-Game/Prototype/Content/Levels/AlphaEnding/BoulderChaseFlat.umap",
 				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/Dart_Trap/BP_DartBox.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/NewCrystals.umap",
-				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/Dart_Trap/BP_PoisonDart.uasset"
+				"D:/CGD-Game/Prototype/Content/Blueprints/Traps/Dart_Trap/BP_PoisonDart.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/BoulderChase/BP_ChaseBoulder.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/BoulderChase/BoulderCrack.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_FalseHammerHitWhenPlayerHit.uasset"
 			]
 		}
 	]
