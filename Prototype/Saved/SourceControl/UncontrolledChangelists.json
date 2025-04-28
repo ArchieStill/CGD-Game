@@ -25,6 +25,18 @@
 				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/Archie/Box_EC09C654.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/a2still/Box_13CAA7D7.uasset",
 				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/Archie/Box_3088B2B5.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_BlueCrystalMovingPlatform.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_Key.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_BlueKey.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_GreenKey.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_RedKey.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/Archie/Box_40280DF2.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/_GENERATED/a2still/Box_EED35D79.uasset",
+				"D:/CGD-Game/Prototype/Content/Levels/CrystalLevel/CrystalFinale.umap",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_SpinnerType3.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_RisingEnd.uasset",
+				"D:/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/CrystalStuff/BP_RisingWater.uasset",
+				"D:/CGD-Game/Prototype/Content/Audio/BP/BP_MusicTrigger.uasset",
 				"F:/CGD-Game/Prototype/Content/ART+VISUALS/StaticMeshes/Trap_Hammer_Body.uasset",
 				"F:/CGD-Game/Prototype/Content/ART+VISUALS/StaticMeshes/Trap_Hammer_Hammer.uasset"
 			]
