@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Blueprints/Collectables/GoldCoin.uasset",
+				"D:/Documents/!UNI WORK/Third Year/CGD/CGD-Game/Prototype/Content/Blueprints/DeathSystem/BP_Checkpoint.uasset",
 				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/Blueprints/PuzzleObjects/BP_Bumper.uasset",
 				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/Blueprints/Collectables/BP_MagnetCollectibles.uasset",
 				"D:/Work/Uni/Year 3/Purple Flare/CGD-Game/Prototype/Content/__ExternalActors__/Levels/SimplePuzzles/SimplePuzzlesRemade/C/6B/NAKH6WWLP9FTZ8KUZGMQQM.uasset",
